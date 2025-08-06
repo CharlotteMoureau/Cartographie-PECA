@@ -16,6 +16,7 @@ export async function getLibrairiesMarkers() {
     const props = feature.properties;
     const popupContent = `
       <strong>${props.Dénomination || "Librairie"}</strong><br>
+      Type d'opérateur culturel : ${props["Unnamed: 1"] || "Librairie"}<br>
       ${props.Adresse || ""}, ${props["Code postal"] || ""} ${
       props.Localité || ""
     }

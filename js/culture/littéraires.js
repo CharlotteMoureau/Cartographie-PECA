@@ -16,6 +16,7 @@ export async function getLittMarkers(icon) {
     const props = feature.properties;
     const popupContent = `
       <strong>${props.Dénomination || "OC Littéraire"}</strong><br>
+      Type d'opérateur culturel : ${props["Unnamed: 1"] || "OC Littéraire"}<br>
       ${props.Adresse || ""}, ${props["Code postal"] || ""} ${
       props.Localité || ""
     }

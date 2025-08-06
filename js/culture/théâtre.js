@@ -16,6 +16,7 @@ export async function getThéâtreMarkers(icon) {
     const props = feature.properties;
     const popupContent = `
       <strong>${props.Salle || "Théâtre"}</strong><br>
+      Type d'opérateur culturel : ${props.Type || "Concert & théâtre"}<br>
       ${props.Adresse || ""}, ${props["Code postal"] || ""} ${props.Ville || ""}
     `;
     return L.marker(latlng, { icon: iconThéâtre }).bindPopup(popupContent);

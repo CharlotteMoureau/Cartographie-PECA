@@ -16,6 +16,9 @@ export async function getCentreArchiveMarkers(icon) {
     const props = feature.properties;
     const popupContent = `
       <strong>${props.Dénomination || "CentreArchive"}</strong><br>
+      Type d'opérateur culturel : ${
+        props["Unnamed: 1"] || "Centre d'archives"
+      }<br>
       ${props.Adresse || ""}, ${props["Code postal"] || ""} ${
       props.Localité || ""
     }
