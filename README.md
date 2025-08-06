@@ -21,10 +21,7 @@ Visualiser de manière intuitive les acteurs et infrastructures liés au program
 
 ## Technologies utilisées
 
-- [Leaf://leafletjs.com/ – Librairie JS pour la cartographie interactive
+- [Leaf://leafletjs.com/](https://leafletjs.com/) – Librairie JS pour la cartographie interactive
 - JavaScript (vanilla)
 - HTML / CSS
 - GeoJSON
-
-## Structure du projet
-
