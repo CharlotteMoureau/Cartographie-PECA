@@ -1,0 +1,2452 @@
+{
+    "type": "FeatureCollection",
+    "name": "Salle projection & Cinéma",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ages et Images",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue Josaphat 253",
+                "Code postal": 1030,
+                "Ville": "Schaerbeek",
+                "Géolocalisation": "50.863087922872126, 4.376196882019961",
+                "lat": 50.863087922872126,
+                "lon": 4.3761968820199613
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.376196882019961,
+                    50.863087922872126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Al Pirate Movie Club",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue Pied-du-Pont-des-Arches 3",
+                "Code postal": 4000,
+                "Ville": "Liège",
+                "Géolocalisation": "50.64447334497798, 5.577931810845199",
+                "lat": 50.644473344977982,
+                "lon": 5.5779318108451994
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.577931810845199,
+                    50.644473344977982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Aula Magna",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Place Raymond Lemaire 1",
+                "Code postal": 1348,
+                "Ville": "Louvain-la-Neuve",
+                "Géolocalisation": "50.668757071133406, 4.610065582011099",
+                "lat": 50.668757071133406,
+                "lon": 4.6100655820110994
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.610065582011099,
+                    50.668757071133406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "CID",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue Sainte Louise 82",
+                "Code postal": 7301,
+                "Ville": "Hornu",
+                "Géolocalisation": "50.43508238853413, 3.8375869712851647",
+                "lat": 50.435082388534127,
+                "lon": 3.8375869712851647
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.837586971285165,
+                    50.435082388534127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné Canapés",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue de Locht 91-93",
+                "Code postal": 1030,
+                "Ville": "Schaerbeek",
+                "Géolocalisation": "50.863774431456335, 4.371867708537711",
+                "lat": 50.863774431456335,
+                "lon": 4.3718677085377111
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.371867708537711,
+                    50.863774431456335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné Caquettes",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue Joseph Lonnoy 14",
+                "Code postal": 5170,
+                "Ville": "Profondeville",
+                "Géolocalisation": "50.37732731354016, 4.873959581997928",
+                "lat": 50.377327313540157,
+                "lon": 4.8739595819979282
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.873959581997928,
+                    50.377327313540157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné Club Studio 5",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Avenue Fernand Golenvaux 18,",
+                "Code postal": 5000,
+                "Ville": "Namur",
+                "Géolocalisation": "50.462544648353095, 4.868574139004719",
+                "lat": 50.462544648353095,
+                "lon": 4.8685741390047186
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.868574139004719,
+                    50.462544648353095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné jeune public",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Chaussée de Wavre 366",
+                "Code postal": 1040,
+                "Ville": "Etterbeek",
+                "Géolocalisation": "50.836764486410466, 4.38036175318357",
+                "lat": 50.836764486410466,
+                "lon": 4.3803617531835704
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.38036175318357,
+                    50.836764486410466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné soupe au Théâtre de la Valette",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue Basse 11",
+                "Code postal": 1460,
+                "Ville": "Ittre",
+                "Géolocalisation": "50.64908543946485, 4.26371489550467",
+                "lat": 50.649085439464848,
+                "lon": 4.2637148955046698
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.26371489550467,
+                    50.649085439464848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-club allemand du CEA",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Place Cockerill 3-5",
+                "Code postal": 4000,
+                "Ville": "Liège",
+                "Géolocalisation": "50.64099321269116, 5.574891938787892",
+                "lat": 50.640993212691157,
+                "lon": 5.5748919387878919
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.574891938787892,
+                    50.640993212691157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-club d'Anderlecht - Salle Molière",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue d'Aumale 2",
+                "Code postal": 1070,
+                "Ville": "Anderlecht",
+                "Géolocalisation": "50.83695812980687, 4.307187155029883",
+                "lat": 50.836958129806867,
+                "lon": 4.307187155029883
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.307187155029883,
+                    50.836958129806867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-club de L’ESA ST-Luc",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue Mathieu Polain 4",
+                "Code postal": 4020,
+                "Ville": "Liège",
+                "Géolocalisation": "50.64412737960548, 5.5819181644228735",
+                "lat": 50.644127379605479,
+                "lon": 5.5819181644228735
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.581918164422873,
+                    50.644127379605479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-club de l'INSAS",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue Thérésienne 8",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.8400375822719, 4.361369242461009",
+                "lat": 50.840037582271897,
+                "lon": 4.3613692424610093
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.361369242461009,
+                    50.840037582271897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-Club de Rixensart",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Place communale 38",
+                "Code postal": 1332,
+                "Ville": "Genval",
+                "Géolocalisation": "50.71683174669308, 4.49808571349075",
+                "lat": 50.716831746693082,
+                "lon": 4.4980857134907497
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.49808571349075,
+                    50.716831746693082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-club de Spa-Jalhay-Stoumont",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue Servais 8",
+                "Code postal": 4900,
+                "Ville": "Spa",
+                "Géolocalisation": "50.49150850704204, 5.865947639673501",
+                "lat": 50.491508507042042,
+                "lon": 5.8659476396735011
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.865947639673501,
+                    50.491508507042042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-Club des Libertés",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Avenue de Stalingrad 18-20",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.84200276249969, 4.345189526217809",
+                "lat": 50.842002762499689,
+                "lon": 4.3451895262178093
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.345189526217809,
+                    50.842002762499689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-Club du Moulin Klepper",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue du Moulin 12",
+                "Code postal": 6840,
+                "Ville": "Neufchâteau",
+                "Géolocalisation": "49.838535691468856, 5.43188068476353",
+                "lat": 49.838535691468856,
+                "lon": 5.4318806847635299
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.43188068476353,
+                    49.838535691468856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-Club Educatif et Culturel - Imagix",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue de la Baille 19",
+                "Code postal": 7870,
+                "Ville": "Lens",
+                "Géolocalisation": "50.55896852542148, 3.901639096682917",
+                "lat": 50.558968525421477,
+                "lon": 3.9016390966829171
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.901639096682917,
+                    50.558968525421477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-club Espace Florenville",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue du Château 3",
+                "Code postal": 6820,
+                "Ville": "Florenville",
+                "Géolocalisation": "49.700522067895065, 5.310105713595001",
+                "lat": 49.700522067895065,
+                "lon": 5.3101057135950009
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.310105713595001,
+                    49.700522067895065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-club initérant",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Avenue du Chêne 206",
+                "Code postal": 4800,
+                "Ville": "Verviers",
+                "Géolocalisation": "50.569402529482545, 5.868327424336271",
+                "lat": 50.569402529482545,
+                "lon": 5.8683274243362709
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.868327424336271,
+                    50.569402529482545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "CinéClub Louvain-la-Neuve",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Cinescope - Grand Place 55",
+                "Code postal": 1348,
+                "Ville": "Louvain-la-Neuve",
+                "Géolocalisation": "50.66908395263599, 4.611427396552592",
+                "lat": 50.669083952635987,
+                "lon": 4.6114273965525916
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.611427396552592,
+                    50.669083952635987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-Club New Cubitus",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Avenue du Capricorne 1a",
+                "Code postal": 1200,
+                "Ville": "Woluwe-Saint-Lambert",
+                "Géolocalisation": "50.85330087766118, 4.418502987698755",
+                "lat": 50.853300877661177,
+                "lon": 4.4185029876987549
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.418502987698755,
+                    50.853300877661177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-club Nickelodéon",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Place du XX août 7",
+                "Code postal": 4000,
+                "Ville": "Liège",
+                "Géolocalisation": "50.6412367547467, 5.576022213487782",
+                "lat": 50.6412367547467,
+                "lon": 5.5760222134877822
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.576022213487782,
+                    50.6412367547467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-Club Travers Emotion au 71",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue Alphonse Robert 71",
+                "Code postal": 1315,
+                "Ville": "Incourt",
+                "Géolocalisation": "50.68032673087777, 4.760917568517195",
+                "lat": 50.680326730877773,
+                "lon": 4.7609175685171952
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.760917568517195,
+                    50.680326730877773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinédames",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue Dupont 67",
+                "Code postal": 1030,
+                "Ville": "Schaerbeek",
+                "Géolocalisation": "50.85890664039165, 4.36621622434939",
+                "lat": 50.858906640391652,
+                "lon": 4.3662162243493903
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.36621622434939,
+                    50.858906640391652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-débat de la Maison de la Laïcité",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue des Deux Ponts 19",
+                "Code postal": 1340,
+                "Ville": "Ottignies",
+                "Géolocalisation": "50.668982970639895, 4.572204668516719",
+                "lat": 50.668982970639895,
+                "lon": 4.5722046685167186
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.572204668516719,
+                    50.668982970639895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-débat de Maison de la Laïcïté Condorcet",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Avenue du Centenaire 20",
+                "Code postal": 1320,
+                "Ville": "Beauvechain",
+                "Géolocalisation": "50.7777428133878, 4.715595412697561",
+                "lat": 50.777742813387803,
+                "lon": 4.715595412697561
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.715595412697561,
+                    50.777742813387803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-Dour",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rèsidence Christina Lodges 20",
+                "Code postal": 7030,
+                "Ville": "Dour",
+                "Géolocalisation": "50.4344718163656, 3.9958024108357004",
+                "lat": 50.434471816365601,
+                "lon": 3.9958024108357004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9958024108357,
+                    50.434471816365601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "CinéGrez",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Place Gustave Baugniet 1b",
+                "Code postal": 1390,
+                "Ville": "Grez-Doiceau",
+                "Géolocalisation": "50.73732019026581, 4.701744126983851",
+                "lat": 50.737320190265812,
+                "lon": 4.7017441269838507
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.701744126983851,
+                    50.737320190265812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéma des résistances",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Place Albert 1er 16A",
+                "Code postal": 7140,
+                "Ville": "Morlanwelz",
+                "Géolocalisation": "50.45724792133306, 4.246504684780194",
+                "lat": 50.457247921333057,
+                "lon": 4.2465046847801942
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.246504684780194,
+                    50.457247921333057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéma Drive-In de Médiacité",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Boulevard Raymond Poincaré 7",
+                "Code postal": 4020,
+                "Ville": "Liège",
+                "Géolocalisation": "50.63211769041308, 5.58011461177384",
+                "lat": 50.632117690413082,
+                "lon": 5.5801146117738396
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.58011461177384,
+                    50.632117690413082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéma Jean Novelty",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue de Tournai 59",
+                "Code postal": 7900,
+                "Ville": "Leuze-en-Hainaut",
+                "Géolocalisation": "50.599755828929375, 3.6251055827990952",
+                "lat": 50.599755828929375,
+                "lon": 3.6251055827990952
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.625105582799095,
+                    50.599755828929375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-monde",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue du Centre 17",
+                "Code postal": 6791,
+                "Ville": "Aubange",
+                "Géolocalisation": "49.56324403813994, 5.836400628789882",
+                "lat": 49.563244038139942,
+                "lon": 5.8364006287898818
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.836400628789882,
+                    49.563244038139942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinémusée",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Féronstrée 136",
+                "Code postal": 4000,
+                "Ville": "Liège",
+                "Géolocalisation": "50.64741645621652, 5.583286555950205",
+                "lat": 50.647416456216519,
+                "lon": 5.5832865559502052
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.583286555950205,
+                    50.647416456216519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéphage",
+                "Catégorie": "Ciné-club",
+                "Adresse": "ULB-Campus du Solbosch",
+                "Code postal": 1050,
+                "Ville": "Ixelles",
+                "Géolocalisation": "50.812440785245386, 4.382125130203633",
+                "lat": 50.812440785245386,
+                "lon": 4.382125130203633
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.382125130203633,
+                    50.812440785245386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-Phare",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Chaussée de Waterloo 935",
+                "Code postal": 1180,
+                "Ville": "Uccle",
+                "Géolocalisation": "50.80738717816024, 4.370631966010618",
+                "lat": 50.807387178160241,
+                "lon": 4.3706319660106177
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.370631966010618,
+                    50.807387178160241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné-Récré/Ciné-Débat",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue Albert 1er 18",
+                "Code postal": 4470,
+                "Ville": "Saint-Georges-sur-Meuse",
+                "Géolocalisation": "50.60113830639181, 5.35590134232213",
+                "lat": 50.60113830639181,
+                "lon": 5.35590134232213
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.35590134232213,
+                    50.60113830639181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinésoupe",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue de l'Aubépine 3",
+                "Code postal": 5570,
+                "Ville": "Beauraing",
+                "Géolocalisation": "50.109163766267564, 4.96002826849144",
+                "lat": 50.109163766267564,
+                "lon": 4.9600282684914401
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.96002826849144,
+                    50.109163766267564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Gare aux enfants-(MC Gare",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue du Champ de l’Eglise 2",
+                "Code postal": 1020,
+                "Ville": "Laeken",
+                "Géolocalisation": "50.87780835572822, 4.3548280531854235",
+                "lat": 50.87780835572822,
+                "lon": 4.3548280531854235
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.354828053185424,
+                    50.87780835572822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Kinoféroce",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue Edouard Stuckens 160",
+                "Code postal": 1140,
+                "Ville": "Evere",
+                "Géolocalisation": "50.87682838639481, 4.399979539031101",
+                "lat": 50.876828386394813,
+                "lon": 4.3999795390311007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.399979539031101,
+                    50.876828386394813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Kinoféroce  Kinograph",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Place Sainte-Croix",
+                "Code postal": 1050,
+                "Ville": "Ixelles",
+                "Géolocalisation": "50.82690559359882, 4.372678470560333",
+                "lat": 50.826905593598823,
+                "lon": 4.3726784705603334
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.372678470560333,
+                    50.826905593598823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Kinoféroce Aquilone",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Boulevard Saucy 25",
+                "Code postal": 4020,
+                "Ville": "Liège",
+                "Géolocalisation": "50.64153935782635, 5.58067275502101",
+                "lat": 50.641539357826353,
+                "lon": 5.58067275502101
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.58067275502101,
+                    50.641539357826353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "La Scène du Bocage",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Place de l'Hôtel de Ville 18",
+                "Code postal": 4650,
+                "Ville": "Herve",
+                "Géolocalisation": "50.64004929101001, 5.7941544686074336",
+                "lat": 50.640049291010008,
+                "lon": 5.7941544686074336
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.794154468607434,
+                    50.640049291010008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Le Bunker Ciné Théatre",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue des Plantes 66 A",
+                "Code postal": 1210,
+                "Ville": "Saint-Josse-ten-Noode",
+                "Géolocalisation": "50.85782309149698, 4.362481895271069",
+                "lat": 50.857823091496982,
+                "lon": 4.3624818952710687
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.362481895271069,
+                    50.857823091496982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Le cercle du Laveu",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue des Wallons 45",
+                "Code postal": 4000,
+                "Ville": "Liège",
+                "Géolocalisation": "50.63080624377421, 5.558640344301641",
+                "lat": 50.630806243774209,
+                "lon": 5.558640344301641
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.558640344301641,
+                    50.630806243774209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Le Ciné en famille à Verviers",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Boulevard des Gérardchamps 7C",
+                "Code postal": 4800,
+                "Ville": "Verviers",
+                "Géolocalisation": "50.59331053016581, 5.847833211634727",
+                "lat": 50.593310530165809,
+                "lon": 5.8478332116347271
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.847833211634727,
+                    50.593310530165809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Le Ciné en plein air",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue Saint-Paul 14",
+                "Code postal": 7130,
+                "Ville": "Binche",
+                "Géolocalisation": "50.410417930073564, 4.166002597340191",
+                "lat": 50.410417930073564,
+                "lon": 4.1660025973401913
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.166002597340191,
+                    50.410417930073564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Les Ciné-clubs du CCLJ",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue de l’Hôtel des Monnaies 52",
+                "Code postal": 1060,
+                "Ville": "Saint-Gilles",
+                "Géolocalisation": "50.83143217383233, 4.349032608088275",
+                "lat": 50.831432173832333,
+                "lon": 4.3490326080882751
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.349032608088275,
+                    50.831432173832333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Les Ciné-débats CAL Charleroi",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue de France 31",
+                "Code postal": 6000,
+                "Ville": "Charleroi",
+                "Géolocalisation": "50.4111134356498, 4.441804842449326",
+                "lat": 50.411113435649803,
+                "lon": 4.4418048424493257
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.441804842449326,
+                    50.411113435649803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Les Ciné-débats Maison Communautaire de Strée",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue Mestriaux 74",
+                "Code postal": 6511,
+                "Ville": "Strée",
+                "Géolocalisation": "50.27284723691047, 4.275539811764091",
+                "lat": 50.272847236910472,
+                "lon": 4.2755398117640908
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.275539811764091,
+                    50.272847236910472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Les Ciné-débats Maison de la Laïcité de Chimay",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue de la Soque 12",
+                "Code postal": 6460,
+                "Ville": "Chimay",
+                "Géolocalisation": "50.04734389434014, 4.315477483829398",
+                "lat": 50.047343894340138,
+                "lon": 4.3154774838293983
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.315477483829398,
+                    50.047343894340138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Les Ciné-débats Maison de la Laïcité de Fleurus",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue Jh. Lefebvre 74",
+                "Code postal": 6220,
+                "Ville": "Fleurus",
+                "Géolocalisation": "50.48065128720449, 4.549733654099352",
+                "lat": 50.480651287204488,
+                "lon": 4.5497336540993523
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.549733654099352,
+                    50.480651287204488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Les Ciné-débats Maison de la Laïcité de Fontaine-L’Évêque",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Place Degauque 1",
+                "Code postal": 6142,
+                "Ville": "Fontaine-l'Évêque",
+                "Géolocalisation": "50.39765471949221, 4.330638454097105",
+                "lat": 50.397654719492209,
+                "lon": 4.3306384540971052
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.330638454097105,
+                    50.397654719492209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Les Ciné-débats Maison de la Laïcité de l’Entité Courcelloise",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue Emile Vandervelde 5",
+                "Code postal": 6182,
+                "Ville": "Courcelles",
+                "Géolocalisation": "50.44760234648627, 4.353576828955902",
+                "lat": 50.447602346486271,
+                "lon": 4.3535768289559016
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.353576828955902,
+                    50.447602346486271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Les Ciné-débats Maison de la Laïcité de Pont-à-Celles",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue de l'Eglise 7",
+                "Code postal": 6230,
+                "Ville": "Pont-à-Celles",
+                "Géolocalisation": "50.51159869282078, 4.3628657559465065",
+                "lat": 50.511598692820783,
+                "lon": 4.3628657559465065
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.362865755946506,
+                    50.511598692820783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Les Jeudis du Cinéma au Vendôme",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Chaussée de Wavre 18",
+                "Code postal": 1050,
+                "Ville": "Ixelles",
+                "Géolocalisation": "50.837467685511264, 4.362908694339382",
+                "lat": 50.837467685511264,
+                "lon": 4.3629086943393824
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.362908694339382,
+                    50.837467685511264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Les lundis du Ciné-club",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Boulevard du Souverain 183",
+                "Code postal": 1160,
+                "Ville": "Auderghem",
+                "Géolocalisation": "50.8173003702767, 4.427185983214831",
+                "lat": 50.817300370276698,
+                "lon": 4.427185983214831
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.427185983214831,
+                    50.817300370276698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Les Midis du Cinéma",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue de la Régence 3",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.841671210179385, 4.358198884424393",
+                "lat": 50.841671210179385,
+                "lon": 4.3581988844243931
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.358198884424393,
+                    50.841671210179385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Les projections du Columban",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Chemin de Vieusart 162",
+                "Code postal": 1300,
+                "Ville": "Wavre",
+                "Géolocalisation": "50.69394581283538, 4.626545395506699",
+                "lat": 50.693945812835381,
+                "lon": 4.6265453955066986
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.626545395506699,
+                    50.693945812835381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Les Samedis du Ciné au Vendôme",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Chaussée de Wavre 18",
+                "Code postal": 1050,
+                "Ville": "Ixelles",
+                "Géolocalisation": "50.837467685511264, 4.362908694339382",
+                "lat": 50.837467685511264,
+                "lon": 4.3629086943393824
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.362908694339382,
+                    50.837467685511264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Les Soirées du Film Nature",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Place de l'Hôtel de Ville",
+                "Code postal": 4650,
+                "Ville": "Herve",
+                "Géolocalisation": "50.64004929101001, 5.7941544686074336",
+                "lat": 50.640049291010008,
+                "lon": 5.7941544686074336
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.794154468607434,
+                    50.640049291010008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Les Toiles Quiévrainoises en plein air",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue de la Gare 1B",
+                "Code postal": 7380,
+                "Ville": "Quiévrain",
+                "Géolocalisation": "50.40788383902607, 3.684324070426373",
+                "lat": 50.40788383902607,
+                "lon": 3.6843240704263729
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.684324070426373,
+                    50.40788383902607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "LPC - Regards sur les Docs",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue du Fort 5",
+                "Code postal": 1060,
+                "Ville": "Saint-Gilles",
+                "Géolocalisation": "50.829932944554805, 4.343448121039662",
+                "lat": 50.829932944554805,
+                "lon": 4.3434481210396623
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.343448121039662,
+                    50.829932944554805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Maison de l'Amérique Latine",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue du Collège 27",
+                "Code postal": 1050,
+                "Ville": "Ixelles",
+                "Géolocalisation": "50.832341573419974, 4.3692964662697324",
+                "lat": 50.832341573419974,
+                "lon": 4.3692964662697324
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.369296466269732,
+                    50.832341573419974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Muséum des Sciences Naturelles",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue Vautier 29",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.83736710584463, 4.376510400839111",
+                "lat": 50.837367105844628,
+                "lon": 4.3765104008391109
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.376510400839111,
+                    50.837367105844628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Short Screens",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Rue des Fripers 15 - Galerie du centre 57",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.84870988747012, 4.35220273100096",
+                "lat": 50.848709887470122,
+                "lon": 4.3522027310009603
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35220273100096,
+                    50.848709887470122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Smala Cinéma",
+                "Catégorie": "Ciné-club",
+                "Adresse": "Place Maurice Van Meenen 2",
+                "Code postal": 1060,
+                "Ville": "Saint-Gilles",
+                "Géolocalisation": "50.82518137080059, 4.344789284790251",
+                "lat": 50.825181370800593,
+                "lon": 4.3447892847902514
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344789284790251,
+                    50.825181370800593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Acinapolis",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue de la Gare fleurie 16",
+                "Code postal": 5100,
+                "Ville": "Jambes",
+                "Géolocalisation": "50.453972317567775, 4.874331013480538",
+                "lat": 50.453972317567775,
+                "lon": 4.8743310134805382
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.874331013480538,
+                    50.453972317567775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Bouillon Ciné",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue du Nord 1",
+                "Code postal": 6830,
+                "Ville": "Bouillon",
+                "Géolocalisation": "49.79525395513023, 5.068010692018072",
+                "lat": 49.795253955130228,
+                "lon": 5.0680106920180723
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.068010692018072,
+                    49.795253955130228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné Centre",
+                "Catégorie": "Cinéma",
+                "Adresse": "Avenue de Mérode 91",
+                "Code postal": 1330,
+                "Ville": "Rixensart",
+                "Géolocalisation": "50.71188841021889, 4.521074198146986",
+                "lat": 50.71188841021889,
+                "lon": 4.5210741981469864
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.521074198146986,
+                    50.71188841021889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné Chaplin",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue de l'Eglise 20",
+                "Code postal": 5670,
+                "Ville": "Nismes",
+                "Géolocalisation": "50.07621607354492, 4.548158213465989",
+                "lat": 50.07621607354492,
+                "lon": 4.5481582134659888
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.548158213465989,
+                    50.07621607354492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné Couvin",
+                "Catégorie": "Cinéma",
+                "Adresse": "Place Général Piron 6",
+                "Code postal": 5660,
+                "Ville": "Couvin",
+                "Géolocalisation": "50.053235865345194, 4.494222269285626",
+                "lat": 50.053235865345194,
+                "lon": 4.4942222692856264
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.494222269285626,
+                    50.053235865345194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné Espace",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue de Diekirch 36",
+                "Code postal": 6700,
+                "Ville": "Arlon",
+                "Géolocalisation": "49.68532083704676, 5.8135696811843065",
+                "lat": 49.68532083704676,
+                "lon": 5.8135696811843065
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.813569681184307,
+                    49.68532083704676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné Gedinne",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue de la Croisette 11",
+                "Code postal": 5575,
+                "Ville": "Gedinne",
+                "Géolocalisation": "49.97887136688567, 4.936825653939261",
+                "lat": 49.97887136688567,
+                "lon": 4.9368256539392608
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.936825653939261,
+                    49.97887136688567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné Nos loisirs",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue Léon Colleaux 34",
+                "Code postal": 6762,
+                "Ville": "Saint-Mard",
+                "Géolocalisation": "49.55457867419707, 5.533293483132181",
+                "lat": 49.554578674197067,
+                "lon": 5.5332934831321809
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.533293483132181,
+                    49.554578674197067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné Patria",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue des Fossés 20",
+                "Code postal": 6760,
+                "Ville": "Virton",
+                "Géolocalisation": "49.568126349819885, 5.533820352533899",
+                "lat": 49.568126349819885,
+                "lon": 5.5338203525338994
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.533820352533899,
+                    49.568126349819885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Ciné4 Nivelles",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue de Soignies 4",
+                "Code postal": 1400,
+                "Ville": "Nivelles",
+                "Géolocalisation": "50.597658895857435, 4.321783997739975",
+                "lat": 50.597658895857435,
+                "lon": 4.321783997739975
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.321783997739975,
+                    50.597658895857435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cineflagey",
+                "Catégorie": "Cinéma",
+                "Adresse": "Place Sainte-Croix",
+                "Code postal": 1050,
+                "Ville": "Ixelles",
+                "Géolocalisation": "50.826892112577454, 4.372603382018314",
+                "lat": 50.826892112577454,
+                "lon": 4.3726033820183137
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.372603382018314,
+                    50.826892112577454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéma Aventure",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue des Fripers 15 - Galerie du centre 57",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.84870988747012, 4.35220273100096",
+                "lat": 50.848709887470122,
+                "lon": 4.3522027310009603
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35220273100096,
+                    50.848709887470122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéma Cameo Tamines",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue Notre Dame 27",
+                "Code postal": 5060,
+                "Ville": "Tamines",
+                "Géolocalisation": "50.44193720690823, 4.608186310416598",
+                "lat": 50.441937206908229,
+                "lon": 4.6081863104165981
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.608186310416598,
+                    50.441937206908229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéma For&ver",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue de la Marlière 27-31",
+                "Code postal": 7700,
+                "Ville": "Mouscron",
+                "Géolocalisation": "50.74255266922006, 3.2042190931153987",
+                "lat": 50.742552669220061,
+                "lon": 3.2042190931153987
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.204219093115399,
+                    50.742552669220061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéma Galeries",
+                "Catégorie": "Cinéma",
+                "Adresse": "Galerie de la Reine 28",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.847511012063634, 4.354627960764276",
+                "lat": 50.847511012063634,
+                "lon": 4.3546279607642759
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.354627960764276,
+                    50.847511012063634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéma Le Parc",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue Paul Joseph Carpay 22",
+                "Code postal": 4020,
+                "Ville": "Liège",
+                "Géolocalisation": "50.64634713745985, 5.60244409814448",
+                "lat": 50.646347137459848,
+                "lon": 5.6024440981444803
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.60244409814448,
+                    50.646347137459848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéma Le Stockel",
+                "Catégorie": "Cinéma",
+                "Adresse": "Avenue de Hinnisdael 17",
+                "Code postal": 1150,
+                "Ville": "Woluwe-Saint-Pierre",
+                "Géolocalisation": "50.8410528636608, 4.465601226137649",
+                "lat": 50.841052863660799,
+                "lon": 4.4656012261376494
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.465601226137649,
+                    50.841052863660799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéma Le Versailles",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue Hottonruy 3",
+                "Code postal": 4970,
+                "Ville": "Stavelot",
+                "Géolocalisation": "50.3929037097336, 5.929354670297358",
+                "lat": 50.392903709733602,
+                "lon": 5.9293546702973581
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.929354670297358,
+                    50.392903709733602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéma l'Ecran",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue du gouvernement 1",
+                "Code postal": 7800,
+                "Ville": "Ath",
+                "Géolocalisation": "50.63157871477064, 3.777096828697191",
+                "lat": 50.63157871477064,
+                "lon": 3.7770968286971911
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.777096828697191,
+                    50.63157871477064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéma l'Etoile",
+                "Catégorie": "Cinéma",
+                "Adresse": "Grand'Place 40",
+                "Code postal": 1370,
+                "Ville": "Jodoigne",
+                "Géolocalisation": "50.724913170586184, 4.867958249492002",
+                "lat": 50.724913170586184,
+                "lon": 4.867958249492002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.867958249492002,
+                    50.724913170586184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéma Nova",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue d’Arenberg 3",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.84837298349648, 4.356034235459962",
+                "lat": 50.848372983496482,
+                "lon": 4.3560342354599619
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.356034235459962,
+                    50.848372983496482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéma Palace",
+                "Catégorie": "Cinéma",
+                "Adresse": "Boulevard Anspach 85",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.84790548541812, 4.3487578423316995",
+                "lat": 50.847905485418117,
+                "lon": 4.3487578423316995
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.348757842331699,
+                    50.847905485418117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinema RITCS",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue Antoine Dansaert 70",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.8504675650246, 4.345850568524947",
+                "lat": 50.850467565024601,
+                "lon": 4.3458505685249467
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.345850568524947,
+                    50.850467565024601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéma Sauvenière",
+                "Catégorie": "Cinéma",
+                "Adresse": "Place Xavier Neujean 14",
+                "Code postal": 4000,
+                "Ville": "Liège",
+                "Géolocalisation": "50.64366061503523, 5.568365502322316",
+                "lat": 50.64366061503523,
+                "lon": 5.5683655023223162
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.568365502322316,
+                    50.64366061503523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéma Stuart",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue Sylvain Guyaux 16",
+                "Code postal": 7100,
+                "Ville": "La Louvière",
+                "Géolocalisation": "50.475338122395534, 4.186176726973699",
+                "lat": 50.475338122395534,
+                "lon": 4.1861767269736987
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.186176726973699,
+                    50.475338122395534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéma Vendôme",
+                "Catégorie": "Cinéma",
+                "Adresse": "Chaussée de Wavre 18",
+                "Code postal": 1050,
+                "Ville": "Ixelles",
+                "Géolocalisation": "50.837467685511264, 4.362908694339382",
+                "lat": 50.837467685511264,
+                "lon": 4.3629086943393824
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.362908694339382,
+                    50.837467685511264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinematek",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue Baron Horta 9",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.84419224788813, 4.3601416779227735",
+                "lat": 50.844192247888131,
+                "lon": 4.3601416779227735
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.360141677922774,
+                    50.844192247888131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinés Wellington",
+                "Catégorie": "Cinéma",
+                "Adresse": "Chaussée de Bruxelles 165",
+                "Code postal": 1410,
+                "Ville": "Waterloo",
+                "Géolocalisation": "50.716880874518935, 4.398747184654849",
+                "lat": 50.716880874518935,
+                "lon": 4.3987471846548489
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.398747184654849,
+                    50.716880874518935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Cinéscope Louvain-La-Neuve",
+                "Catégorie": "Cinéma",
+                "Adresse": "Grand Place 55",
+                "Code postal": 1348,
+                "Ville": "Louvain-la-Neuve",
+                "Géolocalisation": "50.669147467494525, 4.6114183679464995",
+                "lat": 50.669147467494525,
+                "lon": 4.6114183679464995
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6114183679465,
+                    50.669147467494525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "CineXtra Bastogne",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue Gustave Delperdang 3",
+                "Code postal": 6600,
+                "Ville": "Bastogne",
+                "Géolocalisation": "50.00580551348788, 5.724536909612725",
+                "lat": 50.005805513487878,
+                "lon": 5.7245369096127252
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.724536909612725,
+                    50.005805513487878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "CineXtra Marche",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue Notre-Dame de Grâce 4",
+                "Code postal": 6900,
+                "Ville": "Marche-en-Famenne",
+                "Géolocalisation": "50.22993984819963, 5.3423311243209195",
+                "lat": 50.229939848199628,
+                "lon": 5.3423311243209195
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.342331124320919,
+                    50.229939848199628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Flagey",
+                "Catégorie": "Cinéma",
+                "Adresse": "Place Sainte-Croix",
+                "Code postal": 1050,
+                "Ville": "Ixelles",
+                "Géolocalisation": "50.826924338045934, 4.372785640479706",
+                "lat": 50.826924338045934,
+                "lon": 4.3727856404797061
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.372785640479706,
+                    50.826924338045934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Imagix Huy",
+                "Catégorie": "Cinéma",
+                "Adresse": "Avenue Delchambre 8",
+                "Code postal": 4500,
+                "Ville": "Huy",
+                "Géolocalisation": "50.5229725587067, 5.241045840467891",
+                "lat": 50.522972558706698,
+                "lon": 5.2410458404678906
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.241045840467891,
+                    50.522972558706698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Imagix Mons",
+                "Catégorie": "Cinéma",
+                "Adresse": "Boulevard André Delvaux 1",
+                "Code postal": 7000,
+                "Ville": "Mons",
+                "Géolocalisation": "50.46185379861335, 3.935533336643835",
+                "lat": 50.461853798613348,
+                "lon": 3.935533336643835
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.935533336643835,
+                    50.461853798613348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Imagix Tournai",
+                "Catégorie": "Cinéma",
+                "Adresse": "Boulevard Delwart 60",
+                "Code postal": 7500,
+                "Ville": "Tournai",
+                "Géolocalisation": "50.61510209561951, 3.3872436558150034",
+                "lat": 50.615102095619513,
+                "lon": 3.3872436558150034
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.387243655815003,
+                    50.615102095619513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Kinepolis Bruxelles",
+                "Catégorie": "Cinéma",
+                "Adresse": "Boulevard du Centenaire 20",
+                "Code postal": 1020,
+                "Ville": "Laeken",
+                "Géolocalisation": "50.895723319338806, 4.337863840482362",
+                "lat": 50.895723319338806,
+                "lon": 4.3378638404823624
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.337863840482362,
+                    50.895723319338806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Kinepolis Imagibraine",
+                "Catégorie": "Cinéma",
+                "Adresse": "Boulevard de France",
+                "Code postal": 1420,
+                "Ville": "Braine-l'Alleud",
+                "Géolocalisation": "50.66694938575492, 4.37840374060998",
+                "lat": 50.666949385754918,
+                "lon": 4.3784037406099801
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.37840374060998,
+                    50.666949385754918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Kinepolis Liège",
+                "Catégorie": "Cinéma",
+                "Adresse": "Chaussée de Tongres 200",
+                "Code postal": 4000,
+                "Ville": "Liège",
+                "Géolocalisation": "50.67028792906584, 5.554722303559982",
+                "lat": 50.670287929065843,
+                "lon": 5.5547223035599824
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.554722303559982,
+                    50.670287929065843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Kino Corso",
+                "Catégorie": "Cinéma",
+                "Adresse": "Bahnhofstraße 14",
+                "Code postal": 4780,
+                "Ville": "Saint Vith",
+                "Géolocalisation": "50.280082725477136, 6.129687155004683",
+                "lat": 50.280082725477136,
+                "lon": 6.1296871550046834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.129687155004683,
+                    50.280082725477136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Le Caméo",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue des Carmes 49",
+                "Code postal": 5000,
+                "Ville": "Namur",
+                "Géolocalisation": "50.46690999203061, 4.863835728824586",
+                "lat": 50.466909992030608,
+                "lon": 4.8638357288245864
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.863835728824586,
+                    50.466909992030608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Le Churchill",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue du Mouton Blanc 20",
+                "Code postal": 4000,
+                "Ville": "Liège",
+                "Géolocalisation": "50.64129645458255, 5.570331555816018",
+                "lat": 50.641296454582552,
+                "lon": 5.5703315558160176
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.570331555816018,
+                    50.641296454582552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Le Foyer",
+                "Catégorie": "Cinéma",
+                "Adresse": "Place Saintt Etienne 6",
+                "Code postal": 6723,
+                "Ville": "Habay-la-Vieille",
+                "Géolocalisation": "49.72323093168925, 5.618410426508495",
+                "lat": 49.723230931689251,
+                "lon": 5.6184104265084951
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.618410426508495,
+                    49.723230931689251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Le Totem Cinéma",
+                "Catégorie": "Cinéma",
+                "Adresse": "Avenue d'Houffalize 56d",
+                "Code postal": 6800,
+                "Ville": "Libramont",
+                "Géolocalisation": "49.92649714530719, 5.383381382773114",
+                "lat": 49.926497145307188,
+                "lon": 5.3833813827731136
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.383381382773114,
+                    49.926497145307188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Les Variétés Waremme",
+                "Catégorie": "Cinéma",
+                "Adresse": "Avenue Edmond Leburton 39",
+                "Code postal": 4300,
+                "Ville": "Waremme",
+                "Géolocalisation": "50.69858500127001, 5.259018326982348",
+                "lat": 50.698585001270011,
+                "lon": 5.2590183269823481
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.259018326982348,
+                    50.698585001270011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "MovieMills",
+                "Catégorie": "Cinéma",
+                "Adresse": "Avenue de la Libération 1A",
+                "Code postal": 4960,
+                "Ville": "Malmedy",
+                "Géolocalisation": "50.43184436957176, 6.028012682792575",
+                "lat": 50.431844369571763,
+                "lon": 6.0280126827925749
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.028012682792575,
+                    50.431844369571763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Palace Liège",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue pont d'Avroy 21",
+                "Code postal": 4000,
+                "Ville": "Liège",
+                "Géolocalisation": "50.64057013239369, 5.570160639421241",
+                "lat": 50.640570132393691,
+                "lon": 5.5701606394212408
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.570160639421241,
+                    50.640570132393691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Pathé Charleroi",
+                "Catégorie": "Cinéma",
+                "Adresse": "Grand Rue 141",
+                "Code postal": 6000,
+                "Ville": "Charleroi",
+                "Géolocalisation": "50.41883539277473, 4.458990893667778",
+                "lat": 50.418835392774731,
+                "lon": 4.458990893667778
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.458990893667778,
+                    50.418835392774731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Pathé Verviers",
+                "Catégorie": "Cinéma",
+                "Adresse": "Boulevard des Gérardchamps 1",
+                "Code postal": 4800,
+                "Ville": "Verviers",
+                "Géolocalisation": "50.59331053016581, 5.847833211634727",
+                "lat": 50.593310530165809,
+                "lon": 5.8478332116347271
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.847833211634727,
+                    50.593310530165809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Plaza Arthouse Cinema",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue de Nimy 12",
+                "Code postal": 7000,
+                "Ville": "Mons",
+                "Géolocalisation": "50.4554827859507, 3.9534402134944355",
+                "lat": 50.4554827859507,
+                "lon": 3.9534402134944355
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.953440213494436,
+                    50.4554827859507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Plaza Hotton",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue Simon 14",
+                "Code postal": 6990,
+                "Ville": "Hotton",
+                "Géolocalisation": "50.26644521649093, 5.448005509013278",
+                "lat": 50.266445216490929,
+                "lon": 5.448005509013278
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.448005509013278,
+                    50.266445216490929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Quai 10",
+                "Catégorie": "Cinéma",
+                "Adresse": "Quai Arthur Rimbaud 10",
+                "Code postal": 6000,
+                "Ville": "Charleroi",
+                "Géolocalisation": "50.40647563451659, 4.4411572327537305",
+                "lat": 50.406475634516589,
+                "lon": 4.4411572327537305
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.441157232753731,
+                    50.406475634516589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "Quai 10 Côté Parc",
+                "Catégorie": "Cinéma",
+                "Adresse": "Rue de Montigny 58",
+                "Code postal": 6000,
+                "Ville": "Charleroi",
+                "Géolocalisation": "50.40809258199072, 4.446196611627557",
+                "lat": 50.408092581990722,
+                "lon": 4.4461966116275571
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.446196611627557,
+                    50.408092581990722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "UGC De Brouckère",
+                "Catégorie": "Cinéma",
+                "Adresse": "Place de Brouckère 38",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.85183363258667, 4.352506680700708",
+                "lat": 50.851833632586668,
+                "lon": 4.3525066807007082
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.352506680700708,
+                    50.851833632586668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "UGC Toison d'Or",
+                "Catégorie": "Cinéma",
+                "Adresse": "Avenue de la Toison d'Or 8",
+                "Code postal": 1050,
+                "Ville": "Ixelles",
+                "Géolocalisation": "50.83780775686265, 4.361118769196292",
+                "lat": 50.837807756862652,
+                "lon": 4.3611187691962918
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.361118769196292,
+                    50.837807756862652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination du lieu": "White Cinéma Docks",
+                "Catégorie": "Cinéma",
+                "Adresse": "Boulevard Lambermont 1",
+                "Code postal": 1030,
+                "Ville": "Schaerbeek",
+                "Géolocalisation": "50.87953799812945, 4.37294209815352",
+                "lat": 50.87953799812945,
+                "lon": 4.3729420981535201
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.37294209815352,
+                    50.87953799812945
+                ]
+            }
+        }
+    ]
+}

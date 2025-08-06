@@ -1,0 +1,2679 @@
+{
+    "type": "FeatureCollection",
+    "name": "Centres_Culturels",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel d'Aiseau-Presles",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Place communale 1",
+                "code_postal": 6250,
+                "localite": "Aiseau-Presles",
+                "geolocalisation": "50.385585199999994, 4.5781848330568735",
+                "latitude": 50.3855852,
+                "longitude": 4.5781848330568735
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.578184833056874,
+                    50.3855852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel d'Anderlecht \"Escale du Nord\"",
+                "Unnamed: 1": "CC",
+                "province": "Bruxelles Capitale",
+                "rue": "Rue du Chapelain 1",
+                "code_postal": 1070,
+                "localite": "Anderlecht",
+                "geolocalisation": "50.8369707, 4.3069537",
+                "latitude": 50.8369707,
+                "longitude": 4.3069537
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3069537,
+                    50.8369707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel d'Anderlues \"La Bourlette\"",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Place Albert 1er 10",
+                "code_postal": 6150,
+                "localite": "Anderlues",
+                "geolocalisation": "50.40700425, 4.269960252777778",
+                "latitude": 50.40700425,
+                "longitude": 4.2699602527777776
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.269960252777778,
+                    50.40700425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel d'Ourthe et Meuse",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Rue d'Ougrée 71",
+                "code_postal": 4031,
+                "localite": "Angleur",
+                "geolocalisation": "50.6104811, 5.584462959088576",
+                "latitude": 50.6104811,
+                "longitude": 5.5844629590885759
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.584462959088576,
+                    50.6104811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel d'Ans",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Place des Anciens Combattants 1",
+                "code_postal": 4432,
+                "localite": "Ans",
+                "geolocalisation": "50.67446645, 5.512259237736803",
+                "latitude": 50.67446645,
+                "longitude": 5.5122592377368029
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.512259237736803,
+                    50.67446645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Foyer culturel de Beloeil",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue Joseph Wauters 20",
+                "code_postal": 7972,
+                "localite": "Quevaucamps",
+                "geolocalisation": "50.52058975, 3.6813154769508234",
+                "latitude": 50.52058975,
+                "longitude": 3.6813154769508234
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.681315476950823,
+                    50.52058975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Bièvre",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Rue de Bouillon 39 A",
+                "code_postal": 5555,
+                "localite": "Bievre",
+                "geolocalisation": "49.93746315, 5.021812961786196",
+                "latitude": 49.93746315,
+                "longitude": 5.0218129617861962
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.021812961786196,
+                    49.93746315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Braine-L'Alleud",
+                "Unnamed: 1": "CC",
+                "province": "Brabant wallon",
+                "rue": "Rue Jules Hans 4",
+                "code_postal": 1420,
+                "localite": "Braine- l'alleud",
+                "geolocalisation": "50.6838231, 4.372365",
+                "latitude": 50.6838231,
+                "longitude": 4.372365
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.372365,
+                    50.6838231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Braine-Le-Comte",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue de la Station 70",
+                "code_postal": 7090,
+                "localite": "Braine-le-comte",
+                "geolocalisation": "50.6081561, 4.1376362030795555",
+                "latitude": 50.6081561,
+                "longitude": 4.1376362030795555
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.137636203079555,
+                    50.6081561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Chênée",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Rue de l'Eglise 1-3",
+                "code_postal": 4032,
+                "localite": "Chenee",
+                "geolocalisation": "50.61130805190596, 5.618827104961705",
+                "latitude": 50.611308051905958,
+                "longitude": 5.6188271049617047
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.618827104961705,
+                    50.611308051905958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel MJC de Comines-Warneton",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue des Arts 22",
+                "code_postal": 7780,
+                "localite": "Comines-Warneton",
+                "geolocalisation": "50.766687573865205, 3.0018324288985263",
+                "latitude": 50.766687573865205,
+                "longitude": 3.0018324288985263
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.001832428898526,
+                    50.766687573865205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Courcelles \"La Posterie\"",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue P. Monnoyer 46",
+                "code_postal": 6180,
+                "localite": "Courcelles",
+                "geolocalisation": "50.46251639747668, 4.376938367652699",
+                "latitude": 50.462516397476683,
+                "longitude": 4.3769383676526994
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.376938367652699,
+                    50.462516397476683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Couvin \"Christian Colle\"",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Rue du Pilori 6",
+                "code_postal": 5660,
+                "localite": "Couvin",
+                "geolocalisation": "50.05194195, 4.496614423809024",
+                "latitude": 50.05194195,
+                "longitude": 4.4966144238090244
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.496614423809024,
+                    50.05194195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel \"Fleurus Culture\"",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Place Ferrer 1",
+                "code_postal": 6220,
+                "localite": "Fleurus",
+                "geolocalisation": "50.4833761, 4.5500883",
+                "latitude": 50.4833761,
+                "longitude": 4.5500883
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5500883,
+                    50.4833761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Forest",
+                "Unnamed: 1": "CC",
+                "province": "Bruxelles Capitale",
+                "rue": "Avenue Van Volxem 364",
+                "code_postal": 1190,
+                "localite": "Forest",
+                "geolocalisation": "50.8249163, 4.3260734",
+                "latitude": 50.8249163,
+                "longitude": 4.3260734
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3260734,
+                    50.8249163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de HANNUT",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Place Henri Hallet 27/1",
+                "code_postal": 4280,
+                "localite": "Hannut",
+                "geolocalisation": "50.67172732543635, 5.078564867353239",
+                "latitude": 50.67172732543635,
+                "longitude": 5.0785648673532391
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.078564867353239,
+                    50.67172732543635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel local Hastiere",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Rue Marcel Lespagne 18",
+                "code_postal": 5540,
+                "localite": "Hastiere",
+                "geolocalisation": "50.21508581523899, 4.822200269959279",
+                "latitude": 50.215085815238993,
+                "longitude": 4.8222002699592794
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.822200269959279,
+                    50.215085815238993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel d'Havelange",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Rue Hiétine 2",
+                "code_postal": 5370,
+                "localite": "Havelange",
+                "geolocalisation": "50.38758004648894, 5.242580509975287",
+                "latitude": 50.387580046488942,
+                "longitude": 5.2425805099752871
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.242580509975287,
+                    50.387580046488942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Jodoigne & Orp-Jauche",
+                "Unnamed: 1": "CC",
+                "province": "Brabant wallon",
+                "rue": "Grand-Place 1",
+                "code_postal": 1370,
+                "localite": "Jodoigne",
+                "geolocalisation": "50.725397099999995, 4.86755705379964",
+                "latitude": 50.7253971,
+                "longitude": 4.86755705379964
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.86755705379964,
+                    50.7253971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Foyer culturel de Jupille-Wandre",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Rue Chafnay 2",
+                "code_postal": 4020,
+                "localite": "Jupille",
+                "geolocalisation": "50.6452829, 5.634175337207488",
+                "latitude": 50.6452829,
+                "longitude": 5.6341753372074876
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.634175337207488,
+                    50.6452829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Bruxelles Nord-Maison de la Création",
+                "Unnamed: 1": "CC",
+                "province": "Bruxelles Capitale",
+                "rue": "Boulevard Bockstael 246A",
+                "code_postal": 1020,
+                "localite": "Laeken",
+                "geolocalisation": "50.8766501, 4.3479593",
+                "latitude": 50.8766501,
+                "longitude": 4.3479593
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3479593,
+                    50.8766501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel J. Faucon",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue d'Houdeng 27C",
+                "code_postal": 7070,
+                "localite": "Le roeulx",
+                "geolocalisation": "50.50157521105234, 4.11482488347479",
+                "latitude": 50.501575211052341,
+                "longitude": 4.1148248834747898
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.11482488347479,
+                    50.501575211052341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel Leuze-En-Hainaut",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue d'Ath 33",
+                "code_postal": 7900,
+                "localite": "Leuze-en-Hainaut",
+                "geolocalisation": "50.5994964, 3.624901976641431",
+                "latitude": 50.5994964,
+                "longitude": 3.6249019766414312
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.624901976641431,
+                    50.5994964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel \"Le Sablon\"",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Place de Carnières 36",
+                "code_postal": 7141,
+                "localite": "Morlanwelz",
+                "geolocalisation": "50.442948650000005, 4.254726165007784",
+                "latitude": 50.44294865000001,
+                "longitude": 4.2547261650077841
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.254726165007784,
+                    50.44294865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel d'Ottignies-Louvain-la-Neuve \"SPOTT\"",
+                "Unnamed: 1": "CC",
+                "province": "Brabant wallon",
+                "rue": "Avenue des Combattants 41",
+                "code_postal": 1340,
+                "localite": "Ottignies",
+                "geolocalisation": "50.66561335, 4.566548178733122",
+                "latitude": 50.66561335,
+                "longitude": 4.5665481787331217
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.566548178733122,
+                    50.66561335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Foyer culturel de Perwez",
+                "Unnamed: 1": "CC",
+                "province": "Brabant wallon",
+                "rue": "Grand Place 32",
+                "code_postal": 1360,
+                "localite": "Perwez",
+                "geolocalisation": "50.62346025, 4.8147311757994204",
+                "latitude": 50.62346025,
+                "longitude": 4.8147311757994204
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.81473117579942,
+                    50.62346025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Maison culturelle de Quaregnon",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue Jules Destrée 355",
+                "code_postal": 7390,
+                "localite": "Quaregnon",
+                "geolocalisation": "50.443561700000004, 3.85907608807413",
+                "latitude": 50.4435617,
+                "longitude": 3.8590760880741302
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.85907608807413,
+                    50.4435617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Silly",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue Saint-Pierre 4",
+                "code_postal": 7830,
+                "localite": "Silly",
+                "geolocalisation": "50.648346500432666, 3.9225332656304195",
+                "latitude": 50.648346500432666,
+                "longitude": 3.9225332656304195
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.922533265630419,
+                    50.648346500432666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Soumagne",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Rue Louis Pasteur 65",
+                "code_postal": 4630,
+                "localite": "Soumagne",
+                "geolocalisation": "50.63442345, 5.733972096348662",
+                "latitude": 50.63442345,
+                "longitude": 5.733972096348662
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.733972096348662,
+                    50.63442345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Walcourt",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Rue de la Montagne 3",
+                "code_postal": 5650,
+                "localite": "Walcourt",
+                "geolocalisation": "50.253881750000005, 4.4344630424428395",
+                "latitude": 50.25388175000001,
+                "longitude": 4.4344630424428395
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.43446304244284,
+                    50.25388175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Woluwé-St-Lambert Wolubilis",
+                "Unnamed: 1": "CC",
+                "province": "Bruxelles Capitale",
+                "rue": "Cour Paul Henry SPAAK 1",
+                "code_postal": 1200,
+                "localite": "Woluwe-St-Lambert",
+                "geolocalisation": "50.84871931669815, 4.437588855851424",
+                "latitude": 50.848719316698151,
+                "longitude": 4.4375888558514243
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.437588855851424,
+                    50.848719316698151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel Berchemois \"Archipel 19\"",
+                "Unnamed: 1": "CC",
+                "province": "Bruxelles Capitale",
+                "rue": "Place de l'Eglise 15",
+                "code_postal": 1082,
+                "localite": "Berchem-Ste-Agathe",
+                "geolocalisation": "50.86092965, 4.291936431681958",
+                "latitude": 50.86092965,
+                "longitude": 4.2919364316819584
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.291936431681958,
+                    50.86092965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Chapelle-Lez-Herlaimont le C3",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Place de l'Hôtel de Ville 17",
+                "code_postal": 7160,
+                "localite": "Chapelle-lez-Herlaimont",
+                "geolocalisation": "50.4716521, 4.279935402199571",
+                "latitude": 50.4716521,
+                "longitude": 4.2799354021995706
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.279935402199571,
+                    50.4716521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Chimay",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue des Battis 34",
+                "code_postal": 6464,
+                "localite": "Chimay",
+                "geolocalisation": "50.030722749999995, 4.37150805141507",
+                "latitude": 50.03072275,
+                "longitude": 4.3715080514150699
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.37150805141507,
+                    50.03072275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel du Brabant Wallon",
+                "Unnamed: 1": "CC",
+                "province": "Brabant wallon",
+                "rue": "Rue Belotte 3",
+                "code_postal": 1490,
+                "localite": "Court-Saint-Etienne",
+                "geolocalisation": "50.64692291648345, 4.565769436382773",
+                "latitude": 50.646922916483447,
+                "longitude": 4.565769436382773
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.565769436382773,
+                    50.646922916483447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Dinant",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Rue Grande 37",
+                "code_postal": 5500,
+                "localite": "Dinant",
+                "geolocalisation": "50.2572563, 4.915956171239555",
+                "latitude": 50.2572563,
+                "longitude": 4.9159561712395554
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.915956171239555,
+                    50.2572563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel d'Etterbeek \"Le Senghor\"",
+                "Unnamed: 1": "CC",
+                "province": "Bruxelles Capitale",
+                "rue": "Chaussée de Wavre 366",
+                "code_postal": 1040,
+                "localite": "Etterbeek",
+                "geolocalisation": "50.8366417, 4.3804278",
+                "latitude": 50.8366417,
+                "longitude": 4.3804278
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3804278,
+                    50.8366417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Floreffe",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Chemin privé 1",
+                "code_postal": 5150,
+                "localite": "Floreffe",
+                "geolocalisation": "50.4349174, 4.733397160356777",
+                "latitude": 50.4349174,
+                "longitude": 4.7333971603567768
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.733397160356777,
+                    50.4349174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Frameries",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Chemin de l'Etang 2",
+                "code_postal": 7080,
+                "localite": "Frameries",
+                "geolocalisation": "50.389385109990236, 3.8935012619439986",
+                "latitude": 50.389385109990236,
+                "longitude": 3.8935012619439986
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.893501261943999,
+                    50.389385109990236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Ganshoren \"La Villa\"",
+                "Unnamed: 1": "CC",
+                "province": "Bruxelles Capitale",
+                "rue": "Place Guido Gezelle 26",
+                "code_postal": 1083,
+                "localite": "Ganshoren",
+                "geolocalisation": "50.8740631, 4.3137309820261445",
+                "latitude": 50.8740631,
+                "longitude": 4.3137309820261445
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.313730982026144,
+                    50.8740631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Habay",
+                "Unnamed: 1": "CC",
+                "province": "Luxembourg",
+                "rue": "Rue d'Hoffschmidt 27",
+                "code_postal": 6720,
+                "localite": "Habay",
+                "geolocalisation": "49.72951125, 5.647072137922295",
+                "latitude": 49.72951125,
+                "longitude": 5.6470721379222946
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.647072137922295,
+                    49.72951125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel Mouscronnois",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Place Charles De Gaulle, 10",
+                "code_postal": 7700,
+                "localite": "Mouscron",
+                "geolocalisation": "50.7452045, 3.2096436405934465",
+                "latitude": 50.7452045,
+                "longitude": 3.2096436405934465
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.209643640593447,
+                    50.7452045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel - Théâtre de Namur",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Place du Théâtre 2",
+                "code_postal": 5000,
+                "localite": "Namur",
+                "geolocalisation": "50.46437015, 4.868158830280834",
+                "latitude": 50.46437015,
+                "longitude": 4.8681588302808336
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.868158830280834,
+                    50.46437015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Saint-Ghislain Foyer Culturel \"Septem\"",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Grand-Place 37",
+                "code_postal": 7330,
+                "localite": "Saint-Ghislain",
+                "geolocalisation": "50.44878105, 3.8202882684450943",
+                "latitude": 50.44878105,
+                "longitude": 3.8202882684450943
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.820288268445094,
+                    50.44878105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel Jacques Franck",
+                "Unnamed: 1": "CC",
+                "province": "Bruxelles Capitale",
+                "rue": "Chaussée de Waterloo 94",
+                "code_postal": 1060,
+                "localite": "Saint-Gilles",
+                "geolocalisation": "50.8293474, 4.3446382",
+                "latitude": 50.8293474,
+                "longitude": 4.3446382
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3446382,
+                    50.8293474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Seraing",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Rue Renaud Strivay 44",
+                "code_postal": 4100,
+                "localite": "Seraing",
+                "geolocalisation": "50.60474225, 5.51647201347876",
+                "latitude": 50.60474225,
+                "longitude": 5.5164720134787597
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.51647201347876,
+                    50.60474225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Soignies",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Place Van Zeeland 31",
+                "code_postal": 7060,
+                "localite": "Soignies",
+                "geolocalisation": "50.5784391, 4.069509603851497",
+                "latitude": 50.5784391,
+                "longitude": 4.0695096038514968
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.069509603851497,
+                    50.5784391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Foyer culturel \"Henri Simon\"",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Rue du Centre 81",
+                "code_postal": 4140,
+                "localite": "Sprimont",
+                "geolocalisation": "50.500941, 5.66388677522152",
+                "latitude": 50.500941,
+                "longitude": 5.6638867752215196
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.66388677522152,
+                    50.500941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "WAPI (culture.point - Technicité)",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue Madame 14",
+                "code_postal": 7500,
+                "localite": "Tournai",
+                "geolocalisation": "50.6049861, 3.3948368400909907",
+                "latitude": 50.6049861,
+                "longitude": 3.3948368400909907
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.394836840090991,
+                    50.6049861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel \"Action Sud\"",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Rue Vieille Eglise 10",
+                "code_postal": 5670,
+                "localite": "Viroinval",
+                "geolocalisation": "50.0744461, 4.5474393412637255",
+                "latitude": 50.0744461,
+                "longitude": 4.5474393412637255
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.547439341263726,
+                    50.0744461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Watermael-Boitsfort \"La Vénerie\"",
+                "Unnamed: 1": "CC",
+                "province": "Bruxelles Capitale",
+                "rue": "Place Antoine Gilson 3",
+                "code_postal": 1170,
+                "localite": "Watermael-Boitsfort",
+                "geolocalisation": "50.797792, 4.4164457",
+                "latitude": 50.797792,
+                "longitude": 4.4164457
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4164457,
+                    50.797792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel d'Andenne",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Rue de la Papeterie 2A",
+                "code_postal": 5300,
+                "localite": "Andenne",
+                "geolocalisation": "50.491652206823545, 5.092158889673108",
+                "latitude": 50.491652206823545,
+                "longitude": 5.092158889673108
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.092158889673108,
+                    50.491652206823545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Concertation Action Culturelle Bruxelloise",
+                "Unnamed: 1": "CC",
+                "province": "Bruxelles Capitale",
+                "rue": "Rue de Veeweyde 104",
+                "code_postal": 1070,
+                "localite": "Anderleht",
+                "geolocalisation": "50.8306691, 4.305125862047564",
+                "latitude": 50.8306691,
+                "longitude": 4.3051258620475643
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.305125862047564,
+                    50.8306691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Maison de la Culture d'Arlon",
+                "Unnamed: 1": "CC",
+                "province": "Luxembourg",
+                "rue": "Parc des Expositions 1",
+                "code_postal": 6700,
+                "localite": "Arlon",
+                "geolocalisation": "49.67960895, 5.801534371555119",
+                "latitude": 49.67960895,
+                "longitude": 5.8015343715551193
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.801534371555119,
+                    49.67960895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Maison culturelle de Ath",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue de Brantignies 4",
+                "code_postal": 7800,
+                "localite": "Ath",
+                "geolocalisation": "50.6318108, 3.7776185498927006",
+                "latitude": 50.6318108,
+                "longitude": 3.7776185498927006
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.777618549892701,
+                    50.6318108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Charleroi \"L'Eden\"",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Boulevard Jacques Bertrand 1-3",
+                "code_postal": 6000,
+                "localite": "Charleroi",
+                "geolocalisation": "50.411327381605005, 4.441303709859408",
+                "latitude": 50.411327381605005,
+                "longitude": 4.4413037098594081
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.441303709859408,
+                    50.411327381605005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Chièvres-Brugelette \"l’Envol\"",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue de Saint-Ghislain 16",
+                "code_postal": 7950,
+                "localite": "Chievres",
+                "geolocalisation": "50.5841683, 3.806679651799856",
+                "latitude": 50.5841683,
+                "longitude": 3.8066796517998558
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.806679651799856,
+                    50.5841683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Colfontaine",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue du Pont d'Arcole 12",
+                "code_postal": 7340,
+                "localite": "Colfontaine",
+                "geolocalisation": "50.42460965, 3.840849214446666",
+                "latitude": 50.42460965,
+                "longitude": 3.8408492144466662
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.840849214446666,
+                    50.42460965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel d'Enghien \"Maison JONATHAS\"",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue Montgomery 7",
+                "code_postal": 7850,
+                "localite": "Enghien",
+                "geolocalisation": "50.69335855, 4.038099731878216",
+                "latitude": 50.69335855,
+                "longitude": 4.0380997318782157
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.038099731878216,
+                    50.69335855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel d'HERSTAL",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Large Voie 84",
+                "code_postal": 4040,
+                "localite": "Herstal",
+                "geolocalisation": "50.6664891, 5.634141632720105",
+                "latitude": 50.6664891,
+                "longitude": 5.6341416327201053
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.634141632720105,
+                    50.6664891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Réseau des Centres culturels de la Fédération Wallonie-Bruxelles \"ASTRAC\"",
+                "Unnamed: 1": "CC",
+                "province": "Luxembourg",
+                "rue": "Rue du Couvent 4",
+                "code_postal": 6810,
+                "localite": "Jamoigne",
+                "geolocalisation": "49.696328699999995, 5.416387031675201",
+                "latitude": 49.6963287,
+                "longitude": 5.4163870316752014
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.416387031675201,
+                    49.6963287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Jette \"Centre Armillaire\"",
+                "Unnamed: 1": "CC",
+                "province": "Bruxelles Capitale",
+                "rue": "Boulevard Smet de Nayer 145",
+                "code_postal": 1090,
+                "localite": "Jette",
+                "geolocalisation": "50.87487484331906, 4.328446871386727",
+                "latitude": 50.874874843319063,
+                "longitude": 4.3284468713867268
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.328446871386727,
+                    50.874874843319063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Maison de la Culture Famenne-Ardenne \"Culture et Vie en Marche\"",
+                "Unnamed: 1": "CC",
+                "province": "Luxembourg",
+                "rue": "Chaussée de l'Ourthe 74",
+                "code_postal": 6900,
+                "localite": "Marche-en-Famenne",
+                "geolocalisation": "50.23271765, 5.348989493934319",
+                "latitude": 50.23271765,
+                "longitude": 5.3489894939343188
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.348989493934319,
+                    50.23271765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Momignies \"En Thiérache\"",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue de Macon 5",
+                "code_postal": 6590,
+                "localite": "Momignies",
+                "geolocalisation": "50.03105577275423, 4.166509492753653",
+                "latitude": 50.031055772754229,
+                "longitude": 4.1665094927536526
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.166509492753653,
+                    50.031055772754229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Philippeville",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Rue de France 1A",
+                "code_postal": 5600,
+                "localite": "Philippeville",
+                "geolocalisation": "50.196248, 4.542616961748366",
+                "latitude": 50.196248,
+                "longitude": 4.542616961748366
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.542616961748366,
+                    50.196248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Pont-à-Celles",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Place de Liberchies 7",
+                "code_postal": 6238,
+                "localite": "Pont-a-celles",
+                "geolocalisation": "50.51380175, 4.42089999259135",
+                "latitude": 50.51380175,
+                "longitude": 4.4208999925913499
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.42089999259135,
+                    50.51380175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Rixensart",
+                "Unnamed: 1": "CC",
+                "province": "Brabant wallon",
+                "rue": "Place communale 38",
+                "code_postal": 1332,
+                "localite": "Rixensart",
+                "geolocalisation": "50.715793149999996, 4.500108331264496",
+                "latitude": 50.71579315,
+                "longitude": 4.5001083312644958
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.500108331264496,
+                    50.71579315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel des Roches",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Rue de Behogne 5",
+                "code_postal": 5580,
+                "localite": "Rochefort",
+                "geolocalisation": "50.1600843, 5.223884332142069",
+                "latitude": 50.1600843,
+                "longitude": 5.2238843321420694
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.223884332142069,
+                    50.1600843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Sambreville \"Crac's\"",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Grand-Place 28",
+                "code_postal": 5060,
+                "localite": "Sambreville",
+                "geolocalisation": "50.4468692, 4.6369282",
+                "latitude": 50.4468692,
+                "longitude": 4.6369282
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6369282,
+                    50.4468692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Schaerbeek",
+                "Unnamed: 1": "CC",
+                "province": "Bruxelles Capitale",
+                "rue": "Rue Locht 91-93",
+                "code_postal": 1030,
+                "localite": "Schaerbeek",
+                "geolocalisation": "50.86445519486719, 4.368864874358783",
+                "latitude": 50.86445519486719,
+                "longitude": 4.368864874358783
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.368864874358783,
+                    50.86445519486719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Tubize",
+                "Unnamed: 1": "CC",
+                "province": "Brabant wallon",
+                "rue": "Boulevard Georges Deryck 124",
+                "code_postal": 1480,
+                "localite": "Tubize",
+                "geolocalisation": "50.691007299999995, 4.201294935942876",
+                "latitude": 50.6910073,
+                "longitude": 4.201294935942876
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.201294935942876,
+                    50.6910073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Waremme",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Place de l'Ecole Moyenne 9",
+                "code_postal": 4300,
+                "localite": "Waremme",
+                "geolocalisation": "50.69738285784645, 5.2560666903709885",
+                "latitude": 50.697382857846449,
+                "longitude": 5.2560666903709885
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.256066690370989,
+                    50.697382857846449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Welkenraedt",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Rue Grétry 10",
+                "code_postal": 4840,
+                "localite": "Welkenraedt",
+                "geolocalisation": "50.66412645, 5.969189043503932",
+                "latitude": 50.66412645,
+                "longitude": 5.9691890435039321
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.969189043503932,
+                    50.66412645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel d'Amay \"Cultur'Ama\"",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Rue Entre-deux-Tours 3",
+                "code_postal": 4540,
+                "localite": "Amay",
+                "geolocalisation": "50.54893045, 5.3173739942482925",
+                "latitude": 50.54893045,
+                "longitude": 5.3173739942482925
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.317373994248292,
+                    50.54893045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Foyer socio-culturel d'Antoing",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue du Burg 23",
+                "code_postal": 7640,
+                "localite": "Antoing",
+                "geolocalisation": "50.5661792, 3.4485091186122574",
+                "latitude": 50.5661792,
+                "longitude": 3.4485091186122574
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.448509118612257,
+                    50.5661792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Bastogne",
+                "Unnamed: 1": "CC",
+                "province": "Luxembourg",
+                "rue": "Rue du Sablon 195",
+                "code_postal": 6600,
+                "localite": "Bastogne",
+                "geolocalisation": "50.0047876, 5.719997885727505",
+                "latitude": 50.0047876,
+                "longitude": 5.7199978857275049
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.719997885727505,
+                    50.0047876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de BEAURAING",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Rue de l'Aubepine 3",
+                "code_postal": 5570,
+                "localite": "Beauraing",
+                "geolocalisation": "50.109019950000004, 4.960003155996244",
+                "latitude": 50.10901995,
+                "longitude": 4.9600031559962439
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.960003155996244,
+                    50.10901995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de la Vallée de Nethen",
+                "Unnamed: 1": "CC",
+                "province": "Brabant wallon",
+                "rue": "Rue Auguste Goemans 20a",
+                "code_postal": 1320,
+                "localite": "Beauvechain",
+                "geolocalisation": "50.7791282, 4.720200525451197",
+                "latitude": 50.7791282,
+                "longitude": 4.7202005254511974
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.720200525451197,
+                    50.7791282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Boussu",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "rue Clarisse 24",
+                "code_postal": 7301,
+                "localite": "Boussu",
+                "geolocalisation": "50.43135635, 3.827727146742159",
+                "latitude": 50.43135635,
+                "longitude": 3.8277271467421592
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.827727146742159,
+                    50.43135635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Dison",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Rue des Ecoles 2",
+                "code_postal": 4820,
+                "localite": "Dison",
+                "geolocalisation": "50.6082716, 5.8547738",
+                "latitude": 50.6082716,
+                "longitude": 5.8547738
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8547738,
+                    50.6082716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Doische",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Rue Martin Sandron 124",
+                "code_postal": 5680,
+                "localite": "Doische",
+                "geolocalisation": "50.1355778, 4.745045673173516",
+                "latitude": 50.1355778,
+                "longitude": 4.7450456731735162
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.745045673173516,
+                    50.1355778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel d'Engis",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Rue du Pont 7",
+                "code_postal": 4480,
+                "localite": "Engis",
+                "geolocalisation": "50.55917185, 5.36217171348446",
+                "latitude": 50.55917185,
+                "longitude": 5.36217171348446
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36217171348446,
+                    50.55917185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Farciennes",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Grand-Place 59",
+                "code_postal": 6240,
+                "localite": "Farciennes",
+                "geolocalisation": "50.4275667, 4.553508341864717",
+                "latitude": 50.4275667,
+                "longitude": 4.5535083418647169
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.553508341864717,
+                    50.4275667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Flémalle",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Rue du Beau Site 25",
+                "code_postal": 4400,
+                "localite": "Flemalle",
+                "geolocalisation": "50.596964, 5.4480226",
+                "latitude": 50.596964,
+                "longitude": 5.4480226
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4480226,
+                    50.596964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Foyer culturel de Florennes",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Avenue Jules Lahaye 4a",
+                "code_postal": 5620,
+                "localite": "Florennes",
+                "geolocalisation": "50.24873205, 4.606801024701502",
+                "latitude": 50.24873205,
+                "longitude": 4.6068010247015021
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.606801024701502,
+                    50.24873205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de l'Entité fossoise",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Rue Donat Masson 22",
+                "code_postal": 5070,
+                "localite": "Fosses-la-Ville",
+                "geolocalisation": "50.39553665, 4.700383379717193",
+                "latitude": 50.39553665,
+                "longitude": 4.7003833797171932
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.700383379717193,
+                    50.39553665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Hotton",
+                "Unnamed: 1": "CC",
+                "province": "Luxembourg",
+                "rue": "Rue des Ecoles 55",
+                "code_postal": 6990,
+                "localite": "Hotton",
+                "geolocalisation": "50.2715537, 5.449568388804199",
+                "latitude": 50.2715537,
+                "longitude": 5.4495683888041988
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.449568388804199,
+                    50.2715537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de l'Arrondissement de Huy",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Avenue Delchambre 7A",
+                "code_postal": 4500,
+                "localite": "Huy",
+                "geolocalisation": "50.522712, 5.2415266",
+                "latitude": 50.522712,
+                "longitude": 5.2415266
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2415266,
+                    50.522712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre de Loisir et d'Information",
+                "Unnamed: 1": "CC",
+                "province": "Brabant wallon",
+                "rue": "Rue de la Montagne 36",
+                "code_postal": 1460,
+                "localite": "Ittre",
+                "geolocalisation": "50.651517419066806, 4.268836011363278",
+                "latitude": 50.651517419066806,
+                "longitude": 4.2688360113632777
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.268836011363278,
+                    50.651517419066806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel Libramont-Chevigny",
+                "Unnamed: 1": "CC",
+                "province": "Luxembourg",
+                "rue": "Avenue de Houffalize 56d",
+                "code_postal": 6800,
+                "localite": "Libramont",
+                "geolocalisation": "49.92631195, 5.3834155997266935",
+                "latitude": 49.92631195,
+                "longitude": 5.3834155997266935
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.383415599726693,
+                    49.92631195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel \"Les Chiroux\"",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Place des Carmes 8",
+                "code_postal": 4000,
+                "localite": "Liege",
+                "geolocalisation": "50.6390604, 5.5739008",
+                "latitude": 50.6390604,
+                "longitude": 5.5739008
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5739008,
+                    50.6390604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Foyer culturel de Manage",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Avenue de Scailmont 96",
+                "code_postal": 7170,
+                "localite": "Manage",
+                "geolocalisation": "50.49936565, 4.2444323136226",
+                "latitude": 50.49936565,
+                "longitude": 4.2444323136225997
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2444323136226,
+                    50.49936565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Nivelles",
+                "Unnamed: 1": "CC",
+                "province": "Brabant wallon",
+                "rue": "Place Albert Ier 1",
+                "code_postal": 1400,
+                "localite": "Nivelles",
+                "geolocalisation": "50.731215750000004, 4.49115738657588",
+                "latitude": 50.73121575,
+                "longitude": 4.49115738657588
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.49115738657588,
+                    50.73121575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Peruwelz \"Arrêt 59\"",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue des Français 59",
+                "code_postal": 7600,
+                "localite": "Peruwelz",
+                "geolocalisation": "50.51332805, 3.59275705",
+                "latitude": 50.51332805,
+                "longitude": 3.59275705
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.59275705,
+                    50.51332805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Remicourt",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Rue Maurice Delmotte 68",
+                "code_postal": 4350,
+                "localite": "Remicourt",
+                "geolocalisation": "50.68082682562453, 5.331324967667568",
+                "latitude": 50.680826825624528,
+                "longitude": 5.3313249676675678
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.331324967667568,
+                    50.680826825624528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Saint-Georges",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Rue Albert 1er 18",
+                "code_postal": 4470,
+                "localite": "Saint-Georges-sur-Meuse",
+                "geolocalisation": "50.6008303, 5.3558151",
+                "latitude": 50.6008303,
+                "longitude": 5.3558151
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3558151,
+                    50.6008303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Spa",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Rue Servais 8",
+                "code_postal": 4900,
+                "localite": "Spa",
+                "geolocalisation": "50.4915157, 5.86549384142122",
+                "latitude": 50.4915157,
+                "longitude": 5.8654938414212197
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.86549384142122,
+                    50.4915157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Theux",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Place Taskin 1",
+                "code_postal": 4910,
+                "localite": "Theux",
+                "geolocalisation": "50.53603435, 5.8133701099999975",
+                "latitude": 50.53603435,
+                "longitude": 5.81337011
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.81337011,
+                    50.53603435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel Haute Sambre",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue des Nobles 32",
+                "code_postal": 6530,
+                "localite": "Thuin",
+                "geolocalisation": "50.3391843, 4.285488345295983",
+                "latitude": 50.3391843,
+                "longitude": 4.2854883452959829
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.285488345295983,
+                    50.3391843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel Rossignol-Tintigny",
+                "Unnamed: 1": "CC",
+                "province": "Luxembourg",
+                "rue": "Rue Camille Joset 1",
+                "code_postal": 6730,
+                "localite": "Tintigny",
+                "geolocalisation": "49.71693275, 5.486057400370536",
+                "latitude": 49.71693275,
+                "longitude": 5.4860574003705356
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.486057400370536,
+                    49.71693275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Maison de la Culture de Tournai",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Avenue des Frères Rimbaut 2",
+                "code_postal": 7500,
+                "localite": "Tournai",
+                "geolocalisation": "50.6053602638646, 3.3798747406792327",
+                "latitude": 50.605360263864597,
+                "longitude": 3.3798747406792327
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.379874740679233,
+                    50.605360263864597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel régional de Verviers",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Boulevard des Gérardchamps 7c",
+                "code_postal": 4800,
+                "localite": "Verviers",
+                "geolocalisation": "50.5932137, 5.847627494491321",
+                "latitude": 50.5932137,
+                "longitude": 5.8476274944913209
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.847627494491321,
+                    50.5932137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Wanze",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Place Faniel 8",
+                "code_postal": 4520,
+                "localite": "Wanze",
+                "geolocalisation": "50.5357567, 5.21432778765317",
+                "latitude": 50.5357567,
+                "longitude": 5.2143277876531702
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.21432778765317,
+                    50.5357567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "W:halll - Centre culturel de Woluwe-Saint-Pierre",
+                "Unnamed: 1": "CC",
+                "province": "Bruxelles",
+                "rue": "Avenue Charles Thielemans 93",
+                "code_postal": 1150,
+                "localite": "Woluwe-Saint-Pierre",
+                "geolocalisation": "50.8370534, 4.4270298",
+                "latitude": 50.8370534,
+                "longitude": 4.4270298
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4270298,
+                    50.8370534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "\"Pays des Collines\" Centre culturel",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue de la Gare 20",
+                "code_postal": 7910,
+                "localite": "Anvaing",
+                "geolocalisation": "50.68511325, 3.565069077043818",
+                "latitude": 50.68511325,
+                "longitude": 3.5650690770438178
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.565069077043818,
+                    50.68511325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel d'Aubange",
+                "Unnamed: 1": "CC",
+                "province": "Luxembourg",
+                "rue": "Rue du Centre 17",
+                "code_postal": 6791,
+                "localite": "Aubange",
+                "geolocalisation": "49.56323635, 5.836425486938933",
+                "latitude": 49.56323635,
+                "longitude": 5.8364254869389329
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.836425486938933,
+                    49.56323635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Bertrix",
+                "Unnamed: 1": "CC",
+                "province": "Luxembourg",
+                "rue": "Place des Trois Fers 9",
+                "code_postal": 6880,
+                "localite": "Bertrix",
+                "geolocalisation": "49.8544352, 5.2516226",
+                "latitude": 49.8544352,
+                "longitude": 5.2516226
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2516226,
+                    49.8544352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Braives-Burdinne",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Rue Chemin du Via 20",
+                "code_postal": 4260,
+                "localite": "Braives",
+                "geolocalisation": "50.62002144748818, 5.144675625335711",
+                "latitude": 50.620021447488178,
+                "longitude": 5.1446756253357107
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.144675625335711,
+                    50.620021447488178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Association des Centres cuturels de la Communauté Française de Belgique",
+                "Unnamed: 1": "CC",
+                "province": "Bruxelles Capitale",
+                "rue": "Avenue des Arts 7-8",
+                "code_postal": 1210,
+                "localite": "Bruxelles",
+                "geolocalisation": "50.8481363603096, 4.369534692647192",
+                "latitude": 50.848136360309603,
+                "longitude": 4.3695346926471919
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.369534692647192,
+                    50.848136360309603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel du Beau Canton - Chiny-Florenville",
+                "Unnamed: 1": "CC",
+                "province": "Luxembourg",
+                "rue": "Rue de Lorrène 3",
+                "code_postal": 6810,
+                "localite": "Chiny",
+                "geolocalisation": "49.737888749999996, 5.341291120320182",
+                "latitude": 49.73788875,
+                "longitude": 5.3412911203201823
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.341291120320182,
+                    49.73788875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Ciney",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Place Roi Baudouin 1",
+                "code_postal": 5590,
+                "localite": "Ciney",
+                "geolocalisation": "50.29871425, 5.100495156138129",
+                "latitude": 50.29871425,
+                "longitude": 5.1004951561381286
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.100495156138129,
+                    50.29871425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Durbuy",
+                "Unnamed: 1": "CC",
+                "province": "Luxembourg",
+                "rue": "Grand-rue 40A",
+                "code_postal": 6940,
+                "localite": "Durbuy",
+                "geolocalisation": "50.3509271, 5.4939752",
+                "latitude": 50.3509271,
+                "longitude": 5.4939752
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4939752,
+                    50.3509271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel d'Eghezée \"Ecrin\"",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Rue de la Gare 5",
+                "code_postal": 5310,
+                "localite": "Eghezee",
+                "geolocalisation": "50.5967067, 4.9104427295822894",
+                "latitude": 50.5967067,
+                "longitude": 4.9104427295822894
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.910442729582289,
+                    50.5967067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel d'Evere",
+                "Unnamed: 1": "CC",
+                "province": "Bruxelles Capitale",
+                "rue": "Rue de Paris 43",
+                "code_postal": 1140,
+                "localite": "Evere",
+                "geolocalisation": "50.87686005, 4.40193158804658",
+                "latitude": 50.87686005,
+                "longitude": 4.4019315880465797
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.40193158804658,
+                    50.87686005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Gembloux \"Atrium 57\"",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Rue du Moulin 55bis",
+                "code_postal": 5030,
+                "localite": "Gembloux",
+                "geolocalisation": "50.56276390676525, 4.693317158826124",
+                "latitude": 50.562763906765248,
+                "longitude": 4.6933171588261242
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.693317158826124,
+                    50.562763906765248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Genappe",
+                "Unnamed: 1": "CC",
+                "province": "Brabant wallon",
+                "rue": "Rue de Bruxelles 14",
+                "code_postal": 1470,
+                "localite": "Genappe",
+                "geolocalisation": "50.612797900000004, 4.451742324397015",
+                "latitude": 50.6127979,
+                "longitude": 4.4517423243970153
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.451742324397015,
+                    50.6127979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Gerpinnes",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue de Villers 61-63",
+                "code_postal": 6280,
+                "localite": "Gerpinnes",
+                "geolocalisation": "50.379444541012916, 4.484527570110345",
+                "latitude": 50.379444541012916,
+                "longitude": 4.4845275701103446
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.484527570110345,
+                    50.379444541012916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel \"Central\"",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Place Jules Mansart 17-18",
+                "code_postal": 7100,
+                "localite": "La louviere",
+                "geolocalisation": "50.47486805, 4.185028125288112",
+                "latitude": 50.47486805,
+                "longitude": 4.1850281252881123
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.185028125288112,
+                    50.47486805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel \"René Magritte\"",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Rue des 4 fils Aymon, 21",
+                "code_postal": 7860,
+                "localite": "Lessines",
+                "geolocalisation": "50.71311885, 3.8327508416542195",
+                "latitude": 50.71311885,
+                "longitude": 3.8327508416542195
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.83275084165422,
+                    50.71311885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Marchin",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Place de Grand Marchin 4",
+                "code_postal": 4570,
+                "localite": "Marchin",
+                "geolocalisation": "50.465450399999995, 5.237115031774634",
+                "latitude": 50.4654504,
+                "longitude": 5.2371150317746338
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.237115031774634,
+                    50.4654504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Nassogne",
+                "Unnamed: 1": "CC",
+                "province": "Luxembourg",
+                "rue": "Rue de Lahaut 3",
+                "code_postal": 6950,
+                "localite": "Nassogne",
+                "geolocalisation": "50.128740199999996, 5.343266183835665",
+                "latitude": 50.1287402,
+                "longitude": 5.3432661838356648
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.343266183835665,
+                    50.1287402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Rebecq",
+                "Unnamed: 1": "CC",
+                "province": "Brabant wallon",
+                "rue": "Chemin du Croly 11",
+                "code_postal": 1430,
+                "localite": "Rebecq",
+                "geolocalisation": "50.671107750000004, 4.15569524999999",
+                "latitude": 50.67110775,
+                "longitude": 4.15569525
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.15569525,
+                    50.67110775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Sivry-Rance \"Terre chevrotine\"",
+                "Unnamed: 1": "CC",
+                "province": "Hainaut",
+                "rue": "Chemin des Amours 1",
+                "code_postal": 6470,
+                "localite": "Sivry",
+                "geolocalisation": "50.1684396, 4.1822134566778875",
+                "latitude": 50.1684396,
+                "longitude": 4.1822134566778875
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.182213456677887,
+                    50.1684396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Stavelot-Trois-Ponts",
+                "Unnamed: 1": "CC",
+                "province": "Liège",
+                "rue": "Cour de l'Abbaye 1",
+                "code_postal": 4970,
+                "localite": "Stavelot",
+                "geolocalisation": "50.3932962, 5.9316733",
+                "latitude": 50.3932962,
+                "longitude": 5.9316733
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9316733,
+                    50.3932962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Waterloo \"Espace Bernier\"",
+                "Unnamed: 1": "CC",
+                "province": "Brabant wallon",
+                "rue": "Rue François Libert 26",
+                "code_postal": 1410,
+                "localite": "Waterloo",
+                "geolocalisation": "50.71606705, 4.395916149158291",
+                "latitude": 50.71606705,
+                "longitude": 4.3959161491582908
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.395916149158291,
+                    50.71606705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Fondation rurale Wallonie",
+                "Unnamed: 1": "CC",
+                "province": "Namur",
+                "rue": "Rue Camille Hubert 5",
+                "code_postal": 5032,
+                "localite": "Isnes",
+                "geolocalisation": "50.50342195, 4.714537350000002",
+                "latitude": 50.50342195,
+                "longitude": 4.71453735
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.71453735,
+                    50.50342195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel d'Uccle",
+                "Unnamed: 1": "CC",
+                "province": "Bruxelles Capitale",
+                "rue": "Rue Rouge 47",
+                "code_postal": 1180,
+                "localite": "Uccle",
+                "geolocalisation": "50.80116370646835, 4.342368397172638",
+                "latitude": 50.801163706468351,
+                "longitude": 4.3423683971726383
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.342368397172638,
+                    50.801163706468351
+                ]
+            }
+        }
+    ]
+}

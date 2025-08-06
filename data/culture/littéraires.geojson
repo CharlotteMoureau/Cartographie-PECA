@@ -1,0 +1,1072 @@
+{
+    "type": "FeatureCollection",
+    "name": "OC Littéraires",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "L'Arbre de Diane",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Avenue Emile Van Becelaere 184",
+                "Code postal": 1170,
+                "Localité": "Watermael-Boitsfort",
+                "Géolocalisation": "50.806257180338704, 4.4020062686895045",
+                "lat": 50.806257180338704,
+                "lon": 4.4020062686895045
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.402006268689505,
+                    50.806257180338704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Atelier du Livre de Mariemont",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Chaussée de Mariemont 100",
+                "Code postal": 7140,
+                "Localité": "Morlanwelz",
+                "Géolocalisation": "50.471475506704856, 4.235750840280282",
+                "lat": 50.471475506704856,
+                "lon": 4.2357508402802821
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.235750840280282,
+                    50.471475506704856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Passa Porta FR",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue Antoine Dansaert 46",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.84973522785096, 4.346798912868215",
+                "lat": 50.849735227850957,
+                "lon": 4.3467989128682154
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.346798912868215,
+                    50.849735227850957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "PILEn",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue du Prince royal 87",
+                "Code postal": 1050,
+                "Localité": "Ixelles",
+                "Géolocalisation": "50.834150023367144, 4.359575382184634",
+                "lat": 50.834150023367144,
+                "lon": 4.3595753821846337
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.359575382184634,
+                    50.834150023367144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "OnLit Editions",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Avenue Charles Woeste 75 Bte12",
+                "Code postal": 1090,
+                "Localité": "Jette",
+                "Géolocalisation": "50.87673341532726, 4.332770039857256",
+                "lat": 50.876733415327259,
+                "lon": 4.3327700398572562
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.332770039857256,
+                    50.876733415327259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Maison du Livre",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue de Rome 24-28",
+                "Code postal": 1060,
+                "Localité": "Saint-Gilles",
+                "Géolocalisation": "50.82986959492322, 4.345955199373489",
+                "lat": 50.829869594923217,
+                "lon": 4.3459551993734893
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.345955199373489,
+                    50.829869594923217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "AREAW - Association royale des Écrivains et Artistes de Wallonie",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue de la Mutualité 109",
+                "Code postal": 1180,
+                "Localité": "Uccle",
+                "Géolocalisation": "50.81191528468413, 4.344909326802583",
+                "lat": 50.811915284684133,
+                "lon": 4.3449093268025827
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344909326802583,
+                    50.811915284684133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La 5e couche",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Avenue des Tropiques 2",
+                "Code postal": 1190,
+                "Localité": "Forest",
+                "Géolocalisation": "50.8151926119123, 4.326396712866719",
+                "lat": 50.815192611912302,
+                "lon": 4.3263967128667193
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.326396712866719,
+                    50.815192611912302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "L'Agenda Politique",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Quai Churchill 17 Bte31",
+                "Code postal": 4020,
+                "Localité": "Liège",
+                "Géolocalisation": "50.63618057975173, 5.577038099999999",
+                "lat": 50.636180579751731,
+                "lon": 5.5770381
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5770381,
+                    50.636180579751731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "ADEB - Association des Editeurs Belges",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Avenue Roger Vandendriessche 18 Bte 19",
+                "Code postal": 1150,
+                "Localité": "Woluwe-Saint-Pierre",
+                "Géolocalisation": "50.834502218405824, 4.414382614359779",
+                "lat": 50.834502218405824,
+                "lon": 4.4143826143597789
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.414382614359779,
+                    50.834502218405824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Comptoir des Petits Editeurs et Métiers du Livre",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "En Neuvice 20",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.645471736389744, 5.576583597517741",
+                "lat": 50.645471736389744,
+                "lon": 5.5765835975177414
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.576583597517741,
+                    50.645471736389744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Bela asbl, La Maison des Auteurs",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue du Prince royal 85-87",
+                "Code postal": 1050,
+                "Localité": "Ixelles",
+                "Géolocalisation": "50.834150023367144, 4.359575382184634",
+                "lat": 50.834150023367144,
+                "lon": 4.3595753821846337
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.359575382184634,
+                    50.834150023367144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Lezarts Urbains",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue de la Victoire 102",
+                "Code postal": 1060,
+                "Localité": "Saint-Gilles",
+                "Géolocalisation": "50.829909935062275, 4.349369982184452",
+                "lat": 50.829909935062275,
+                "lon": 4.3493699821844523
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.349369982184452,
+                    50.829909935062275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Piérides sprl - Les Impressions nouvelles",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Avenue de la Jonction 51-53",
+                "Code postal": 1190,
+                "Localité": "Forest",
+                "Géolocalisation": "50.820161496046126, 4.346356997525462",
+                "lat": 50.820161496046126,
+                "lon": 4.3463569975254623
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.346356997525462,
+                    50.820161496046126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Tétras Lyre",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue des Croix de Guerre 31",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.62759246256641, 5.583119282175506",
+                "lat": 50.627592462566412,
+                "lon": 5.583119282175506
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.583119282175506,
+                    50.627592462566412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Textyles, revue des lettres belges de langue française",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Ulg Bat A2 - Place Cockerill 3-5",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.64160080563035, 5.576064068356981",
+                "lat": 50.641600805630347,
+                "lon": 5.5760640683569811
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.576064068356981,
+                    50.641600805630347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Editions du Cerisier",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue du Cerisier 20",
+                "Code postal": 7033,
+                "Localité": "Cuesmes",
+                "Géolocalisation": "50.43917864204898, 3.91667048216718",
+                "lat": 50.439178642048979,
+                "lon": 3.9166704821671798
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.91667048216718,
+                    50.439178642048979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Boucle d'Or asbl",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue des Brebis 75",
+                "Code postal": 1170,
+                "Localité": "Watermael-Boitsfort",
+                "Géolocalisation": "50.812957739965114, 4.395846455638515",
+                "lat": 50.812957739965114,
+                "lon": 4.3958464556385151
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.395846455638515,
+                    50.812957739965114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Casaubon  srl",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue de la Source 7",
+                "Code postal": 1435,
+                "Localité": "Mont-Saint-Guibert",
+                "Géolocalisation": "50.636015950216766, 4.626359197517332",
+                "lat": 50.636015950216766,
+                "lon": 4.6263591975173322
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.626359197517332,
+                    50.636015950216766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Emile & Cie",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Bureaux : Place de La Hestre 19",
+                "Code postal": 7141,
+                "Localité": "Morlanwelz",
+                "Géolocalisation": "50.47437481319356, 4.237261341686995",
+                "lat": 50.474374813193563,
+                "lon": 4.2372613416869953
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.237261341686995,
+                    50.474374813193563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Midis de la Poésie",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue de Flandre 46",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.85146792862316, 4.346367439856153",
+                "lat": 50.851467928623158,
+                "lon": 4.3463674398561531
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.346367439856153,
+                    50.851467928623158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les éditions Le Taillis Pré",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue de la Plaine 23",
+                "Code postal": 6200,
+                "Localité": "Châtelet",
+                "Géolocalisation": "50.43726931498939, 4.513499824496374",
+                "lat": 50.437269314989393,
+                "lon": 4.5134998244963738
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.513499824496374,
+                    50.437269314989393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "ELI - Espace des Littératures illustrées",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Chaussée de Wavre 150",
+                "Code postal": 1050,
+                "Localité": "Ixelles",
+                "Géolocalisation": "50.83615326926299, 4.3689277551969194",
+                "lat": 50.836153269262986,
+                "lon": 4.3689277551969194
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.368927755196919,
+                    50.836153269262986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Maison de la poésie d'Amay/ Editions",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Grand-Route 50",
+                "Code postal": 4540,
+                "Localité": "Amay",
+                "Géolocalisation": "50.54157060000865, 5.331985955183885",
+                "lat": 50.541570600008647,
+                "lon": 5.3319859551838853
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.331985955183885,
+                    50.541570600008647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Foire du Livre de Bruxelles asbl",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue Armand Campenhout 72 Bte7",
+                "Code postal": 1050,
+                "Localité": "Ixelles",
+                "Géolocalisation": "50.823766007025334, 4.364145097525607",
+                "lat": 50.823766007025334,
+                "lon": 4.3641450975256069
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.364145097525607,
+                    50.823766007025334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Maelström, édition et FiEstival",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue de la Station de Woluwe 118",
+                "Code postal": 1200,
+                "Localité": "Woluwe-Saint-Lambert",
+                "Géolocalisation": "50.837241590391685, 4.438221268690848",
+                "lat": 50.837241590391685,
+                "lon": 4.4382212686908478
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.438221268690848,
+                    50.837241590391685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre belge de la bande desinée",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue des Sables 20",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.851162070563106, 4.360163284476066",
+                "lat": 50.851162070563106,
+                "lon": 4.3601632844760658
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.360163284476066,
+                    50.851162070563106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Maison de la Poésie et de la Langue française Wallonie-Bruxelles",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue Fumal 28",
+                "Code postal": 5000,
+                "Localité": "Namur",
+                "Géolocalisation": "50.462829704408016, 4.862562012851137",
+                "lat": 50.462829704408016,
+                "lon": 4.8625620128511367
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.862562012851137,
+                    50.462829704408016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Alice Éditions",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Avenue de l'Artisanat 2a",
+                "Code postal": 1420,
+                "Localité": "Braine-l'Alleud",
+                "Géolocalisation": "50.69626629531974, 4.361340039849259",
+                "lat": 50.696266295319738,
+                "lon": 4.3613400398492592
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.361340039849259,
+                    50.696266295319738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Librairie Wallonie-Bruxelles",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue Quincampoix 46",
+                "Code postal": 75004,
+                "Localité": "Paris - France",
+                "Géolocalisation": "48.86122232140493, 2.3507079127814685",
+                "lat": 48.861222321404931,
+                "lon": 2.3507079127814685
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.350707912781469,
+                    48.861222321404931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Zones Sensibles",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue de l'Indépendance 104bis",
+                "Code postal": 1080,
+                "Localité": "Molenbeek-Saint-Jean",
+                "Géolocalisation": "50.85261417916031, 4.329168311020828",
+                "lat": 50.852614179160312,
+                "lon": 4.3291683110208279
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.329168311020828,
+                    50.852614179160312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Couleur Livres",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Siège d'explloitation: Rue André Masquelier 4",
+                "Code postal": 7000,
+                "Localité": "Mons",
+                "Géolocalisation": "50.451948562770795, 3.9442582686738237",
+                "lat": 50.451948562770795,
+                "lon": 3.9442582686738237
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.944258268673824,
+                    50.451948562770795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Academie Royale de Langue et de littérature Françaises",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue Ducale 1",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.84223808446366, 4.365435835514299",
+                "lat": 50.842238084463659,
+                "lon": 4.3654358355142993
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.365435835514299,
+                    50.842238084463659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Wolf",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue de la Violette 20",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.84566204295457, 4.352163982185139",
+                "lat": 50.845662042954572,
+                "lon": 4.3521639821851386
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.352163982185139,
+                    50.845662042954572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "BDL - Banque du Livre",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue Provinciale 62",
+                "Code postal": 1301,
+                "Localité": "Wavre",
+                "Géolocalisation": "50.713027402201384, 4.599686055634235",
+                "lat": 50.713027402201384,
+                "lon": 4.5996860556342352
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.599686055634235,
+                    50.713027402201384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Employé du Moi",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue du Progrès 409",
+                "Code postal": 1030,
+                "Localité": "Schaerbeek",
+                "Géolocalisation": "50.869089101427484, 4.364242268692294",
+                "lat": 50.869089101427484,
+                "lon": 4.3642422686922941
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.364242268692294,
+                    50.869089101427484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Syndicat des libraires francophones de Belgique",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue du Prince Royal 85",
+                "Code postal": 1050,
+                "Localité": "Ixelles",
+                "Géolocalisation": "50.834150023367144, 4.359575382184634",
+                "lat": 50.834150023367144,
+                "lon": 4.3595753821846337
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.359575382184634,
+                    50.834150023367144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "MET - Magasin d'Ecriture théâtrale",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Avenue Hugo Van Der Goes 120",
+                "Code postal": 1160,
+                "Localité": "Auderghem",
+                "Géolocalisation": "50.80851275351555, 4.439180439854238",
+                "lat": 50.808512753515551,
+                "lon": 4.4391804398542378
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.439180439854238,
+                    50.808512753515551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "El Môjo des Walons",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Boulevard Roullier 1",
+                "Code postal": 6000,
+                "Localité": "Charleroi",
+                "Géolocalisation": "50.418440687948085, 4.4479526429710985",
+                "lat": 50.418440687948085,
+                "lon": 4.4479526429710985
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.447952642971098,
+                    50.418440687948085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Editions Quadrature",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue des Annettes 22",
+                "Code postal": 1348,
+                "Localité": "Louvain-la-Neuve",
+                "Géolocalisation": "50.67181256519848, 4.607096939848169",
+                "lat": 50.671812565198479,
+                "lon": 4.6070969398481694
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.607096939848169,
+                    50.671812565198479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Fonds Victor asbl",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Cantersteen 12",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.84572081171696, 4.357526868691209",
+                "lat": 50.845720811716959,
+                "lon": 4.3575268686912088
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.357526868691209,
+                    50.845720811716959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "MEO Editions",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Avenue Jeanne 10 Bte 5",
+                "Code postal": 1050,
+                "Localité": "Ixelles",
+                "Géolocalisation": "50.81602307336033, 4.381836024513104",
+                "lat": 50.816023073360327,
+                "lon": 4.3818360245131043
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.381836024513104,
+                    50.816023073360327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Weyrich Edition",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Route de la Maladrie 5",
+                "Code postal": 6840,
+                "Localité": "Neufchateau",
+                "Géolocalisation": "49.85858707884148, 5.460106097483159",
+                "lat": 49.858587078841481,
+                "lon": 5.460106097483159
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.460106097483159,
+                    49.858587078841481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Editeurs singuliers - Espace Livres et Créations",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Bureaux: Rue du Marteau 19",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.84722271320334, 4.371355939855951",
+                "lat": 50.847222713203337,
+                "lon": 4.3713559398559507
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.371355939855951,
+                    50.847222713203337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Compagnie Albertine",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue Max Roos 34",
+                "Code postal": 1030,
+                "Localité": "Schaerbeek",
+                "Géolocalisation": "50.875766348458434, 4.376759097527952",
+                "lat": 50.875766348458434,
+                "lon": 4.3767590975279518
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.376759097527952,
+                    50.875766348458434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Librel - Syndicat des Libraires francophones de Belgique",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue du Prince Royal 85",
+                "Code postal": 1050,
+                "Localité": "Ixelles",
+                "Géolocalisation": "50.834150023367144, 4.359575382184634",
+                "lat": 50.834150023367144,
+                "lon": 4.3595753821846337
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.359575382184634,
+                    50.834150023367144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Fremok/Fréon",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue de l'Instruction 51",
+                "Code postal": 1070,
+                "Localité": "Anderlecht",
+                "Géolocalisation": "50.838352011776486, 4.3270397533494425",
+                "lat": 50.838352011776486,
+                "lon": 4.3270397533494425
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.327039753349442,
+                    50.838352011776486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ante Post - La Lettre volée",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Avenue Coghen 146",
+                "Code postal": 1180,
+                "Localité": "Uccle",
+                "Géolocalisation": "50.80954755250198, 4.340092326802472",
+                "lat": 50.809547552501982,
+                "lon": 4.3400923268024716
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.340092326802472,
+                    50.809547552501982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Esperluète Editions",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Rue de Noville 9",
+                "Code postal": 5310,
+                "Localité": "Eghezée",
+                "Géolocalisation": "50.609268142667155, 4.888521982174684",
+                "lat": 50.609268142667155,
+                "lon": 4.8885219821746837
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.888521982174684,
+                    50.609268142667155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "CROMBEL - Comité roman du Comité belge du Bureau européen pour les langues moins répandues",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Boulevard Gustave Roullier 1",
+                "Code postal": 6000,
+                "Localité": "Charleroi",
+                "Géolocalisation": "50.41691562523202, 4.448161155178389",
+                "lat": 50.416915625232022,
+                "lon": 4.4481611551783891
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.448161155178389,
+                    50.416915625232022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "CED-WB - Centre des Écritures Dramatiques Wallonie-Bruxelles",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Place de La Hestre 19/3",
+                "Code postal": 7170,
+                "Localité": "Manage",
+                "Géolocalisation": "50.47437481319356, 4.237261341686995",
+                "lat": 50.474374813193563,
+                "lon": 4.2372613416869953
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.237261341686995,
+                    50.474374813193563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Editions Le Cormier",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Avenue Coghen 146",
+                "Code postal": 1180,
+                "Localité": "Uccle",
+                "Géolocalisation": "50.809550942278406, 4.340124513197736",
+                "lat": 50.809550942278406,
+                "lon": 4.3401245131977362
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.340124513197736,
+                    50.809550942278406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "ATI - Les Ateliers du Texte et de l'Image",
+                "Unnamed: 1": "OC Littéraires",
+                "Adresse": "Féronstrée 118",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.64733055034428, 5.582377539847117",
+                "lat": 50.647330550344279,
+                "lon": 5.5823775398471174
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.582377539847117,
+                    50.647330550344279
+                ]
+            }
+        }
+    ]
+}

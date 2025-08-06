@@ -1,0 +1,3099 @@
+{
+    "type": "FeatureCollection",
+    "name": "CEC",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "ABCD - Association Bruxelloise et brabançonne des Compagnies Dramatiques",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue du Viaduc 118",
+                "Code postal": 1050,
+                "Localité": "Ixelles",
+                "Géolocalisation": "50.83490382485911, 4.373223142460877",
+                "lat": 50.834903824859111,
+                "lon": 4.3732231424608772
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.373223142460877,
+                    50.834903824859111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Terrain d'Aventures",
+                "Unnamed: 1": "CEC",
+                "Province": "Brabant wallon",
+                "Adresse": "Rue de la Neuville 62",
+                "Code postal": 1348,
+                "Localité": "Ottignies-Louvain-la-Neuve",
+                "Géolocalisation": "50.66499068992774, 4.6160907406098985",
+                "lat": 50.664990689927741,
+                "lon": 4.6160907406098985
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.616090740609899,
+                    50.664990689927741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Osez'Art - Foyer culturel de Perwez",
+                "Unnamed: 1": "CEC",
+                "Province": "Brabant wallon",
+                "Adresse": "Grand Place 32",
+                "Code postal": 1360,
+                "Localité": "Perwez",
+                "Géolocalisation": "50.62354837075985, 4.814876313619924",
+                "lat": 50.623548370759849,
+                "lon": 4.8148763136199237
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.814876313619924,
+                    50.623548370759849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Courant d'air asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Rue du Ponçay 87",
+                "Code postal": 4020,
+                "Localité": "Liège",
+                "Géolocalisation": "50.64202946799571, 5.59683626944445",
+                "lat": 50.642029467995712,
+                "lon": 5.5968362694444496
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.59683626944445,
+                    50.642029467995712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Pré en bulle",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Clos du Chêne au Bois 12",
+                "Code postal": 7160,
+                "Localité": "Chapelle-lez-Herlaimont",
+                "Géolocalisation": "50.47595274823199, 4.27260904245111",
+                "lat": 50.47595274823199,
+                "lon": 4.2726090424511103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.27260904245111,
+                    50.47595274823199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ateliers de la rue Voot asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Voot 91",
+                "Code postal": 1200,
+                "Localité": "Woluwé-Saint-Lambert",
+                "Géolocalisation": "50.841042104424446, 4.435478598285093",
+                "lat": 50.841042104424446,
+                "lon": 4.4354785982850933
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.435478598285093,
+                    50.841042104424446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Cla",
+                "Unnamed: 1": "CEC",
+                "Province": "Brabant wallon",
+                "Adresse": "Rue des Deux-Ponts 15",
+                "Code postal": 1340,
+                "Localité": "Ottignies-Louvain-la-Neuve",
+                "Géolocalisation": "50.66882497873124, 4.572333042456342",
+                "lat": 50.668824978731237,
+                "lon": 4.572333042456342
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.572333042456342,
+                    50.668824978731237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "ACTH - Association des Compagnies Théatrales du Hainaut",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Rue Franc Boudin 62",
+                "Code postal": 7050,
+                "Localité": "Jurbise",
+                "Géolocalisation": "50.52084035675984, 3.8549414712874914",
+                "lat": 50.520840356759841,
+                "lon": 3.8549414712874914
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.854941471287491,
+                    50.520840356759841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Blanc Murmure",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Rue de la Boule 36",
+                "Code postal": 7390,
+                "Localité": "Quaregnon",
+                "Géolocalisation": "50.419795318997274, 3.8603101136144153",
+                "lat": 50.419795318997274,
+                "lon": 3.8603101136144153
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.860310113614415,
+                    50.419795318997274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Douzerome",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue de la Victoire 26",
+                "Code postal": 1060,
+                "Localité": "Saint-Gilles",
+                "Géolocalisation": "50.83210282901263, 4.346541471295949",
+                "lat": 50.832102829012634,
+                "lon": 4.3465414712959491
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.346541471295949,
+                    50.832102829012634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Zone-Art - Services de l'APEM T-21",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Rue Victor Close 41",
+                "Code postal": 4800,
+                "Localité": "Verviers",
+                "Géolocalisation": "50.557817700115685, 5.8810831252662545",
+                "lat": 50.557817700115685,
+                "lon": 5.8810831252662545
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.881083125266255,
+                    50.557817700115685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Terre Franche",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Place de Longchamps 13",
+                "Code postal": 5310,
+                "Localité": "Eghezée",
+                "Géolocalisation": "50.57668965937867, 4.896145484659248",
+                "lat": 50.576689659378673,
+                "lon": 4.8961454846592476
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.896145484659248,
+                    50.576689659378673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Tribal Souk asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Luxembourg",
+                "Adresse": "Rue de Montauban 69",
+                "Code postal": 6743,
+                "Localité": "Buzenol",
+                "Géolocalisation": "49.64218902095507, 5.589882996406382",
+                "lat": 49.642189020955072,
+                "lon": 5.5898829964063816
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.589882996406382,
+                    49.642189020955072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Miroir Vagabond",
+                "Unnamed: 1": "CEC",
+                "Province": "Luxembourg",
+                "Adresse": "Vieille Route de Marenne 2",
+                "Code postal": 6990,
+                "Localité": "Hotton",
+                "Géolocalisation": "50.246979436176424, 5.39973336943381",
+                "lat": 50.246979436176424,
+                "lon": 5.3997333694338101
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.39973336943381,
+                    50.246979436176424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Fédécirque - Fédération des écoles de cirque amateur en FWB",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Place de Grand-Marchin 3",
+                "Code postal": 4570,
+                "Localité": "Marchin",
+                "Géolocalisation": "50.46607118949613, 5.2363480271101",
+                "lat": 50.466071189496127,
+                "lon": 5.2363480271101004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2363480271101,
+                    50.466071189496127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "L'Art de rien",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Chaussée de Wavre 37",
+                "Code postal": 5030,
+                "Localité": "Gembloux",
+                "Géolocalisation": "50.57280488451631, 4.691967913618536",
+                "lat": 50.572804884516309,
+                "lon": 4.6919679136185364
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.691967913618536,
+                    50.572804884516309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Tissu Aérien (Ecole Ci.Vol)",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue de l'Education 19",
+                "Code postal": 1083,
+                "Localité": "Ganshoren",
+                "Géolocalisation": "50.87443337191909, 4.31506131146164",
+                "lat": 50.874433371919089,
+                "lon": 4.3150613114616396
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.31506131146164,
+                    50.874433371919089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Histrion Circus - Ecole de Cirque de Jodoigne",
+                "Unnamed: 1": "CEC",
+                "Province": "Brabant wallon",
+                "Adresse": "Rue de la Chapelle Stevenaert 61",
+                "Code postal": 1370,
+                "Localité": "Jodoigne",
+                "Géolocalisation": "50.7132269147899, 4.847870284787201",
+                "lat": 50.7132269147899,
+                "lon": 4.8478702847872013
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.847870284787201,
+                    50.7132269147899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Bal Spécial",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Quai St Léonard 221",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.650992353522454, 5.595414799999999",
+                "lat": 50.650992353522454,
+                "lon": 5.5954148
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5954148,
+                    50.650992353522454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "FECOTA - Fédération des Compagnies de théâtre d'amateurs",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Rue Bodrémont 19",
+                "Code postal": 5190,
+                "Localité": "Jemeppe-sur-Sambre",
+                "Géolocalisation": "50.46637682290699, 4.66836868478049",
+                "lat": 50.466376822906987,
+                "lon": 4.6683686847804902
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.66836868478049,
+                    50.466376822906987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "LST Andenne - Lutte Solidarité Travail asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Rue Horseilles 26",
+                "Code postal": 5300,
+                "Localité": "Andenne",
+                "Géolocalisation": "50.48561423530092, 5.094664513616163",
+                "lat": 50.485614235300922,
+                "lon": 5.0946645136161628
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.094664513616163,
+                    50.485614235300922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "L'Heure atelier asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Thiéfry 45",
+                "Code postal": 1030,
+                "Localité": "Schaerbeek",
+                "Géolocalisation": "50.858771590010086, 4.375477711780026",
+                "lat": 50.858771590010086,
+                "lon": 4.3754777117800261
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.375477711780026,
+                    50.858771590010086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Dance Corner",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Chaussée de Nivelles 213 B",
+                "Code postal": 5020,
+                "Localité": "Namur",
+                "Géolocalisation": "50.48058884173512, 4.769714982608861",
+                "lat": 50.48058884173512,
+                "lon": 4.7697149826088614
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.769714982608861,
+                    50.48058884173512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ecole de cirque de Gembloux asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Chaussée de Wavre 47",
+                "Code postal": 5030,
+                "Localité": "Gembloux",
+                "Géolocalisation": "50.57345915487467, 4.691366167596316",
+                "lat": 50.573459154874669,
+                "lon": 4.6913661675963159
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.691366167596316,
+                    50.573459154874669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Espace Elément-Terre",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Rue du Calvaire 2",
+                "Code postal": 5670,
+                "Localité": "Viroinval",
+                "Géolocalisation": "50.070487518286455, 4.548093713278648",
+                "lat": 50.070487518286455,
+                "lon": 4.5480937132786483
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.548093713278648,
+                    50.070487518286455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Circomédie  asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Ruelle de l'Abbaye 251",
+                "Code postal": 6220,
+                "Localité": "Fleurus",
+                "Géolocalisation": "50.438784243795695, 4.502097371285257",
+                "lat": 50.438784243795695,
+                "lon": 4.5020973712852568
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.502097371285257,
+                    50.438784243795695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "FMLB - Fédération Musicale du Luxembourg Belge",
+                "Unnamed: 1": "CEC",
+                "Province": "Luxembourg",
+                "Adresse": "Grand Place 3/2",
+                "Code postal": 6850,
+                "Localité": "Paliseul",
+                "Géolocalisation": "49.90366684419854, 5.136036742435663",
+                "lat": 49.90366684419854,
+                "lon": 5.136036742435663
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.136036742435663,
+                    49.90366684419854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Prairie asbl, ferme pédagogique",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Rue de la Vellerie 121",
+                "Code postal": 7700,
+                "Localité": "Mouscron",
+                "Géolocalisation": "50.73202904057766, 3.214239198282152",
+                "lat": 50.732029040577657,
+                "lon": 3.2142391982821521
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.214239198282152,
+                    50.732029040577657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Chant des Rues - Interpôle asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Locquenghien 12",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.853924588206226, 4.344801327120652",
+                "lat": 50.853924588206226,
+                "lon": 4.3448013271206518
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344801327120652,
+                    50.853924588206226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Youplaboum",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Avenue Latérale 171",
+                "Code postal": 1180,
+                "Localité": "Uccle",
+                "Géolocalisation": "50.79561298485641, 4.36486425410795",
+                "lat": 50.795612984856412,
+                "lon": 4.3648642541079496
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.36486425410795,
+                    50.795612984856412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "CREAHM Région Wallonne",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Rue de la Brasserie 5",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.652612239737216, 5.591465357796651",
+                "lat": 50.652612239737216,
+                "lon": 5.5914653577966513
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.591465357796651,
+                    50.652612239737216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Dentelle d'Art de Binche",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Rue de Merbes 282",
+                "Code postal": 7133,
+                "Localité": "Binche",
+                "Géolocalisation": "50.39761191558057, 4.173476528954531",
+                "lat": 50.397611915580569,
+                "lon": 4.1734765289545308
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.173476528954531,
+                    50.397611915580569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ateliers.be - Théâtre de Binches-Estinnes",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Rue des Bricteux 3",
+                "Code postal": 7134,
+                "Localité": "Leval-Trahegnies",
+                "Géolocalisation": "50.40906270470438, 4.21404069827335",
+                "lat": 50.409062704704382,
+                "lon": 4.21404069827335
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.21404069827335,
+                    50.409062704704382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Artifices",
+                "Unnamed: 1": "CEC",
+                "Province": "Brabant wallon",
+                "Adresse": "Avenue des lilas 26",
+                "Code postal": 1300,
+                "Localité": "Limal",
+                "Géolocalisation": "50.69539477474992, 4.561502828648915",
+                "lat": 50.695394774749921,
+                "lon": 4.5615028286489148
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.561502828648915,
+                    50.695394774749921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Et qui libre",
+                "Unnamed: 1": "CEC",
+                "Province": "Brabant wallon",
+                "Adresse": "Place Gustave Baugniet 1B",
+                "Code postal": 1390,
+                "Localité": "Grez-Doiceau",
+                "Géolocalisation": "50.73731340023758, 4.70177631362305",
+                "lat": 50.737313400237582,
+                "lon": 4.7017763136230499
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.70177631362305,
+                    50.737313400237582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Atelier Graffiti",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Quai Saint-Léonard 19-20",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.6477377459552, 5.5890595424557485",
+                "lat": 50.647737745955197,
+                "lon": 5.5890595424557485
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.589059542455749,
+                    50.647737745955197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Ateliers du Cwèrneû",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Rue d'Amérique 43",
+                "Code postal": 4500,
+                "Localité": "Huy",
+                "Géolocalisation": "50.51864534826425, 5.232951684781866",
+                "lat": 50.518645348264251,
+                "lon": 5.2329516847818658
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.232951684781866,
+                    50.518645348264251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "L'Atelier(s)",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Rue du Centre 36",
+                "Code postal": 4560,
+                "Localité": "Clavier",
+                "Géolocalisation": "50.416858234558006, 5.30244308477913",
+                "lat": 50.416858234558006,
+                "lon": 5.3024430847791297
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.30244308477913,
+                    50.416858234558006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Imagine - CEC de la Maison de la Culture de Tournai",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Esplanade George Grard - Avenue des Frères Rimbaut 2",
+                "Code postal": 7500,
+                "Localité": "Tournai",
+                "Géolocalisation": "50.6053999624583, 3.3795683136194197",
+                "lat": 50.6053999624583,
+                "lon": 3.3795683136194197
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.37956831361942,
+                    50.6053999624583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ateliers-Indigo",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Avenue de Tervueren 3bis",
+                "Code postal": 1040,
+                "Localité": "Etterbeek",
+                "Géolocalisation": "50.83912986018436, 4.397790670983252",
+                "lat": 50.839129860184357,
+                "lon": 4.3977906709832517
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.397790670983252,
+                    50.839129860184357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "DAPO - Fédération wallonne des groupements de danses et musiques populaires",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue des Résédas 70",
+                "Code postal": 1070,
+                "Localité": "Anderlecht",
+                "Géolocalisation": "50.82378592945444, 4.299768740295355",
+                "lat": 50.823785929454438,
+                "lon": 4.2997687402953551
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.299768740295355,
+                    50.823785929454438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Créateliers asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Luxembourg",
+                "Adresse": "Rue du Château 3",
+                "Code postal": 6820,
+                "Localité": "Florenville",
+                "Géolocalisation": "49.70055676401679, 5.310062798254248",
+                "lat": 49.700556764016788,
+                "lon": 5.3100627982542479
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.310062798254248,
+                    49.700556764016788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Espace Image Création",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Rue Kervé 4/2",
+                "Code postal": 7300,
+                "Localité": "Boussu",
+                "Géolocalisation": "50.432387428377126, 3.794423611768419",
+                "lat": 50.432387428377126,
+                "lon": 3.7944236117684191
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.794423611768419,
+                    50.432387428377126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Ateliers du Soleil",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue de Pavie 51",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.8496565855988, 4.383665697968276",
+                "lat": 50.849656585598801,
+                "lon": 4.3836656979682758
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.383665697968276,
+                    50.849656585598801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Rasquinet  asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Josaphat 174",
+                "Code postal": 1030,
+                "Localité": "Schaerbeek",
+                "Géolocalisation": "50.86023425140442, 4.375900755956018",
+                "lat": 50.860234251404421,
+                "lon": 4.3759007559560184
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.375900755956018,
+                    50.860234251404421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Caméléon  bavard",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Vogler 38",
+                "Code postal": 1030,
+                "Localité": "Schaerbeek",
+                "Géolocalisation": "50.86567549353215, 4.376336827120997",
+                "lat": 50.865675493532152,
+                "lon": 4.3763368271209968
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.376336827120997,
+                    50.865675493532152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Tilt - Odyssea",
+                "Unnamed: 1": "CEC",
+                "Province": "Brabant wallon",
+                "Adresse": "Chemin du Meunier 44",
+                "Code postal": 1330,
+                "Localité": "Rixensart",
+                "Géolocalisation": "50.70722958990805, 4.532860698281441",
+                "lat": 50.707229589908053,
+                "lon": 4.532860698281441
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.532860698281441,
+                    50.707229589908053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Regards  Pluri'elles - Collectif des Femmes",
+                "Unnamed: 1": "CEC",
+                "Province": "Brabant wallon",
+                "Adresse": "Rue des Sports 19",
+                "Code postal": 1348,
+                "Localité": "Ottignies-Louvain-la-Neuve",
+                "Géolocalisation": "50.6702519749196, 4.602760542456393",
+                "lat": 50.670251974919601,
+                "lon": 4.6027605424563927
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.602760542456393,
+                    50.670251974919601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Baraka",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Rue Sainte-Marguerite 51",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.64556526291712, 5.561611713620494",
+                "lat": 50.645565262917117,
+                "lon": 5.5616117136204943
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.561611713620494,
+                    50.645565262917117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "ALTA - Association liégeoise des théâtres amateurs",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Rue Malvaux 80",
+                "Code postal": 4032,
+                "Localité": "Liège",
+                "Géolocalisation": "50.6225586399678, 5.622151686507716",
+                "lat": 50.622558639967799,
+                "lon": 5.6221516865077161
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.622151686507716,
+                    50.622558639967799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Contre-Poing asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Grand'Rue 119",
+                "Code postal": 6000,
+                "Localité": "Charleroi",
+                "Géolocalisation": "50.41980988299267, 4.456241469438434",
+                "lat": 50.419809882992674,
+                "lon": 4.4562414694384342
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.456241469438434,
+                    50.419809882992674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Tribal Souk",
+                "Unnamed: 1": "CEC",
+                "Province": "Luxembourg",
+                "Adresse": "Rue de Montauban 69",
+                "Code postal": 6743,
+                "Localité": "Etalle",
+                "Géolocalisation": "49.642168178286255, 5.59000101326055",
+                "lat": 49.642168178286255,
+                "lon": 5.59000101326055
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.59000101326055,
+                    49.642168178286255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Ateliers  04 - Les Chiroux",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Place des Carmes 8",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.63916506471771, 5.574130828961123",
+                "lat": 50.639165064717709,
+                "lon": 5.5741308289611231
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.574130828961123,
+                    50.639165064717709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Atelier Louis Hougardy asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Place Marcel Hicter",
+                "Code postal": 4350,
+                "Localité": "Rémicourt",
+                "Géolocalisation": "50.68051172791051, 5.3707785661656695",
+                "lat": 50.680511727910513,
+                "lon": 5.3707785661656695
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.37077856616567,
+                    50.680511727910513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Ateliers du Centre culturel de Dison",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Rue des Ecoles 2",
+                "Code postal": 4820,
+                "Localité": "Dison",
+                "Géolocalisation": "50.608593205408916, 5.85502204430102",
+                "lat": 50.608593205408916,
+                "lon": 5.8550220443010197
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.85502204430102,
+                    50.608593205408916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Nez coiffés asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Rue Haute 8",
+                "Code postal": 5190,
+                "Localité": "Jemeppe-sur-Sambre",
+                "Géolocalisation": "50.48148247490966, 4.708941840604946",
+                "lat": 50.481482474909662,
+                "lon": 4.7089418406049459
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.708941840604946,
+                    50.481482474909662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ecole de cirque de Honnelles",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Rue de l'Abreuvoir 13",
+                "Code postal": 7387,
+                "Localité": "Honnelles",
+                "Géolocalisation": "50.364135747496924, 3.717658627107304",
+                "lat": 50.364135747496924,
+                "lon": 3.717658627107304
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.717658627107304,
+                    50.364135747496924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "FMH - Fédération musicale du Hainaut",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Rue du Vieux-Comté 51",
+                "Code postal": 7543,
+                "Localité": "Tournai",
+                "Géolocalisation": "50.65339282572674, 3.4453374114521655",
+                "lat": 50.653392825726741,
+                "lon": 3.4453374114521655
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.445337411452166,
+                    50.653392825726741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Atelier Graphoui",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Boulevard Emile Bockstael 88",
+                "Code postal": 1020,
+                "Localité": "Laeken",
+                "Géolocalisation": "50.87231948851257, 4.344555582945213",
+                "lat": 50.872319488512566,
+                "lon": 4.3445555829452127
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344555582945213,
+                    50.872319488512566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ecole Créative \"Une Maison en plus\"",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Boulevard de la 2e Armée Britannique 27",
+                "Code postal": 1190,
+                "Localité": "Forest",
+                "Géolocalisation": "50.81967368519043, 4.3233440982845455",
+                "lat": 50.81967368519043,
+                "lon": 4.3233440982845455
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.323344098284545,
+                    50.81967368519043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Théâtre des Quatre Mains",
+                "Unnamed: 1": "CEC",
+                "Province": "Brabant wallon",
+                "Adresse": "Rue Longue 152",
+                "Code postal": 1320,
+                "Localité": "Beauvechain",
+                "Géolocalisation": "50.77086842747176, 4.8030587117776395",
+                "lat": 50.770868427471761,
+                "lon": 4.8030587117776395
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.80305871177764,
+                    50.770868427471761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Plume et pinceau - Maison de la poésie",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Place des Cloîtres 8",
+                "Code postal": 4540,
+                "Localité": "Amay",
+                "Géolocalisation": "50.54947907597464, 5.317560527112298",
+                "lat": 50.549479075974638,
+                "lon": 5.3175605271122981
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.317560527112298,
+                    50.549479075974638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Incidence - Fédération Pluraliste des Centres d'Expression et de Créativité",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Rue Nanon 98",
+                "Code postal": 5000,
+                "Localité": "Namur",
+                "Géolocalisation": "50.47397859875412, 4.86344136943993",
+                "lat": 50.473978598754123,
+                "lon": 4.8634413694399301
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.86344136943993,
+                    50.473978598754123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Jolies Notes",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Rue du Trèfle 2",
+                "Code postal": 5100,
+                "Localité": "Jambes",
+                "Géolocalisation": "50.450375147474865, 4.887096784780013",
+                "lat": 50.450375147474865,
+                "lon": 4.8870967847800131
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.887096784780013,
+                    50.450375147474865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Kaléidoscope",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Rue des Tilleuls 30/2",
+                "Code postal": 5537,
+                "Localité": "Anhée",
+                "Géolocalisation": "50.30983351602042, 4.8774289540946985",
+                "lat": 50.309833516020419,
+                "lon": 4.8774289540946985
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.877428954094698,
+                    50.309833516020419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Kraak asbl - Les Ateliers Bidouill'Art",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Rue Neuve 2",
+                "Code postal": 5660,
+                "Localité": "Couvin",
+                "Géolocalisation": "50.053802118454534, 4.497174757780419",
+                "lat": 50.053802118454534,
+                "lon": 4.4971747577804191
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.497174757780419,
+                    50.053802118454534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Cirque du Doudou",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Résidence Charles Plisnier 28B",
+                "Code postal": 7011,
+                "Localité": "Ghlin",
+                "Géolocalisation": "50.47685229543515, 3.9199262694399897",
+                "lat": 50.476852295435151,
+                "lon": 3.9199262694399897
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.91992626943999,
+                    50.476852295435151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ecole de Cirque Ball'Istik",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Rue du Planti 11",
+                "Code postal": 7970,
+                "Localité": "Beloeil",
+                "Géolocalisation": "50.53189245528764, 3.731998042134201",
+                "lat": 50.53189245528764,
+                "lon": 3.7319980421342009
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.731998042134201,
+                    50.53189245528764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Circabulle- Ecole de cirque de Marchin",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Place de Grand Marchin 2A",
+                "Code postal": 4570,
+                "Localité": "Marchin",
+                "Géolocalisation": "50.46674006334472, 5.233851140604552",
+                "lat": 50.466740063344723,
+                "lon": 5.2338511406045516
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.233851140604552,
+                    50.466740063344723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "APSAM - Association pour la promotion des sociétés d'art musical",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Place communale  7",
+                "Code postal": 4850,
+                "Localité": "Montzen",
+                "Géolocalisation": "50.70736113353454, 5.96166894029037",
+                "lat": 50.70736113353454,
+                "lon": 5.9616689402903704
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.96166894029037,
+                    50.70736113353454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ateliers Art'Ligue",
+                "Unnamed: 1": "CEC",
+                "Province": "Luxembourg",
+                "Adresse": "Rue de Sesselich 123",
+                "Code postal": 6700,
+                "Localité": "Arlon",
+                "Géolocalisation": "49.67412011046175, 5.809966397918252",
+                "lat": 49.67412011046175,
+                "lon": 5.8099663979182523
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.809966397918252,
+                    49.67412011046175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "CEC de la Maison de la Culture d'Arlon",
+                "Unnamed: 1": "CEC",
+                "Province": "Luxembourg",
+                "Adresse": "Parc des Expositions 1",
+                "Code postal": 6700,
+                "Localité": "Arlon",
+                "Géolocalisation": "49.67974578785337, 5.801786098253696",
+                "lat": 49.679745787853371,
+                "lon": 5.8017860982536957
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.801786098253696,
+                    49.679745787853371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "CREAHM Bruxelles",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Alphonse De Witte 30",
+                "Code postal": 1050,
+                "Localité": "Ixelles",
+                "Géolocalisation": "50.826022668602455, 4.373603855955079",
+                "lat": 50.826022668602455,
+                "lon": 4.3736038559550794
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.373603855955079,
+                    50.826022668602455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Notre coin du quartier asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue de la Colonne 54",
+                "Code postal": 1080,
+                "Localité": "Molenbeek-Saint-Jean",
+                "Géolocalisation": "50.854012114807716, 4.334558371296596",
+                "lat": 50.854012114807716,
+                "lon": 4.3345583712965956
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.334558371296596,
+                    50.854012114807716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ecole de Cirque du Brabant Wallon asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Brabant wallon",
+                "Adresse": "Rue des artisans 1",
+                "Code postal": 1348,
+                "Localité": "Ottignies-Louvain-la-Neuve",
+                "Géolocalisation": "50.67157747169657, 4.621436040610133",
+                "lat": 50.671577471696573,
+                "lon": 4.6214360406101331
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.621436040610133,
+                    50.671577471696573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Marelle - Ludothèque",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Rue des Wallons 59",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.63023917387648, 5.557392227114532",
+                "lat": 50.630239173876483,
+                "lon": 5.5573922271145317
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.557392227114532,
+                    50.630239173876483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "L'Arlequin - CHAC",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Place de l'Hotel de Ville 18",
+                "Code postal": 4650,
+                "Localité": "Herve",
+                "Géolocalisation": "50.63974308399046, 5.7942510271147905",
+                "lat": 50.63974308399046,
+                "lon": 5.7942510271147905
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.79425102711479,
+                    50.63974308399046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Spirale",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Chaussée de Namur 22",
+                "Code postal": 5360,
+                "Localité": "Natoye",
+                "Géolocalisation": "50.33931156901403, 5.065155098271432",
+                "lat": 50.339311569014029,
+                "lon": 5.0651550982714317
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.065155098271432,
+                    50.339311569014029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La  \"S\"  Grand  Atelier",
+                "Unnamed: 1": "CEC",
+                "Province": "Luxembourg",
+                "Adresse": "Place des Chasseurs ardennais 31",
+                "Code postal": 6690,
+                "Localité": "Vielsalm",
+                "Géolocalisation": "50.290048346482564, 5.901905427105327",
+                "lat": 50.290048346482564,
+                "lon": 5.9019054271053273
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.901905427105327,
+                    50.290048346482564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ateliers des Petits Pas",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue de la Marne 12",
+                "Code postal": 1030,
+                "Localité": "Schaerbeek",
+                "Géolocalisation": "50.862935350324754, 4.368002428835188",
+                "lat": 50.862935350324754,
+                "lon": 4.3680024288351884
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.368002428835188,
+                    50.862935350324754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Atelier du Trapèze",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Grande Rue au Bois 57",
+                "Code postal": 1030,
+                "Localité": "Schaerbeek",
+                "Géolocalisation": "50.85618426257928, 4.38566210013184",
+                "lat": 50.856184262579283,
+                "lon": 4.3856621001318397
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.38566210013184,
+                    50.856184262579283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Artisanat - Rencontre  asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Boulevard Léopold II 250",
+                "Code postal": 1081,
+                "Localité": "Koekelberg",
+                "Géolocalisation": "50.862331654685015, 4.332923927120877",
+                "lat": 50.862331654685015,
+                "lon": 4.332923927120877
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.332923927120877,
+                    50.862331654685015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Bibi - Centre de promotion humaine",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Rue Lamarck 26",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.65130502956435, 5.590391582939177",
+                "lat": 50.651305029564348,
+                "lon": 5.5903915829391773
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.590391582939177,
+                    50.651305029564348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les ateliers Tête en l'air - Central",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Place Jules Mansart 17",
+                "Code postal": 7100,
+                "Localité": "La Louvière",
+                "Géolocalisation": "50.47891520865136, 4.1854146001215655",
+                "lat": 50.478915208651358,
+                "lon": 4.1854146001215655
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.185414600121566,
+                    50.478915208651358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "FNCD - Fédération nationale des compagnies dramatiques",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue de Flandre 46",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.8515085694059, 4.346410355640154",
+                "lat": 50.851508569405901,
+                "lon": 4.3464103556401543
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.346410355640154,
+                    50.851508569405901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Bataclan  asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Avenue Général Bernheim 31",
+                "Code postal": 1040,
+                "Localité": "Etterbeek",
+                "Géolocalisation": "50.827146150758786, 4.389118253787796",
+                "lat": 50.827146150758786,
+                "lon": 4.389118253787796
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.389118253787796,
+                    50.827146150758786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Zorobabel asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Avenue Van Volxem 200",
+                "Code postal": 1190,
+                "Localité": "Forest",
+                "Géolocalisation": "50.81953579804281, 4.325250569449328",
+                "lat": 50.819535798042807,
+                "lon": 4.3252505694493282
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.325250569449328,
+                    50.819535798042807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre Placet - Atelier aux Couleurs du Monde",
+                "Unnamed: 1": "CEC",
+                "Province": "Brabant wallon",
+                "Adresse": "Rue des Sports 2",
+                "Code postal": 1348,
+                "Localité": "Ottignies-Louvain-la-Neuve",
+                "Géolocalisation": "50.67025217562003, 4.6034603406100505",
+                "lat": 50.670252175620028,
+                "lon": 4.6034603406100505
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.60346034061005,
+                    50.670252175620028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ateliers d'art de la Baraque",
+                "Unnamed: 1": "CEC",
+                "Province": "Brabant wallon",
+                "Adresse": "Rue des artisans 1",
+                "Code postal": 1348,
+                "Localité": "Ottignies-Louvain-la-Neuve",
+                "Géolocalisation": "50.671509476076075, 4.621436040610133",
+                "lat": 50.671509476076075,
+                "lon": 4.6214360406101331
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.621436040610133,
+                    50.671509476076075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Zinzolin",
+                "Unnamed: 1": "CEC",
+                "Province": "Brabant wallon",
+                "Adresse": "Avenue Minerve 18",
+                "Code postal": 1410,
+                "Localité": "Waterloo",
+                "Géolocalisation": "50.70518014175414, 4.41846468294064",
+                "lat": 50.705180141754141,
+                "lon": 4.4184646829406402
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.41846468294064,
+                    50.705180141754141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "CEC La Bull' (dingue)",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Rue de la Gare 10",
+                "Code postal": 4840,
+                "Localité": "Welkenraedt",
+                "Géolocalisation": "50.66012320032304, 5.97275778293942",
+                "lat": 50.660123200323042,
+                "lon": 5.9727577829394196
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.97275778293942,
+                    50.660123200323042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Danses et Cie",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Place Gabrielle Petit 11",
+                "Code postal": 7500,
+                "Localité": "Tournai",
+                "Géolocalisation": "50.60531641686307, 3.3972719694435085",
+                "lat": 50.605316416863069,
+                "lon": 3.3972719694435085
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.397271969443509,
+                    50.605316416863069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "ReMuA  asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Chaussée de Boondael 6 Bte 16",
+                "Code postal": 1050,
+                "Localité": "Ixelles",
+                "Géolocalisation": "50.82745831091105, 4.374219127119929",
+                "lat": 50.827458310911048,
+                "lon": 4.3742191271199289
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.374219127119929,
+                    50.827458310911048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Coron asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Rue du Cerisier 20",
+                "Code postal": 7033,
+                "Localité": "Cuesmes",
+                "Géolocalisation": "50.43918174203611, 3.916747284779722",
+                "lat": 50.439181742036112,
+                "lon": 3.916747284779722
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.916747284779722,
+                    50.439181742036112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Décli'c - Foyer Culturel de Péruwelz",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Rue des Français 59",
+                "Code postal": 7600,
+                "Localité": "Péruwelz",
+                "Géolocalisation": "50.51322818405758, 3.591249500122497",
+                "lat": 50.513228184057581,
+                "lon": 3.5912495001224971
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.591249500122497,
+                    50.513228184057581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Musée des Enfants",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue du Bourgmestre 15",
+                "Code postal": 1050,
+                "Localité": "Ixelles",
+                "Géolocalisation": "50.82182466852489, 4.378571340295278",
+                "lat": 50.82182466852489,
+                "lon": 4.3785713402952782
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.378571340295278,
+                    50.82182466852489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Grande Maison",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Rue Haute Vaulx 6",
+                "Code postal": 4960,
+                "Localité": "Malmedy",
+                "Géolocalisation": "50.42532691810162, 6.033794970965576",
+                "lat": 50.425326918101618,
+                "lon": 6.0337949709655758
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.033794970965576,
+                    50.425326918101618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Bas les Masques - Gembloux",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Chaussée de Tirlemont 149",
+                "Code postal": 5030,
+                "Localité": "Gembloux",
+                "Géolocalisation": "50.585856454968464, 4.713967755628787",
+                "lat": 50.585856454968464,
+                "lon": 4.7139677556287873
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.713967755628787,
+                    50.585856454968464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Souris Qui Crée - Centre Culturel de Thuin",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Rue des Nobles 32",
+                "Code postal": 6530,
+                "Localité": "Thuin",
+                "Géolocalisation": "50.339310288293554, 4.28561939827145",
+                "lat": 50.339310288293554,
+                "lon": 4.2856193982714501
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.28561939827145,
+                    50.339310288293554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "C'est extra",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Rue des carrières 5",
+                "Code postal": 7011,
+                "Localité": "Ghlin",
+                "Géolocalisation": "50.48408780013725, 3.9149443691167285",
+                "lat": 50.484087800137253,
+                "lon": 3.9149443691167285
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.914944369116728,
+                    50.484087800137253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "L'Ecole de cirque de Bruxelles asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Picard 3",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.86370309841618, 4.3462153712968625",
+                "lat": 50.863703098416181,
+                "lon": 4.3462153712968625
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.346215371296863,
+                    50.863703098416181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Cirqu'Conflex  asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Rossini 16",
+                "Code postal": 1070,
+                "Localité": "Anderlecht",
+                "Géolocalisation": "50.838815887123715, 4.330901984790624",
+                "lat": 50.838815887123715,
+                "lon": 4.330901984790624
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.330901984790624,
+                    50.838815887123715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Foyer asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue des Ateliers 25",
+                "Code postal": 1080,
+                "Localité": "Molenbeek-Saint-Jean",
+                "Géolocalisation": "50.85807642221592, 4.344229726804554",
+                "lat": 50.858076422215923,
+                "lon": 4.3442297268045538
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344229726804554,
+                    50.858076422215923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ateliers du Temps Libre - Woluilis",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Cours Paul Henri Spaak 1",
+                "Code postal": 1200,
+                "Localité": "Woluwé-Saint-Lambert",
+                "Géolocalisation": "50.84791297744934, 4.4381151271204695",
+                "lat": 50.84791297744934,
+                "lon": 4.4381151271204695
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.43811512712047,
+                    50.84791297744934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Ateliers d'Expression théâtrale Bouldegum",
+                "Unnamed: 1": "CEC",
+                "Province": "Brabant wallon",
+                "Adresse": "Rue du Ménil 74",
+                "Code postal": 1420,
+                "Localité": "Braine-L'Alleud",
+                "Géolocalisation": "50.687526630111186, 4.381341884786512",
+                "lat": 50.687526630111186,
+                "lon": 4.3813418847865124
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.381341884786512,
+                    50.687526630111186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "FML - Fédération Musicale de la Province de Liège",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Quai Marcellis 1A",
+                "Code postal": 4020,
+                "Localité": "Liège",
+                "Géolocalisation": "50.63586168378165, 5.576346998279507",
+                "lat": 50.635861683781648,
+                "lon": 5.5763469982795071
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.576346998279507,
+                    50.635861683781648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "LST Namur - Lutte Solidarité Travail asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Rue Pepin 27",
+                "Code postal": 5000,
+                "Localité": "Namur",
+                "Géolocalisation": "50.465900060524035, 4.868773327110097",
+                "lat": 50.465900060524035,
+                "lon": 4.8687733271100972
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.868773327110097,
+                    50.465900060524035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Bouillon  de  Cultures",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Philomène 41",
+                "Code postal": 1030,
+                "Localité": "Schaerbeek",
+                "Géolocalisation": "50.85703046024214, 4.3721961537890754",
+                "lat": 50.857030460242143,
+                "lon": 4.3721961537890754
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.372196153789075,
+                    50.857030460242143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Atelier Indigo du Plateau 96",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Avenue de Tervueren 3bis",
+                "Code postal": 1040,
+                "Localité": "Etterbeek",
+                "Géolocalisation": "50.82823847025188, 4.441084369449553",
+                "lat": 50.828238470251883,
+                "lon": 4.4410843694495528
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.441084369449553,
+                    50.828238470251883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Atelier Paloke",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Paloke 95",
+                "Code postal": 1080,
+                "Localité": "Molenbeek-Saint-Jean",
+                "Géolocalisation": "50.849200355663854, 4.287865369450131",
+                "lat": 50.849200355663854,
+                "lon": 4.287865369450131
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.287865369450131,
+                    50.849200355663854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Silex",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Voot 82",
+                "Code postal": 1200,
+                "Localité": "Woluwé-Saint-Lambert",
+                "Géolocalisation": "50.83970948245489, 4.436887855955443",
+                "lat": 50.839709482454893,
+                "lon": 4.436887855955443
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.436887855955443,
+                    50.839709482454893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Grenier",
+                "Unnamed: 1": "CEC",
+                "Province": "Brabant wallon",
+                "Adresse": "Chaussée de Bruxelles 63A",
+                "Code postal": 1300,
+                "Localité": "Wavre",
+                "Géolocalisation": "50.722033540106324, 4.6077474964355245",
+                "lat": 50.722033540106324,
+                "lon": 4.6077474964355245
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.607747496435525,
+                    50.722033540106324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Ateliers du Léz'Arts",
+                "Unnamed: 1": "CEC",
+                "Province": "Brabant wallon",
+                "Adresse": "Rue de Bruxelles 38",
+                "Code postal": 1470,
+                "Localité": "Genappe",
+                "Géolocalisation": "50.612830776324294, 4.451327713619649",
+                "lat": 50.612830776324294,
+                "lon": 4.4513277136196487
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.451327713619649,
+                    50.612830776324294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Animation et créativité asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Rue du Perron 3/2",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.615316295571475, 5.55317147129008",
+                "lat": 50.615316295571475,
+                "lon": 5.5531714712900797
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.55317147129008,
+                    50.615316295571475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "ACJ - A Cœur Joie, Fédération chorale de Wallonie-Bruxelles",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Rue Rogier 82",
+                "Code postal": 5000,
+                "Localité": "Namur",
+                "Géolocalisation": "50.46697599604705, 4.870142011769327",
+                "lat": 50.466975996047047,
+                "lon": 4.8701420117693273
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.870142011769327,
+                    50.466975996047047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Ateliers'Bis - Centre culturel de Namur",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Place du Théâtre 2",
+                "Code postal": 5000,
+                "Localité": "Namur",
+                "Géolocalisation": "50.46426012271328, 4.8678358829341155",
+                "lat": 50.464260122713277,
+                "lon": 4.8678358829341155
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.867835882934116,
+                    50.464260122713277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Atelier Sorcier asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Rue de l'Eglise 42",
+                "Code postal": 5030,
+                "Localité": "Gembloux",
+                "Géolocalisation": "50.55010462537668, 4.719224155947525",
+                "lat": 50.550104625376683,
+                "lon": 4.7192241559475248
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.719224155947525,
+                    50.550104625376683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "CEC de Walcourt, Florennes, Philippeville  asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Rue de Fraire 4",
+                "Code postal": 5650,
+                "Localité": "Walcourt",
+                "Géolocalisation": "50.25372029790175, 4.440273444291368",
+                "lat": 50.253720297901751,
+                "lon": 4.4402734442913676
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.440273444291368,
+                    50.253720297901751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Mômes Circus asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Boulevard des Nerviens 52",
+                "Code postal": 7500,
+                "Localité": "Tournai",
+                "Géolocalisation": "50.61397174556762, 3.3906422271140753",
+                "lat": 50.613971745567618,
+                "lon": 3.3906422271140753
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.390642227114075,
+                    50.613971745567618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Camera-etc asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Rue de Visé 490",
+                "Code postal": 4020,
+                "Localité": "Liège",
+                "Géolocalisation": "50.657662504792064, 5.650791267598603",
+                "lat": 50.657662504792064,
+                "lon": 5.6507912675986027
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.650791267598603,
+                    50.657662504792064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "L'Atelier asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Luxembourg",
+                "Adresse": "En Charotte 20/1",
+                "Code postal": 6940,
+                "Localité": "Barvaux",
+                "Géolocalisation": "50.35055232284917, 5.4924244406014",
+                "lat": 50.350552322849168,
+                "lon": 5.4924244406013996
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4924244406014,
+                    50.350552322849168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Ateliers de l'Escalier (Le Quinquet)",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Rue de Neufvilles 15",
+                "Code postal": 7060,
+                "Localité": "Soignies",
+                "Géolocalisation": "50.579403350598696, 4.065921711772428",
+                "lat": 50.579403350598696,
+                "lon": 4.065921711772428
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.065921711772428,
+                    50.579403350598696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Cirq'en bulles  asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Rue des Frontaliers 77",
+                "Code postal": 7712,
+                "Localité": "Herseaux",
+                "Géolocalisation": "50.72433947762172, 3.22888669828191",
+                "lat": 50.724339477621719,
+                "lon": 3.2288866982819102
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.22888669828191,
+                    50.724339477621719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Ruée vers l'Art  - Maison culturelle d'Ath",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Rue  du  Gouvernement",
+                "Code postal": 7800,
+                "Localité": "Ath",
+                "Géolocalisation": "50.631016837400054, 3.77587061362012",
+                "lat": 50.631016837400054,
+                "lon": 3.7758706136201199
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.77587061362012,
+                    50.631016837400054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Mercredis  artistiques  asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue des Tanneurs 176",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.837557113967925, 4.3427192117794275",
+                "lat": 50.837557113967925,
+                "lon": 4.3427192117794275
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.342719211779428,
+                    50.837557113967925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Maison des Enfants d'Anderlecht  - Club Unesco",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Van Lint 18",
+                "Code postal": 1070,
+                "Localité": "Anderlecht",
+                "Géolocalisation": "50.83950980858154, 4.327743784790639",
+                "lat": 50.839509808581539,
+                "lon": 4.3277437847906386
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.327743784790639,
+                    50.839509808581539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Artisanou - Le Labo de l'Entrela'",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue de Paris 43",
+                "Code postal": 1140,
+                "Localité": "Evere",
+                "Géolocalisation": "50.87693354705309, 4.40194605595647",
+                "lat": 50.876933547053092,
+                "lon": 4.4019460559564703
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.40194605595647,
+                    50.876933547053092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ateliers de la Vénerie",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Place Gilson 3",
+                "Code postal": 1170,
+                "Localité": "Watermael-Boisfort",
+                "Géolocalisation": "50.798228103639225, 4.416947142459878",
+                "lat": 50.798228103639225,
+                "lon": 4.4169471424598781
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.416947142459878,
+                    50.798228103639225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Jardin  des  Enfants",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Rue Fond Pirette 127",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.6511788349938, 5.56876479827994",
+                "lat": 50.6511788349938,
+                "lon": 5.5687647982799398
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.56876479827994,
+                    50.6511788349938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ateliers 4D",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Rue de la Préhyr 12",
+                "Code postal": 5580,
+                "Localité": "Rochefort",
+                "Géolocalisation": "50.164617479537085, 5.218488681079662",
+                "lat": 50.164617479537085,
+                "lon": 5.2184886810796618
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.218488681079662,
+                    50.164617479537085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Couleur Quartier asbl - CCR Charleroi - l'EDEN",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Boulevard Jacques Bertrand 3",
+                "Code postal": 6000,
+                "Localité": "Charleroi",
+                "Géolocalisation": "50.41126472350828, 4.441553371284547",
+                "lat": 50.411264723508282,
+                "lon": 4.441553371284547
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.441553371284547,
+                    50.411264723508282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Ferme de Martinrou",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Chaussée de Charleroi 615",
+                "Code postal": 6220,
+                "Localité": "Fleurus",
+                "Géolocalisation": "50.46662189290667, 4.536114371286039",
+                "lat": 50.466621892906673,
+                "lon": 4.5361143712860388
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.536114371286039,
+                    50.466621892906673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre d'Expression et de Créativité de Chaudfontaine asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Voie de l'Air Pur 106",
+                "Code postal": 4052,
+                "Localité": "Chaudfontaine",
+                "Géolocalisation": "50.5692279095586, 5.621351855948091",
+                "lat": 50.569227909558599,
+                "lon": 5.6213518559480908
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.621351855948091,
+                    50.569227909558599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "SolenScène",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Rue de la gare 5",
+                "Code postal": 5300,
+                "Localité": "Andenne",
+                "Géolocalisation": "50.47004882506316, 4.995046513615769",
+                "lat": 50.470048825063159,
+                "lon": 4.9950465136157689
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.995046513615769,
+                    50.470048825063159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Ateliers Populaires",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Haute 88",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.840229706593206, 4.351324340296053",
+                "lat": 50.840229706593206,
+                "lon": 4.3513243402960526
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.351324340296053,
+                    50.840229706593206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Istudio/IS asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Boulevard Barthélemy 11",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.85242341965231, 4.341140142461329",
+                "lat": 50.852423419652311,
+                "lon": 4.3411401424613292
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.341140142461329,
+                    50.852423419652311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Ruelle asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Saint-Alphonse 20",
+                "Code postal": 1210,
+                "Localité": "Saint-Josse-ten-Noode",
+                "Géolocalisation": "50.85146198281699, 4.371220701846317",
+                "lat": 50.851461982816993,
+                "lon": 4.3712207018463172
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.371220701846317,
+                    50.851461982816993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Anim'art",
+                "Unnamed: 1": "CEC",
+                "Province": "Brabant wallon",
+                "Adresse": "Avenue des Boignées 2b",
+                "Code postal": 1420,
+                "Localité": "Wauthier-Braine",
+                "Géolocalisation": "50.6791600382555, 4.300372357797399",
+                "lat": 50.679160038255503,
+                "lon": 4.3003723577973991
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.300372357797399,
+                    50.679160038255503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre d'Expression et de Créativité d'Engis",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Rue du Pont 7",
+                "Code postal": 4480,
+                "Localité": "Engis",
+                "Géolocalisation": "50.5592617534897, 5.362190342453373",
+                "lat": 50.5592617534897,
+                "lon": 5.3621903424533732
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.362190342453373,
+                    50.5592617534897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Grain d'Art - Centre culturel de Wanze",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Rue des Grandes Ruelles 40",
+                "Code postal": 4520,
+                "Localité": "Wanze",
+                "Géolocalisation": "50.569833951198014, 5.163708484783249",
+                "lat": 50.569833951198014,
+                "lon": 5.1637084847832488
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.163708484783249,
+                    50.569833951198014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Petit Théâtre de la Grande Vie",
+                "Unnamed: 1": "CEC",
+                "Province": "Namur",
+                "Adresse": "Rue Bonnier 12",
+                "Code postal": 5580,
+                "Localité": "Forzée",
+                "Géolocalisation": "50.220232856166014, 5.170452898268239",
+                "lat": 50.220232856166014,
+                "lon": 5.1704528982682394
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.170452898268239,
+                    50.220232856166014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Pivot- Promotion Communautaire asbl",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Philippe Baucq 163",
+                "Code postal": 1040,
+                "Localité": "Etterbeek",
+                "Géolocalisation": "50.83058449759703, 4.381066142460764",
+                "lat": 50.83058449759703,
+                "lon": 4.3810661424607638
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.381066142460764,
+                    50.83058449759703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Atelier Côté  Cour",
+                "Unnamed: 1": "CEC",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue de Lantsheere 50",
+                "Code postal": 1040,
+                "Localité": "Etterbeek",
+                "Géolocalisation": "50.84378309520883, 4.399707340614793",
+                "lat": 50.843783095208828,
+                "lon": 4.3997073406147926
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.399707340614793,
+                    50.843783095208828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Arti'Zik",
+                "Unnamed: 1": "CEC",
+                "Province": "Brabant wallon",
+                "Adresse": "Rue du château 4",
+                "Code postal": 1420,
+                "Localité": "Braine-l’Alleud",
+                "Géolocalisation": "50.682822436219986, 4.3686299117752165",
+                "lat": 50.682822436219986,
+                "lon": 4.3686299117752165
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.368629911775217,
+                    50.682822436219986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Bicoque - Centre de jeunes et de quartier",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Place Saint Christophe 8",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.640036053906556, 5.565874370974717",
+                "lat": 50.640036053906556,
+                "lon": 5.5658743709747167
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.565874370974717,
+                    50.640036053906556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Atelier Léopold Plomteux",
+                "Unnamed: 1": "CEC",
+                "Province": "Liège",
+                "Adresse": "Rue du Beau Site 25",
+                "Code postal": 4400,
+                "Localité": "Flémalle",
+                "Géolocalisation": "50.59750423682144, 5.44812114245444",
+                "lat": 50.597504236821443,
+                "lon": 5.4481211424544398
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.44812114245444,
+                    50.597504236821443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Labo des arts et du mouvement",
+                "Unnamed: 1": "CEC",
+                "Province": "Hainaut",
+                "Adresse": "Rue de Nazareth 29",
+                "Code postal": 7850,
+                "Localité": "Enghien",
+                "Géolocalisation": "50.69350491451877, 4.034014997961596",
+                "lat": 50.693504914518769,
+                "lon": 4.034014997961596
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.034014997961596,
+                    50.693504914518769
+                ]
+            }
+        }
+    ]
+}

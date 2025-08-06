@@ -1,0 +1,3732 @@
+{
+    "type": "FeatureCollection",
+    "name": "Lieux_création_et_monstration",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "We Art Xl",
+                "Unnamed: 1": "Lieux création & monstration",
+                "Adresse": "28 Rue du Conseil",
+                "CP": 1050,
+                "Ville": "Ixelles",
+                "Geolocalisation": "50.8341606, 4.3683461",
+                "latitude": 50.8341606,
+                "longitude": 4.3683461
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3683461,
+                    50.8341606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Lieux Communs",
+                "Unnamed: 1": null,
+                "Adresse": "rue Simon Martin 2",
+                "CP": 5020,
+                "Ville": "Champion",
+                "Geolocalisation": "50.4948232, 4.9022311",
+                "latitude": 50.4948232,
+                "longitude": 4.9022311
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9022311,
+                    50.4948232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "V2 VINGT",
+                "Unnamed: 1": null,
+                "Adresse": "rue Vanderlinden 20",
+                "CP": 1030,
+                "Ville": "bruxelles",
+                "Geolocalisation": "50.8668432, 4.3666988",
+                "latitude": 50.8668432,
+                "longitude": 4.3666988
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3666988,
+                    50.8668432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Fédération des Arts Plastiques",
+                "Unnamed: 1": null,
+                "Adresse": "144 rue du Monténégro",
+                "CP": 1190,
+                "Ville": "Forest",
+                "Geolocalisation": "50.8260813, 4.3323173",
+                "latitude": 50.8260813,
+                "longitude": 4.3323173
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3323173,
+                    50.8260813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Etablissement d'en face",
+                "Unnamed: 1": null,
+                "Adresse": "rue Ravenstein 32,",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8448272, 4.359333299999999",
+                "latitude": 50.8448272,
+                "longitude": 4.3593333
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3593333,
+                    50.8448272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Hypernuit",
+                "Unnamed: 1": null,
+                "Adresse": "39 boulevard d’Ypres",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.85783455016271, 4.346951370888347",
+                "latitude": 50.857834550162707,
+                "longitude": 4.3469513708883474
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.346951370888347,
+                    50.857834550162707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Brussels African Art Center",
+                "Unnamed: 1": null,
+                "Adresse": "Avenue Kersbeek 308",
+                "CP": 1180,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.801053, 4.3227547",
+                "latitude": 50.801053,
+                "longitude": 4.3227547
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3227547,
+                    50.801053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Fondation privée du Carrefour des arts",
+                "Unnamed: 1": null,
+                "Adresse": "Rue du Canal, 77-79",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8549628769593, 4.3480941918502",
+                "latitude": 50.854962876959299,
+                "longitude": 4.3480941918502003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3480941918502,
+                    50.854962876959299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Room",
+                "Unnamed: 1": null,
+                "Adresse": "254 chaussée de Forest",
+                "CP": 1060,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.826075, 4.337835399999999",
+                "latitude": 50.826075,
+                "longitude": 4.3378354
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3378354,
+                    50.826075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Vallée",
+                "Unnamed: 1": null,
+                "Adresse": "rue Adolphe Lavallée 37",
+                "CP": 1080,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.85883339999999, 4.3425349",
+                "latitude": 50.8588334,
+                "longitude": 4.3425349
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3425349,
+                    50.858833399999988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "In Cité Mondi",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Vivegnis, 234",
+                "CP": 4000,
+                "Ville": "Liège",
+                "Geolocalisation": "50.6523583, 5.5912505",
+                "latitude": 50.6523583,
+                "longitude": 5.5912505
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5912505,
+                    50.6523583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre de la Marionnette",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Saint Martin, 47",
+                "CP": 7500,
+                "Ville": "Tournai",
+                "Geolocalisation": "50.6046875381229, 3.38674508153915",
+                "latitude": 50.604687538122903,
+                "longitude": 3.38674508153915
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.38674508153915,
+                    50.604687538122903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Studio Ursa Major",
+                "Unnamed: 1": null,
+                "Adresse": "Rue du Prince Royal, 97",
+                "CP": 1050,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8336866, 4.3590412",
+                "latitude": 50.8336866,
+                "longitude": 4.3590412
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3590412,
+                    50.8336866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Habitants des images",
+                "Unnamed: 1": null,
+                "Adresse": "Rue de l’association 14",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8518648, 4.3658182",
+                "latitude": 50.8518648,
+                "longitude": 4.3658182
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3658182,
+                    50.8518648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La chose à trois jambes",
+                "Unnamed: 1": null,
+                "Adresse": "rue Traversière 46",
+                "CP": 1210,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8539691070754, 4.37039779689715",
+                "latitude": 50.8539691070754,
+                "longitude": 4.3703977968971497
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.37039779689715,
+                    50.8539691070754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Studio Ursa Major",
+                "Unnamed: 1": null,
+                "Adresse": "Rue de Naples 14",
+                "CP": 1050,
+                "Ville": "Ixelles",
+                "Geolocalisation": "50.8375031776802, 4.36528101038954",
+                "latitude": 50.837503177680198,
+                "longitude": 4.3652810103895403
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.36528101038954,
+                    50.837503177680198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Tranches de l'art",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Saint-Marcoux, 4",
+                "CP": 5651,
+                "Ville": "Laneffe",
+                "Geolocalisation": "50.2743391, 4.4885397",
+                "latitude": 50.2743391,
+                "longitude": 4.4885397
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4885397,
+                    50.2743391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "CINEMATEK",
+                "Unnamed: 1": null,
+                "Adresse": "rue Ravenstein 3",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8436754, 4.3589477",
+                "latitude": 50.8436754,
+                "longitude": 4.3589477
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3589477,
+                    50.8436754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ohme",
+                "Unnamed: 1": null,
+                "Adresse": "Avenue de la Couronne 221,",
+                "CP": 1050,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8235016, 4.3865452",
+                "latitude": 50.8235016,
+                "longitude": 4.3865452
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3865452,
+                    50.8235016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Mountaincutters",
+                "Unnamed: 1": null,
+                "Adresse": "400 chaussée de Jette",
+                "CP": 1081,
+                "Ville": "Koekelberg",
+                "Geolocalisation": "50.86725149999999, 4.3297617",
+                "latitude": 50.8672515,
+                "longitude": 4.3297617
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3297617,
+                    50.867251499999988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Twenty Nine Studio",
+                "Unnamed: 1": null,
+                "Adresse": "Rue du Chimiste 34-36",
+                "CP": 1070,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.846105, 4.3336847",
+                "latitude": 50.846105,
+                "longitude": 4.3336847
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3336847,
+                    50.846105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Mémoire des maitres verriers",
+                "Unnamed: 1": null,
+                "Adresse": "rue des Hauchies 53/1",
+                "CP": 6042,
+                "Ville": "Lodelinsart",
+                "Geolocalisation": "50.389585, 4.4581874",
+                "latitude": 50.389585,
+                "longitude": 4.4581874
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4581874,
+                    50.389585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Gustave Fuss asbl",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Léon Lepage, 8",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8516988, 4.344746499999999",
+                "latitude": 50.8516988,
+                "longitude": 4.3447465
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3447465,
+                    50.8516988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "ARDVL",
+                "Unnamed: 1": null,
+                "Adresse": "24, Bld Guillaume Van Haelen,",
+                "CP": 1190,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.82083429999999, 4.3267245",
+                "latitude": 50.8208343,
+                "longitude": 4.3267245
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3267245,
+                    50.820834299999987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Châtaigneraie",
+                "Unnamed: 1": null,
+                "Adresse": "19, Chaussée de Ramioul",
+                "CP": 4400,
+                "Ville": "Flémalle",
+                "Geolocalisation": "50.58295889999999, 5.4413854",
+                "latitude": 50.5829589,
+                "longitude": 5.4413854
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4413854,
+                    50.582958899999987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Champion Art Village",
+                "Unnamed: 1": null,
+                "Adresse": "Avenue de Stassart, n°18, Bte 11",
+                "CP": 5000,
+                "Ville": "Namur",
+                "Geolocalisation": "50.46709980000001, 4.8550472",
+                "latitude": 50.4670998,
+                "longitude": 4.8550472
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8550472,
+                    50.4670998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Bozar",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Ravenstein 23",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.84358659999999, 4.3596911",
+                "latitude": 50.8435866,
+                "longitude": 4.3596911
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3596911,
+                    50.843586599999988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Iles Mardi",
+                "Unnamed: 1": null,
+                "Adresse": "5 square de l’aviation,",
+                "CP": 1070,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8409826, 4.3394268",
+                "latitude": 50.8409826,
+                "longitude": 4.3394268
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3394268,
+                    50.8409826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Propaganza",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Roosendael 208",
+                "CP": 1190,
+                "Ville": "BRUXELLES",
+                "Geolocalisation": "50.8100129, 4.335592999999999",
+                "latitude": 50.8100129,
+                "longitude": 4.335593
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.335593,
+                    50.8100129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Thor",
+                "Unnamed: 1": null,
+                "Adresse": "49, rue Saint-Josse",
+                "CP": 1210,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.85083789999999, 4.3741972",
+                "latitude": 50.8508379,
+                "longitude": 4.3741972
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3741972,
+                    50.850837899999988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "A performance Affair",
+                "Unnamed: 1": null,
+                "Adresse": "Rue de Barchon, 11",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8548154, 4.3457854",
+                "latitude": 50.8548154,
+                "longitude": 4.3457854
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3457854,
+                    50.8548154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ashtarwonder",
+                "Unnamed: 1": null,
+                "Adresse": "avenue du Cor de chasse 23",
+                "CP": 1170,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.7996664, 4.4017897",
+                "latitude": 50.7996664,
+                "longitude": 4.4017897
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4017897,
+                    50.7996664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "CIAC",
+                "Unnamed: 1": null,
+                "Adresse": "3, rue du Parc,",
+                "CP": 4020,
+                "Ville": "Liège",
+                "Geolocalisation": "50.6330442769089, 5.57516253274552",
+                "latitude": 50.633044276908898,
+                "longitude": 5.5751625327455203
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.57516253274552,
+                    50.633044276908898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "UPTOWN ART&DESIGN TOUR",
+                "Unnamed: 1": null,
+                "Adresse": "53 Boulevard de Waterloo (boîte 10",
+                "CP": 1000,
+                "Ville": "BRUXELLES",
+                "Geolocalisation": "50.83703985869441, 4.356204755545203",
+                "latitude": 50.837039858694411,
+                "longitude": 4.3562047555452033
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.356204755545203,
+                    50.837039858694411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Women we share",
+                "Unnamed: 1": null,
+                "Adresse": "avenue des combattants 143,",
+                "CP": 1470,
+                "Ville": "bousval",
+                "Geolocalisation": "50.72084779999999, 4.5062767",
+                "latitude": 50.7208478,
+                "longitude": 4.5062767
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5062767,
+                    50.720847799999987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Xeno",
+                "Unnamed: 1": null,
+                "Adresse": "boulevard de Waterloo 93",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8343418, 4.350730899999999",
+                "latitude": 50.8343418,
+                "longitude": 4.3507309
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3507309,
+                    50.8343418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "BRUFETE",
+                "Unnamed: 1": null,
+                "Adresse": "11 rue Sainte-Catherine",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.850040340146, 4.34852298340353",
+                "latitude": 50.850040340146002,
+                "longitude": 4.3485229834035302
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.34852298340353,
+                    50.850040340146002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Studio Ursa Major ASBL",
+                "Unnamed: 1": null,
+                "Adresse": "Rue de Naples, 14.",
+                "CP": 1050,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8376048099954, 4.36525955271846",
+                "latitude": 50.837604809995398,
+                "longitude": 4.3652595527184603
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.36525955271846,
+                    50.837604809995398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Sterput",
+                "Unnamed: 1": null,
+                "Adresse": "Rue de Laeken 122",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8548473, 4.3520468",
+                "latitude": 50.8548473,
+                "longitude": 4.3520468
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3520468,
+                    50.8548473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Centrale",
+                "Unnamed: 1": null,
+                "Adresse": "Rue du Poivre, 1",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.847257879343466, 4.35298704205233",
+                "latitude": 50.847257879343466,
+                "longitude": 4.3529870420523302
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35298704205233,
+                    50.847257879343466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Syndicat d'Initiative de Jambes asbl",
+                "Unnamed: 1": null,
+                "Adresse": "Avenue du Bourgmestre Jean Materne, 162",
+                "CP": 5100,
+                "Ville": "Namur",
+                "Geolocalisation": "50.4557685, 4.872671299999999",
+                "latitude": 50.4557685,
+                "longitude": 4.8726713
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8726713,
+                    50.4557685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Habitants des iamges",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Heyvaert 17 –",
+                "CP": 1080,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8487324, 4.3343947",
+                "latitude": 50.8487324,
+                "longitude": 4.3343947
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3343947,
+                    50.8487324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Cambre",
+                "Unnamed: 1": null,
+                "Adresse": "427, Avenue Louise",
+                "CP": 1050,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8186815, 4.3705266",
+                "latitude": 50.8186815,
+                "longitude": 4.3705266
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3705266,
+                    50.8186815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "CID",
+                "Unnamed: 1": null,
+                "Adresse": "rue Sainte Louise 82",
+                "CP": 7301,
+                "Ville": "Hornu",
+                "Geolocalisation": "50.4351028819064, 3.83753332570604",
+                "latitude": 50.435102881906403,
+                "longitude": 3.83753332570604
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.83753332570604,
+                    50.435102881906403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Orangerie",
+                "Unnamed: 1": null,
+                "Adresse": "30 Rue Porte Haute",
+                "CP": 6600,
+                "Ville": "Bastogne",
+                "Geolocalisation": "50.22591, 5.3448062",
+                "latitude": 50.22591,
+                "longitude": 5.3448062
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3448062,
+                    50.22591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Loge",
+                "Unnamed: 1": null,
+                "Adresse": "rue de l'Ermitage 86",
+                "CP": 1050,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8285776346259, 4.36560563542005",
+                "latitude": 50.828577634625901,
+                "longitude": 4.3656056354200503
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.36560563542005,
+                    50.828577634625901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Propaganza",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Roosendael n°208",
+                "CP": 1190,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8100129, 4.335592999999999",
+                "latitude": 50.8100129,
+                "longitude": 4.335593
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.335593,
+                    50.8100129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Enfant sauvage",
+                "Unnamed: 1": null,
+                "Adresse": "Rue de l’Enseignement 23",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8482097, 4.364247499999999",
+                "latitude": 50.8482097,
+                "longitude": 4.3642475
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3642475,
+                    50.8482097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Syndicat d'Initiative de Jambes",
+                "Unnamed: 1": null,
+                "Adresse": "Avenue du Bourgmestre Jean Materne, 168,",
+                "CP": 5100,
+                "Ville": "Namur",
+                "Geolocalisation": "50.4556787, 4.8733205",
+                "latitude": 50.4556787,
+                "longitude": 4.8733205
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8733205,
+                    50.4556787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Nombreuse",
+                "Unnamed: 1": null,
+                "Adresse": "42 rue du Fort",
+                "CP": 1060,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.59092943021337, 5.865948213205802",
+                "latitude": 50.590929430213372,
+                "longitude": 5.8659482132058018
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.865948213205802,
+                    50.590929430213372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Piëdestal ASBL",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Adolphe LaVallée 39",
+                "CP": 1080,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.85881, 4.3423044",
+                "latitude": 50.85881,
+                "longitude": 4.3423044
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3423044,
+                    50.85881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Intersections",
+                "Unnamed: 1": null,
+                "Adresse": "chaussée de Douai 74",
+                "CP": 7500,
+                "Ville": "Tournai",
+                "Geolocalisation": "50.5997603, 3.3779201",
+                "latitude": 50.5997603,
+                "longitude": 3.3779201
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3779201,
+                    50.5997603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Studio Michel François",
+                "Unnamed: 1": null,
+                "Adresse": "rue de Bosnie 24",
+                "CP": 1060,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8291304, 4.335294300000001",
+                "latitude": 50.8291304,
+                "longitude": 4.3352943
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3352943,
+                    50.8291304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Gilbard",
+                "Unnamed: 1": null,
+                "Adresse": "Rue de Liverpool 77",
+                "CP": 1070,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8447450579817, 4.33304243555609",
+                "latitude": 50.844745057981697,
+                "longitude": 4.3330424355560897
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.33304243555609,
+                    50.844745057981697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "COISL",
+                "Unnamed: 1": null,
+                "Adresse": "Rue d’Irlande 57",
+                "CP": 1060,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8261378408114, 4.35196702573093",
+                "latitude": 50.826137840811398,
+                "longitude": 4.3519670257309304
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35196702573093,
+                    50.826137840811398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Young European Artists",
+                "Unnamed: 1": null,
+                "Adresse": "Rue de Stassart 34",
+                "CP": 1050,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8368325, 4.3610464",
+                "latitude": 50.8368325,
+                "longitude": 4.3610464
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3610464,
+                    50.8368325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Odradek",
+                "Unnamed: 1": null,
+                "Adresse": "35 rue Américaine",
+                "CP": 1060,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8239403, 4.3563103",
+                "latitude": 50.8239403,
+                "longitude": 4.3563103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3563103,
+                    50.8239403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Cinquième couche",
+                "Unnamed: 1": null,
+                "Adresse": "2, av. des Tropiques",
+                "CP": 1190,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8113327577402, 4.31889789689447",
+                "latitude": 50.811332757740203,
+                "longitude": 4.3188978968944696
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.31889789689447,
+                    50.811332757740203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Aqualaine",
+                "Unnamed: 1": null,
+                "Adresse": "rue de la Chapelle 30",
+                "CP": 4800,
+                "Ville": "Verviers",
+                "Geolocalisation": "50.5957640776383, 5.85096583716828",
+                "latitude": 50.5957640776383,
+                "longitude": 5.85096583716828
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.85096583716828,
+                    50.5957640776383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Mouvements sans Titre",
+                "Unnamed: 1": null,
+                "Adresse": "Bois Libert, 11",
+                "CP": 4053,
+                "Ville": "Embourg",
+                "Geolocalisation": "50.60064759999999, 5.6246562",
+                "latitude": 50.6006476,
+                "longitude": 5.6246562
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6246562,
+                    50.600647599999988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Brussels Art Days",
+                "Unnamed: 1": null,
+                "Adresse": "Avenue de l’Hippodrome 64",
+                "CP": 1150,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.82224429999999, 4.3757283",
+                "latitude": 50.8222443,
+                "longitude": 4.3757283
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3757283,
+                    50.822244299999987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "BPS 22",
+                "Unnamed: 1": null,
+                "Adresse": "boulevard Ernest Solvay 22",
+                "CP": 6000,
+                "Ville": "Charleroi",
+                "Geolocalisation": "50.6560669, 5.599236599999999",
+                "latitude": 50.6560669,
+                "longitude": 5.5992366
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5992366,
+                    50.6560669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Art Addict",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Dries 165",
+                "CP": 1200,
+                "Ville": "Woluwe-Saint-Lambert",
+                "Geolocalisation": "50.8454705, 4.4239083",
+                "latitude": 50.8454705,
+                "longitude": 4.4239083
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4239083,
+                    50.8454705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Collectif Panamax",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Alex Bouvy 5",
+                "CP": 4020,
+                "Ville": "Liège",
+                "Geolocalisation": "50.64626, 5.5911183",
+                "latitude": 50.64626,
+                "longitude": 5.5911183
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5911183,
+                    50.64626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "BN Project",
+                "Unnamed: 1": null,
+                "Adresse": "14 rue Cornet de Grez",
+                "CP": 1210,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8571857, 4.3689783",
+                "latitude": 50.8571857,
+                "longitude": 4.3689783
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3689783,
+                    50.8571857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Syndicat initiatives de Bouffioulx",
+                "Unnamed: 1": null,
+                "Adresse": "300 rue Longue",
+                "CP": 6200,
+                "Ville": "Bouffioulx",
+                "Geolocalisation": "50.37555100339064, 4.49953462385351",
+                "latitude": 50.37555100339064,
+                "longitude": 4.4995346238535099
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.49953462385351,
+                    50.37555100339064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Compagnie du Murex",
+                "Unnamed: 1": null,
+                "Adresse": "Grand-rue de Feluy 13,",
+                "CP": 7181,
+                "Ville": "Feluy",
+                "Geolocalisation": "50.5639621, 4.251136199999999",
+                "latitude": 50.5639621,
+                "longitude": 4.2511362
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2511362,
+                    50.5639621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Arts et culture 1030",
+                "Unnamed: 1": null,
+                "Adresse": "Chaussée de Haecht 147,",
+                "CP": 1030,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8595275, 4.3707376",
+                "latitude": 50.8595275,
+                "longitude": 4.3707376
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3707376,
+                    50.8595275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Delvoyeurs",
+                "Unnamed: 1": null,
+                "Adresse": "27 Rue du Marronnier",
+                "CP": 1000,
+                "Ville": "BRUXELLES",
+                "Geolocalisation": "50.8531463363406, 4.351074356417",
+                "latitude": 50.8531463363406,
+                "longitude": 4.3510743564169996
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.351074356417,
+                    50.8531463363406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les mamans de Déborah",
+                "Unnamed: 1": null,
+                "Adresse": "34 av des Tilleuls",
+                "CP": 7110,
+                "Ville": "Houdeng Aimeries",
+                "Geolocalisation": "50.4867423187433, 4.14190765454484",
+                "latitude": 50.486742318743303,
+                "longitude": 4.1419076545448403
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.14190765454484,
+                    50.486742318743303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La S Grand Atelier",
+                "Unnamed: 1": null,
+                "Adresse": "Place des Chasseurs ardennais 31",
+                "CP": 6690,
+                "Ville": "Vielsam",
+                "Geolocalisation": "50.28995922781177, 5.901926884357345",
+                "latitude": 50.289959227811771,
+                "longitude": 5.9019268843573451
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.901926884357345,
+                    50.289959227811771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "ARP 2",
+                "Unnamed: 1": null,
+                "Adresse": "39 avenue Winston Churchill, boite 2",
+                "CP": 1180,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8125845454798, 4.35030038000037",
+                "latitude": 50.812584545479801,
+                "longitude": 4.3503003800003697
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35030038000037,
+                    50.812584545479801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Wittockiana asbl",
+                "Unnamed: 1": null,
+                "Adresse": "RUE DU BEMEL 23",
+                "CP": 1150,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8322328, 4.4202201",
+                "latitude": 50.8322328,
+                "longitude": 4.4202201
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4202201,
+                    50.8322328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "In Cité Mondi",
+                "Unnamed: 1": null,
+                "Adresse": "En Féronstrée 116",
+                "CP": 4000,
+                "Ville": "Liège",
+                "Geolocalisation": "50.6470829, 5.5823047",
+                "latitude": 50.6470829,
+                "longitude": 5.5823047
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5823047,
+                    50.6470829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "SAFFCA ASBL",
+                "Unnamed: 1": null,
+                "Adresse": "Avenue des Klauwaerts 14,",
+                "CP": 1050,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8216926, 4.3749707",
+                "latitude": 50.8216926,
+                "longitude": 4.3749707
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3749707,
+                    50.8216926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Parallax",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Armand-Longrée, 7",
+                "CP": 4000,
+                "Ville": "Liège",
+                "Geolocalisation": "50.6793129, 5.5467984",
+                "latitude": 50.6793129,
+                "longitude": 5.5467984
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5467984,
+                    50.6793129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "CYCL.ONE ASBL",
+                "Unnamed: 1": null,
+                "Adresse": "rue du Montenegro 144",
+                "CP": 1190,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8260813, 4.3323173",
+                "latitude": 50.8260813,
+                "longitude": 4.3323173
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3323173,
+                    50.8260813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Muette asbl",
+                "Unnamed: 1": null,
+                "Adresse": "Avenue d’Uccle, 12",
+                "CP": 1190,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8133011, 4.3252422",
+                "latitude": 50.8133011,
+                "longitude": 4.3252422
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3252422,
+                    50.8133011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Manifestations liégeoises",
+                "Unnamed: 1": null,
+                "Adresse": "en Féronstrée, 92,",
+                "CP": 4000,
+                "Ville": "Liège",
+                "Geolocalisation": "50.6467934, 5.580835",
+                "latitude": 50.6467934,
+                "longitude": 5.580835
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.580835,
+                    50.6467934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Damian and the love guru",
+                "Unnamed: 1": null,
+                "Adresse": "Rue de Tamines 19",
+                "CP": 1060,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.82613, 4.3477109",
+                "latitude": 50.82613,
+                "longitude": 4.3477109
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3477109,
+                    50.82613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Chiroux",
+                "Unnamed: 1": null,
+                "Adresse": "Place des Carmes, 8",
+                "CP": 4000,
+                "Ville": "Liège",
+                "Geolocalisation": "50.6391990049315, 5.57403425068037",
+                "latitude": 50.639199004931498,
+                "longitude": 5.57403425068037
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.57403425068037,
+                    50.639199004931498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "OYOU - Centre culturel Marchin",
+                "Unnamed: 1": null,
+                "Adresse": "Grand-Marchin, 4",
+                "CP": 4570,
+                "Ville": "Marchin",
+                "Geolocalisation": "50.4659868, 5.2357425",
+                "latitude": 50.4659868,
+                "longitude": 5.2357425
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2357425,
+                    50.4659868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Espace 251 Nord",
+                "Unnamed: 1": null,
+                "Adresse": "Vivegnis, 251",
+                "CP": 4000,
+                "Ville": "Liège",
+                "Geolocalisation": "50.6948109, 5.6467328",
+                "latitude": 50.6948109,
+                "longitude": 5.6467328
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6467328,
+                    50.6948109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Exit 11",
+                "Unnamed: 1": null,
+                "Adresse": "rue de Petit-Leez 129",
+                "CP": 5031,
+                "Ville": "Grand-Leez",
+                "Geolocalisation": "50.5716756, 4.772961100000001",
+                "latitude": 50.5716756,
+                "longitude": 4.7729611
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7729611,
+                    50.5716756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel La Villa",
+                "Unnamed: 1": null,
+                "Adresse": "26 place Guido Gezelle",
+                "CP": 1083,
+                "Ville": "Ganshoren",
+                "Geolocalisation": "50.8740236, 4.3140532",
+                "latitude": 50.8740236,
+                "longitude": 4.3140532
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3140532,
+                    50.8740236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "SB 34",
+                "Unnamed: 1": null,
+                "Adresse": "rue Saint-Bernard, 34",
+                "CP": 1060,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.829258468746445, 4.354866613216013",
+                "latitude": 50.829258468746445,
+                "longitude": 4.3548666132160134
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.354866613216013,
+                    50.829258468746445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Trinkhall Museum",
+                "Unnamed: 1": null,
+                "Adresse": "Parc d'Avroy 1",
+                "CP": 4000,
+                "Ville": "Liège",
+                "Geolocalisation": "50.6329939, 5.5685425",
+                "latitude": 50.6329939,
+                "longitude": 5.5685425
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5685425,
+                    50.6329939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Deborah Bowmann",
+                "Unnamed: 1": null,
+                "Adresse": "24 avenue Jean Volders",
+                "CP": 1060,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8320809, 4.3433829",
+                "latitude": 50.8320809,
+                "longitude": 4.3433829
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3433829,
+                    50.8320809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre international d'art et de culture",
+                "Unnamed: 1": null,
+                "Adresse": "En Féronstrée 92",
+                "CP": 4000,
+                "Ville": "Liège",
+                "Geolocalisation": "50.6467934, 5.580835",
+                "latitude": 50.6467934,
+                "longitude": 5.580835
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.580835,
+                    50.6467934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Bruxelles s'anime",
+                "Unnamed: 1": null,
+                "Adresse": "Rue de Stalle 140A, B",
+                "CP": 1181,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.7965209, 4.3281973",
+                "latitude": 50.7965209,
+                "longitude": 4.3281973
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3281973,
+                    50.7965209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Brussels Art Days",
+                "Unnamed: 1": null,
+                "Adresse": "Avenue de l’hippodrome 64",
+                "CP": 1050,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.82224429999999, 4.3757283",
+                "latitude": 50.8222443,
+                "longitude": 4.3757283
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3757283,
+                    50.822244299999987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Musée du Petit Format",
+                "Unnamed: 1": null,
+                "Adresse": "rue Bassidaine 6",
+                "CP": 5670,
+                "Ville": "Nismes",
+                "Geolocalisation": "50.0746969, 4.547628599999999",
+                "latitude": 50.0746969,
+                "longitude": 4.5476286
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5476286,
+                    50.0746969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "TAMAT",
+                "Unnamed: 1": null,
+                "Adresse": "Place reine Astrid 9",
+                "CP": 7500,
+                "Ville": "Tournai",
+                "Geolocalisation": "50.604255038119085, 3.388366513117486",
+                "latitude": 50.604255038119085,
+                "longitude": 3.3883665131174858
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.388366513117486,
+                    50.604255038119085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Yellow Now",
+                "Unnamed: 1": null,
+                "Adresse": "15 rue François Gilon",
+                "CP": 4367,
+                "Ville": "Crisnée",
+                "Geolocalisation": "50.71944, 5.4025392",
+                "latitude": 50.71944,
+                "longitude": 5.4025392
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4025392,
+                    50.71944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Hématomes Editions",
+                "Unnamed: 1": null,
+                "Adresse": "quai de la Dérivation 2",
+                "CP": 4020,
+                "Ville": "Liège",
+                "Geolocalisation": "50.6384959, 5.5869355",
+                "latitude": 50.6384959,
+                "longitude": 5.5869355
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5869355,
+                    50.6384959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Prisme Editions",
+                "Unnamed: 1": null,
+                "Adresse": "Avenue Wielemans Ceuppens 45",
+                "CP": 1190,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8239624583362, 4.32834078039137",
+                "latitude": 50.823962458336197,
+                "longitude": 4.32834078039137
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.32834078039137,
+                    50.823962458336197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Mr Vertigo et les voyageurs",
+                "Unnamed: 1": null,
+                "Adresse": "Rue de la Brasserie 52",
+                "CP": 1050,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.828146, 4.3757251",
+                "latitude": 50.828146,
+                "longitude": 4.3757251
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3757251,
+                    50.828146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Set & Chloé",
+                "Unnamed: 1": null,
+                "Adresse": "Avenue des Tropiques, 2",
+                "CP": 1080,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8151383741436, 4.32634306805915",
+                "latitude": 50.815138374143601,
+                "longitude": 4.3263430680591499
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.32634306805915,
+                    50.815138374143601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Musée en plein air du Sart Tilman",
+                "Unnamed: 1": null,
+                "Adresse": "L’Agora 1",
+                "CP": 4000,
+                "Ville": "Liège",
+                "Geolocalisation": "50.5847854788116, 5.5702865702348",
+                "latitude": 50.584785478811597,
+                "longitude": 5.5702865702348001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5702865702348,
+                    50.584785478811597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "NNSTUDIO",
+                "Unnamed: 1": null,
+                "Adresse": "2, Quai de la Dérivation",
+                "CP": 4020,
+                "Ville": "Liège",
+                "Geolocalisation": "50.6384959, 5.5869355",
+                "latitude": 50.6384959,
+                "longitude": 5.5869355
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5869355,
+                    50.6384959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Chambre de l'Art",
+                "Unnamed: 1": null,
+                "Adresse": "11, rue Marcq",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8540032, 4.3486704",
+                "latitude": 50.8540032,
+                "longitude": 4.3486704
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3486704,
+                    50.8540032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Jeunesse et Arts plastiques",
+                "Unnamed: 1": null,
+                "Adresse": "Palais des Beaux-arts 23 rue Ravenstein",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.84408759999999, 4.359579",
+                "latitude": 50.8440876,
+                "longitude": 4.359579
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.359579,
+                    50.844087599999988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Clic",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Basse-Chaussée, 122",
+                "CP": 5022,
+                "Ville": "Cognelée",
+                "Geolocalisation": "50.5180527, 4.9029368",
+                "latitude": 50.5180527,
+                "longitude": 4.9029368
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9029368,
+                    50.5180527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Espace 251 Nord",
+                "Unnamed: 1": null,
+                "Adresse": "rue Vivegnis, 251",
+                "CP": 4000,
+                "Ville": "Liège",
+                "Geolocalisation": "50.65240989999999, 5.590537299999999",
+                "latitude": 50.6524099,
+                "longitude": 5.5905373
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5905373,
+                    50.652409899999988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Umalut",
+                "Unnamed: 1": null,
+                "Adresse": "avenue Molière 38",
+                "CP": 1190,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8158655165359, 4.34330206990797",
+                "latitude": 50.815865516535901,
+                "longitude": 4.3433020699079696
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.34330206990797,
+                    50.815865516535901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Farm Prod asbl",
+                "Unnamed: 1": null,
+                "Adresse": "rue Coenraets 72",
+                "CP": 1060,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8320172, 4.3382755",
+                "latitude": 50.8320172,
+                "longitude": 4.3382755
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3382755,
+                    50.8320172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Banquet Production",
+                "Unnamed: 1": null,
+                "Adresse": "346 rue des palais",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8716558, 4.3619261",
+                "latitude": 50.8716558,
+                "longitude": 4.3619261
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3619261,
+                    50.8716558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Nationa(a)l",
+                "Unnamed: 1": null,
+                "Adresse": "Avenue Louise, 231",
+                "CP": 1050,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8255059, 4.3652219",
+                "latitude": 50.8255059,
+                "longitude": 4.3652219
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3652219,
+                    50.8255059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Propaganza",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Roosendael n°208",
+                "CP": 1190,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8100129, 4.335592999999999",
+                "latitude": 50.8100129,
+                "longitude": 4.335593
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.335593,
+                    50.8100129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "t.r.a.n.s.i.t.s.c.a.p.e",
+                "Unnamed: 1": null,
+                "Adresse": "rue des Cultivateurs 17",
+                "CP": 1040,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8325441535908, 4.39296199689581",
+                "latitude": 50.832544153590803,
+                "longitude": 4.39296199689581
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.39296199689581,
+                    50.832544153590803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Mouvements Sans Titre asbl",
+                "Unnamed: 1": null,
+                "Adresse": "Bois Libert, 11",
+                "CP": 4053,
+                "Ville": "Embourg",
+                "Geolocalisation": "50.60064759999999, 5.6246562",
+                "latitude": 50.6006476,
+                "longitude": 5.6246562
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6246562,
+                    50.600647599999988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "MAD",
+                "Unnamed: 1": null,
+                "Adresse": "Place du Nouveau Marché aux Grains 10",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.85114799999999, 4.3441836",
+                "latitude": 50.851148,
+                "longitude": 4.3441836
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3441836,
+                    50.851148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "MAC's",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Sainte Louise 82",
+                "CP": 7301,
+                "Ville": "Hornu",
+                "Geolocalisation": "50.4351028819064, 3.83753332570604",
+                "latitude": 50.435102881906403,
+                "longitude": 3.83753332570604
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.83753332570604,
+                    50.435102881906403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "CCINQ",
+                "Unnamed: 1": null,
+                "Adresse": "Rue de l’Autonomie 23 boîte 1 - B",
+                "CP": 1070,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.840198, 4.3373434",
+                "latitude": 50.840198,
+                "longitude": 4.3373434
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3373434,
+                    50.840198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Académie des Beaux Arts de Verviers",
+                "Unnamed: 1": null,
+                "Adresse": "Place du Palais de Justice, 15",
+                "CP": 4800,
+                "Ville": "Verviers",
+                "Geolocalisation": "50.59099073126042, 5.86586238252135",
+                "latitude": 50.590990731260419,
+                "longitude": 5.8658623825213496
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.86586238252135,
+                    50.590990731260419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Thanks Galerie",
+                "Unnamed: 1": null,
+                "Adresse": "RUE DES FRIPIERS 22",
+                "CP": 7000,
+                "Ville": "MONS",
+                "Geolocalisation": "50.84875299999999, 4.3522026",
+                "latitude": 50.848753,
+                "longitude": 4.3522026
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3522026,
+                    50.848753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Bureau des activités implicites",
+                "Unnamed: 1": null,
+                "Adresse": "Boulevard général jacques 249",
+                "CP": 1050,
+                "Ville": "Ixelles",
+                "Geolocalisation": "50.8215854, 4.388198099999999",
+                "latitude": 50.8215854,
+                "longitude": 4.3881981
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3881981,
+                    50.8215854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Atelier Triphasé",
+                "Unnamed: 1": null,
+                "Adresse": "Boulevard  Poincaré 58B",
+                "CP": 1070,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8422103, 4.339212799999999",
+                "latitude": 50.8422103,
+                "longitude": 4.3392128
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3392128,
+                    50.8422103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "After Howl",
+                "Unnamed: 1": null,
+                "Adresse": "rue Vanderstraeten 33",
+                "CP": 1080,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.850879142925, 4.331386753696909",
+                "latitude": 50.850879142925002,
+                "longitude": 4.3313867536969086
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.331386753696909,
+                    50.850879142925002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ateliers Panthère",
+                "Unnamed: 1": null,
+                "Adresse": "rue Maurice Wilmotte 68",
+                "CP": 1060,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.826384, 4.35232",
+                "latitude": 50.826384,
+                "longitude": 4.35232
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35232,
+                    50.826384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Mosso",
+                "Unnamed: 1": null,
+                "Adresse": "Rue du Cheval Noir 17 boite 15",
+                "CP": 1080,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8527300103754, 4.33938301436728",
+                "latitude": 50.852730010375403,
+                "longitude": 4.3393830143672796
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.33938301436728,
+                    50.852730010375403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Collectif 397 Marais",
+                "Unnamed: 1": null,
+                "Adresse": "rue Gustave Defnet 25",
+                "CP": 1060,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.82816709999999, 4.3384594",
+                "latitude": 50.8281671,
+                "longitude": 4.3384594
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3384594,
+                    50.828167099999987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Non A",
+                "Unnamed: 1": null,
+                "Adresse": "Avenue de la verrerie, 23,",
+                "CP": 1190,
+                "Ville": "Forest",
+                "Geolocalisation": "50.8057013138246, 4.31467718155195",
+                "latitude": 50.805701313824599,
+                "longitude": 4.31467718155195
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.31467718155195,
+                    50.805701313824599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Grosses lacunes",
+                "Unnamed: 1": null,
+                "Adresse": "Rue d’Angleterre 8,",
+                "CP": 6000,
+                "Ville": "Charleroi",
+                "Geolocalisation": "50.4167756910784, 4.45057949686934",
+                "latitude": 50.416775691078399,
+                "longitude": 4.4505794968693397
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.45057949686934,
+                    50.416775691078399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "indekeuken asbl",
+                "Unnamed: 1": null,
+                "Adresse": "33 rue des Secours",
+                "CP": 1210,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8580331, 4.3662304",
+                "latitude": 50.8580331,
+                "longitude": 4.3662304
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3662304,
+                    50.8580331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Thanks Galerie",
+                "Unnamed: 1": null,
+                "Adresse": "RUE DES FRIPIERS 22,",
+                "CP": 7000,
+                "Ville": "MONS",
+                "Geolocalisation": "50.84875299999999, 4.3522026",
+                "latitude": 50.848753,
+                "longitude": 4.3522026
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3522026,
+                    50.848753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Collectif La Satelitte",
+                "Unnamed: 1": null,
+                "Adresse": "Avenue Adolphe Lacomblé, 40",
+                "CP": 1030,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8493665, 4.3994266",
+                "latitude": 50.8493665,
+                "longitude": 4.3994266
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3994266,
+                    50.8493665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Botanique",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Royale 236,",
+                "CP": 1210,
+                "Ville": "Saint-Josse",
+                "Geolocalisation": "50.855056022666, 4.36550709689723",
+                "latitude": 50.855056022665998,
+                "longitude": 4.3655070968972298
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.36550709689723,
+                    50.855056022665998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Into Image",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Henry Maubel 91/1",
+                "CP": 1190,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8111089, 4.3350477",
+                "latitude": 50.8111089,
+                "longitude": 4.3350477
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3350477,
+                    50.8111089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Novart",
+                "Unnamed: 1": null,
+                "Adresse": "Avenue du Port 86C",
+                "CP": 1000,
+                "Ville": "BRUXELLES",
+                "Geolocalisation": "50.8648307, 4.3491892",
+                "latitude": 50.8648307,
+                "longitude": 4.3491892
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3491892,
+                    50.8648307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Youpie quand même",
+                "Unnamed: 1": null,
+                "Adresse": "Boulevard D’avroy 10a",
+                "CP": 4000,
+                "Ville": "Liège",
+                "Geolocalisation": "50.6395475, 5.5683693",
+                "latitude": 50.6395475,
+                "longitude": 5.5683693
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5683693,
+                    50.6395475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "MAC's",
+                "Unnamed: 1": null,
+                "Adresse": "rue Sainte Louise 82",
+                "CP": 7301,
+                "Ville": "Hornu",
+                "Geolocalisation": "50.4350277105816, 3.83749041036389",
+                "latitude": 50.435027710581601,
+                "longitude": 3.8374904103638898
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.83749041036389,
+                    50.435027710581601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Amis des Musées royaux des\nBeaux-Arts de Belgique",
+                "Unnamed: 1": null,
+                "Adresse": "Rue du Musée, 9",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8422638182983, 4.35836449689643",
+                "latitude": 50.842263818298299,
+                "longitude": 4.3583644968964297
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35836449689643,
+                    50.842263818298299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Galerie Libertine",
+                "Unnamed: 1": null,
+                "Adresse": "avenue Emile de Beco 75",
+                "CP": 1050,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8219793, 4.3826344",
+                "latitude": 50.8219793,
+                "longitude": 4.3826344
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3826344,
+                    50.8219793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "BAAC",
+                "Unnamed: 1": null,
+                "Adresse": "Avenue Kersbeek 308",
+                "CP": 1180,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.801053, 4.3227547",
+                "latitude": 50.801053,
+                "longitude": 4.3227547
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3227547,
+                    50.801053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "CACLB",
+                "Unnamed: 1": null,
+                "Adresse": "Rue du Moulin, 35 –",
+                "CP": 6740,
+                "Ville": "Etalle",
+                "Geolocalisation": "50.85577079999999, 4.3702232",
+                "latitude": 50.8557708,
+                "longitude": 4.3702232
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3702232,
+                    50.855770799999988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ikob",
+                "Unnamed: 1": null,
+                "Adresse": "Rotenberg 12b",
+                "CP": 4700,
+                "Ville": "Eupen",
+                "Geolocalisation": "50.6264546730966, 6.02952383404406",
+                "latitude": 50.626454673096603,
+                "longitude": 6.0295238340440598
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.02952383404406,
+                    50.626454673096603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Mouvements Sans Titre asbl",
+                "Unnamed: 1": null,
+                "Adresse": "Bois Libert, 11 –",
+                "CP": 4053,
+                "Ville": "Embourg",
+                "Geolocalisation": "50.60064759999999, 5.6246562",
+                "latitude": 50.6006476,
+                "longitude": 5.6246562
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6246562,
+                    50.600647599999988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Room",
+                "Unnamed: 1": null,
+                "Adresse": "254 chaussée de Forest",
+                "CP": 1060,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.826075, 4.337835399999999",
+                "latitude": 50.826075,
+                "longitude": 4.3378354
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3378354,
+                    50.826075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culmturel de Hannut",
+                "Unnamed: 1": null,
+                "Adresse": "place Henri Hallet 27/1",
+                "CP": 4280,
+                "Ville": "Hannut",
+                "Geolocalisation": "50.6711841, 5.0791283",
+                "latitude": 50.6711841,
+                "longitude": 5.0791283
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0791283,
+                    50.6711841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Kosmix",
+                "Unnamed: 1": null,
+                "Adresse": "46 avenue Emile Verhaeren",
+                "CP": 1030,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.874623, 4.380790200000001",
+                "latitude": 50.874623,
+                "longitude": 4.3807902
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3807902,
+                    50.874623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Cinquième Couche",
+                "Unnamed: 1": null,
+                "Adresse": "avenue des Tropiques, 2",
+                "CP": 1190,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8152197189727, 4.32623577970378",
+                "latitude": 50.815219718972699,
+                "longitude": 4.3262357797037803
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.32623577970378,
+                    50.815219718972699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Katharsis",
+                "Unnamed: 1": null,
+                "Adresse": "291 Avenue Brugmann",
+                "CP": 1180,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8118626, 4.3465157",
+                "latitude": 50.8118626,
+                "longitude": 4.3465157
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3465157,
+                    50.8118626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Exit 11",
+                "Unnamed: 1": null,
+                "Adresse": "rue de Petit-Leez 129",
+                "CP": 5031,
+                "Ville": "Grand-Leez",
+                "Geolocalisation": "50.5716756, 4.772961100000001",
+                "latitude": 50.5716756,
+                "longitude": 4.7729611
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7729611,
+                    50.5716756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Part du Feu",
+                "Unnamed: 1": null,
+                "Adresse": "52 rue Léon Parent",
+                "CP": 5560,
+                "Ville": "Vonêche",
+                "Geolocalisation": "50.0611858, 4.975772399999999",
+                "latitude": 50.0611858,
+                "longitude": 4.9757724
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9757724,
+                    50.0611858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Jeunesse à Bruxelles",
+                "Unnamed: 1": null,
+                "Adresse": "Rue des Chartreux 26 – 28",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8487247, 4.346724399999999",
+                "latitude": 50.8487247,
+                "longitude": 4.3467244
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3467244,
+                    50.8487247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "JAP",
+                "Unnamed: 1": null,
+                "Adresse": "PALAIS DES BEAUX-ARTS 23 RUE RAVENSTEIN",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.84408759999999, 4.359579",
+                "latitude": 50.8440876,
+                "longitude": 4.359579
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.359579,
+                    50.844087599999988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Wiels",
+                "Unnamed: 1": null,
+                "Adresse": "avenue van Volxem 354",
+                "CP": 1190,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8243845, 4.325514099999999",
+                "latitude": 50.8243845,
+                "longitude": 4.3255141
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3255141,
+                    50.8243845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Manifestations liégeoises / RAVI",
+                "Unnamed: 1": null,
+                "Adresse": "92, en Feronstrée",
+                "CP": 4000,
+                "Ville": "Liège",
+                "Geolocalisation": "50.6467934, 5.580835",
+                "latitude": 50.6467934,
+                "longitude": 5.580835
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.580835,
+                    50.6467934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Atelier 34 Zero",
+                "Unnamed: 1": null,
+                "Adresse": "Drève de Rivieren, 334",
+                "CP": 1090,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8801442, 4.3224424",
+                "latitude": 50.8801442,
+                "longitude": 4.3224424
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3224424,
+                    50.8801442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Espace 001 ASBL",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Michel de Ghelderode, 1.",
+                "CP": 1348,
+                "Ville": "Louvain-la-Neuve",
+                "Geolocalisation": "50.6600049, 4.611644699999999",
+                "latitude": 50.6600049,
+                "longitude": 4.6116447
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6116447,
+                    50.6600049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Odradek ASBL",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Américaine 35",
+                "CP": 1060,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8239403, 4.3563103",
+                "latitude": 50.8239403,
+                "longitude": 4.3563103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3563103,
+                    50.8239403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Image fantôme",
+                "Unnamed: 1": null,
+                "Adresse": "Rue de la Tulipe 55",
+                "CP": 1050,
+                "Ville": "Ixelles",
+                "Geolocalisation": "50.8353294, 4.3680952",
+                "latitude": 50.8353294,
+                "longitude": 4.3680952
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3680952,
+                    50.8353294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre du Rouge Cloitre",
+                "Unnamed: 1": null,
+                "Adresse": "Rue du Rouge-Cloître 4,",
+                "CP": 1160,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.81347539999999, 4.4432996",
+                "latitude": 50.8134754,
+                "longitude": 4.4432996
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4432996,
+                    50.813475399999987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Mouvements sans Titre",
+                "Unnamed: 1": null,
+                "Adresse": "Bois Libert 13",
+                "CP": 4053,
+                "Ville": "Embourg",
+                "Geolocalisation": "50.6004465, 5.6246158",
+                "latitude": 50.6004465,
+                "longitude": 5.6246158
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6246158,
+                    50.6004465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Studio Gondo",
+                "Unnamed: 1": null,
+                "Adresse": "Rue de Stalle 140A, B",
+                "CP": 1180,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.7965209, 4.3281973",
+                "latitude": 50.7965209,
+                "longitude": 4.3281973
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3281973,
+                    50.7965209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "ADAF",
+                "Unnamed: 1": null,
+                "Adresse": "Rue des Grands Carmes, 16",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8452954, 4.3492999",
+                "latitude": 50.8452954,
+                "longitude": 4.3492999
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3492999,
+                    50.8452954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "POELP",
+                "Unnamed: 1": null,
+                "Adresse": "rue Bara 123",
+                "CP": 1070,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8349566398057, 4.3299868832857",
+                "latitude": 50.834956639805696,
+                "longitude": 4.3299868832856996
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3299868832857,
+                    50.834956639805696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Dis Mon Nom",
+                "Unnamed: 1": null,
+                "Adresse": "Rue des Palais 154",
+                "CP": 1030,
+                "Ville": "Schaerbeek",
+                "Geolocalisation": "50.86494560000001, 4.3662696",
+                "latitude": 50.8649456,
+                "longitude": 4.3662696
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3662696,
+                    50.864945600000013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Alma Sarif",
+                "Unnamed: 1": null,
+                "Adresse": "chaussée de Forest 90",
+                "CP": 1060,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8310845, 4.3395492",
+                "latitude": 50.8310845,
+                "longitude": 4.3395492
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3395492,
+                    50.8310845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel de Libramont",
+                "Unnamed: 1": null,
+                "Adresse": "avenue d'Houffalize 56d",
+                "CP": 6800,
+                "Ville": "Libramont",
+                "Geolocalisation": "49.926462602882, 5.38342429683833",
+                "latitude": 49.926462602881998,
+                "longitude": 5.3834242968383297
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.38342429683833,
+                    49.926462602881998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Wapica",
+                "Unnamed: 1": null,
+                "Adresse": "Coron du Bois 8",
+                "CP": 7904,
+                "Ville": "Willaupuis",
+                "Geolocalisation": "50.5696097, 3.5954754",
+                "latitude": 50.5696097,
+                "longitude": 3.5954754
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5954754,
+                    50.5696097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "In Progress",
+                "Unnamed: 1": null,
+                "Adresse": "12 Av. de l’Observatoire",
+                "CP": 1180,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.804299842768, 4.37145252006746",
+                "latitude": 50.804299842768003,
+                "longitude": 4.3714525200674599
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.37145252006746,
+                    50.804299842768003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Travailler le social",
+                "Unnamed: 1": null,
+                "Adresse": "rue Taravisée 2",
+                "CP": 5031,
+                "Ville": "Grand Leez",
+                "Geolocalisation": "50.591203, 4.7684345",
+                "latitude": 50.591203,
+                "longitude": 4.7684345
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7684345,
+                    50.591203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Mulet",
+                "Unnamed: 1": null,
+                "Adresse": "31, avenue Arnold Delvaux",
+                "CP": 1180,
+                "Ville": "Uccle",
+                "Geolocalisation": "50.8001602, 4.3396832",
+                "latitude": 50.8001602,
+                "longitude": 4.3396832
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3396832,
+                    50.8001602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Umlaut",
+                "Unnamed: 1": null,
+                "Adresse": "avenue Molière 38",
+                "CP": 1190,
+                "Ville": "Forest",
+                "Geolocalisation": "50.8158655165359, 4.34330206990797",
+                "latitude": 50.815865516535901,
+                "longitude": 4.3433020699079696
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.34330206990797,
+                    50.815865516535901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Grandir et dessiner /Editions du Lustre",
+                "Unnamed: 1": null,
+                "Adresse": "rue Général Gratry, 17",
+                "CP": 1030,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8458469, 4.398776199999999",
+                "latitude": 50.8458469,
+                "longitude": 4.3987762
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3987762,
+                    50.8458469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Comptoir des petits éditeurs et \nmétiers du livre",
+                "Unnamed: 1": null,
+                "Adresse": "20 en Neuvice",
+                "CP": 4000,
+                "Ville": "Liège",
+                "Geolocalisation": "50.64535610000001, 5.576583599999999",
+                "latitude": 50.6453561,
+                "longitude": 5.5765836
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5765836,
+                    50.6453561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Culturia",
+                "Unnamed: 1": null,
+                "Adresse": "Quai Sur Meuse 19",
+                "CP": 4000,
+                "Ville": "Liège",
+                "Geolocalisation": "50.6418904, 5.5762433",
+                "latitude": 50.6418904,
+                "longitude": 5.5762433
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5762433,
+                    50.6418904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Nouvelle mode de vie",
+                "Unnamed: 1": null,
+                "Adresse": "Rue de la Commune, 11",
+                "CP": 4020,
+                "Ville": "Liège",
+                "Geolocalisation": "50.8509386, 4.372383999999999",
+                "latitude": 50.8509386,
+                "longitude": 4.372384
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.372384,
+                    50.8509386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Atelier 34zero",
+                "Unnamed: 1": null,
+                "Adresse": "Drève de Rivieren 334",
+                "CP": 0,
+                "Ville": "Jette",
+                "Geolocalisation": "50.8801442, 4.3224424",
+                "latitude": 50.8801442,
+                "longitude": 4.3224424
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3224424,
+                    50.8801442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Women in art",
+                "Unnamed: 1": null,
+                "Adresse": "414 A chaussée d’Alsemberg",
+                "CP": 1180,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.81297379999999, 4.3388352",
+                "latitude": 50.8129738,
+                "longitude": 4.3388352
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3388352,
+                    50.812973799999988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Spore",
+                "Unnamed: 1": null,
+                "Adresse": "23, Avenue Minerve Boîte 20",
+                "CP": 1190,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8096988, 4.330494499999999",
+                "latitude": 50.8096988,
+                "longitude": 4.3304945
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3304945,
+                    50.8096988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Administration communale de Châtelet",
+                "Unnamed: 1": null,
+                "Adresse": "55, rue Gendebien",
+                "CP": 6200,
+                "Ville": "CHATELET",
+                "Geolocalisation": "50.8642806, 4.362212899999999",
+                "latitude": 50.8642806,
+                "longitude": 4.3622129
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3622129,
+                    50.8642806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ice Screen ASBL",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Coenraets, 84",
+                "CP": 1060,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.831495, 4.3386339",
+                "latitude": 50.831495,
+                "longitude": 4.3386339
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3386339,
+                    50.831495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Katharsis",
+                "Unnamed: 1": null,
+                "Adresse": "291 Avenue Brugmann",
+                "CP": 1180,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8118626, 4.3465157",
+                "latitude": 50.8118626,
+                "longitude": 4.3465157
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3465157,
+                    50.8118626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Factory production",
+                "Unnamed: 1": null,
+                "Adresse": "1 rue du chevreuil",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.837883, 4.3451241",
+                "latitude": 50.837883,
+                "longitude": 4.3451241
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3451241,
+                    50.837883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Hypernuit",
+                "Unnamed: 1": null,
+                "Adresse": "39 boulevard d’Ypres",
+                "CP": 1000,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8448272, 4.359333299999999",
+                "latitude": 50.8448272,
+                "longitude": 4.3593333
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3593333,
+                    50.8448272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Macaroni Book",
+                "Unnamed: 1": null,
+                "Adresse": "rue du Fort 1",
+                "CP": 1060,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.82850056155, 4.34243655456663",
+                "latitude": 50.828500561550001,
+                "longitude": 4.3424365545666301
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.34243655456663,
+                    50.828500561550001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Keramis",
+                "Unnamed: 1": null,
+                "Adresse": "Place des Fours-Bouteilles 1,",
+                "CP": 7100,
+                "Ville": "La Louvière",
+                "Geolocalisation": "50.4781621409009, 4.18356284678471",
+                "latitude": 50.478162140900899,
+                "longitude": 4.1835628467847101
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.18356284678471,
+                    50.478162140900899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "SB 34",
+                "Unnamed: 1": null,
+                "Adresse": "34 rue Saint-Bernard",
+                "CP": 1060,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.829238138666, 4.35477005271793",
+                "latitude": 50.829238138666,
+                "longitude": 4.3547700527179298
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35477005271793,
+                    50.829238138666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Nationa(a)l",
+                "Unnamed: 1": null,
+                "Adresse": "Avenue Louise, 231",
+                "CP": 1050,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8255059, 4.3652219",
+                "latitude": 50.8255059,
+                "longitude": 4.3652219
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3652219,
+                    50.8255059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "68 X 70",
+                "Unnamed: 1": null,
+                "Adresse": "Rue Émile Féron,106",
+                "CP": 1060,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.8312464, 4.336686200000001",
+                "latitude": 50.8312464,
+                "longitude": 4.3366862
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3366862,
+                    50.8312464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "BPS 22",
+                "Unnamed: 1": null,
+                "Adresse": "22 boulevard Solvay",
+                "CP": 6000,
+                "Ville": "Charleroi",
+                "Geolocalisation": "50.41489, 4.4449761",
+                "latitude": 50.41489,
+                "longitude": 4.4449761
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4449761,
+                    50.41489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre de la Gravure et Image imprimée",
+                "Unnamed: 1": null,
+                "Adresse": "10 rue des Amours",
+                "CP": 7100,
+                "Ville": "La Louvière",
+                "Geolocalisation": "50.474108909097, 4.1850238103664",
+                "latitude": 50.474108909096998,
+                "longitude": 4.1850238103663999
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1850238103664,
+                    50.474108909096998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Prisme Editions",
+                "Unnamed: 1": null,
+                "Adresse": "Avenue Wielemans Ceuppens, 45/2",
+                "CP": 1190,
+                "Ville": "Bruxelles",
+                "Geolocalisation": "50.82378629999999, 4.328351500000001",
+                "latitude": 50.8237863,
+                "longitude": 4.3283515
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3283515,
+                    50.823786299999988
+                ]
+            }
+        }
+    ]
+}

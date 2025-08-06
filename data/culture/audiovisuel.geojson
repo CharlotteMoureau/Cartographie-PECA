@@ -1,0 +1,1192 @@
+{
+    "type": "FeatureCollection",
+    "name": "OC Audiovisuel",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Filem'on",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue de la Caserne 33",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.84233225116993, 4.342203898152057",
+                "lat": 50.842332251169928,
+                "lon": 4.3422038981520572
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.342203898152057,
+                    50.842332251169928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Atelier de Production de la Cambre (ENSAV)",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Avenue Franklin Roosevelt 27",
+                "Code postal": 1050,
+                "Ville": "Ixelles",
+                "Géolocalisation": "50.81164471960102, 4.379631469314997",
+                "lat": 50.81164471960102,
+                "lon": 4.3796314693149974
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.379631469314997,
+                    50.81164471960102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Nova asbl",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue d'Arenberg 14",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.84846748818867, 4.356503527102752",
+                "lat": 50.848467488188668,
+                "lon": 4.3565035271027517
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.356503527102752,
+                    50.848467488188668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Projecta asbl - Avila VOD",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Chaussée de Waterloo 37",
+                "Code postal": 1060,
+                "Ville": "Saint-Gilles",
+                "Géolocalisation": "50.83155104984382, 4.344521284891428",
+                "lat": 50.831551049843817,
+                "lon": 4.3445212848914281
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344521284891428,
+                    50.831551049843817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Marcel",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue de Moranville 63",
+                "Code postal": 1090,
+                "Ville": "Jette",
+                "Géolocalisation": "50.868715644081306, 4.331596884660726",
+                "lat": 50.868715644081306,
+                "lon": 4.3315968846607262
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.331596884660726,
+                    50.868715644081306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Quai 10",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Quai Arthur Rimbaud 10",
+                "Code postal": 6000,
+                "Ville": "Charleroi",
+                "Géolocalisation": "50.406221086311106, 4.4411414827916165",
+                "lat": 50.406221086311106,
+                "lon": 4.4411414827916165
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.441141482791616,
+                    50.406221086311106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Extra&Ordinary People",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue des Trois Tilleuls 57",
+                "Code postal": 1170,
+                "Ville": "Watermael-Boitsfort",
+                "Géolocalisation": "50.80070314963754, 4.416075540613636",
+                "lat": 50.800703149637542,
+                "lon": 4.4160755406136358
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.416075540613636,
+                    50.800703149637542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Camera-etc",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue de Visé 490",
+                "Code postal": 4020,
+                "Ville": "Liège",
+                "Géolocalisation": "50.657655809577086, 5.650843269309008",
+                "lat": 50.657655809577086,
+                "lon": 5.650843269309008
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.650843269309008,
+                    50.657655809577086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Wallonie Image Production (WIP)",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue de Mulhouse 36",
+                "Code postal": 4020,
+                "Ville": "Liège",
+                "Géolocalisation": "50.63274420411387, 5.58607561348746",
+                "lat": 50.63274420411387,
+                "lon": 5.5860756134874601
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.58607561348746,
+                    50.63274420411387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Festival international du film francophone de Namur (FIFF)",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue des Brasseurs 175",
+                "Code postal": 5000,
+                "Ville": "Namur",
+                "Géolocalisation": "50.462398554879634, 4.861670726973214",
+                "lat": 50.462398554879634,
+                "lon": 4.8616707269732142
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.861670726973214,
+                    50.462398554879634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Atelier de Réalisation et de Recherches Expérimentales Cinéma-Vidéo (ARRECV)",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue de Namur 54",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.840047407096215, 4.360316211644322",
+                "lat": 50.840047407096215,
+                "lon": 4.3603162116443217
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.360316211644322,
+                    50.840047407096215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Ateliers de Productions Audiovisuelles Coopératifs de la Haute Ecole Libre de Bruxelles (A.P.A.C.H)",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue du Croissant 136",
+                "Code postal": 1190,
+                "Ville": "Forest",
+                "Géolocalisation": "50.825336411370934, 4.333403584659063",
+                "lat": 50.825336411370934,
+                "lon": 4.3334035846590631
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.333403584659063,
+                    50.825336411370934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Zin TV",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Avenue Albert 285",
+                "Code postal": 1190,
+                "Ville": "Forest",
+                "Géolocalisation": "50.81450724098774, 4.347095211778823",
+                "lat": 50.814507240987737,
+                "lon": 4.3470952117788233
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.347095211778823,
+                    50.814507240987737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Freyja - Empreintes/Les Toiles",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Avenue Zaman 20",
+                "Code postal": 1190,
+                "Ville": "Forest",
+                "Géolocalisation": "50.812620345369176, 4.324980298284321",
+                "lat": 50.812620345369176,
+                "lon": 4.3249802982843208
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.324980298284321,
+                    50.812620345369176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Art& Cinéma asbl - Cinéma Vendôme",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Chaussée de Wavre 18",
+                "Code postal": 1050,
+                "Ville": "Ixelles",
+                "Géolocalisation": "50.83760030187339, 4.362899259996794",
+                "lat": 50.837600301873387,
+                "lon": 4.3628992599967944
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.362899259996794,
+                    50.837600301873387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Bah Voyons ! - Screenbox",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue Coenarts 72",
+                "Code postal": 1060,
+                "Ville": "Saint-Gilles",
+                "Géolocalisation": "50.832186586513096, 4.338318413625601",
+                "lat": 50.832186586513096,
+                "lon": 4.3383184136256014
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.338318413625601,
+                    50.832186586513096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Atelier Jeunes Cinéastes (AJC!)",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue de l'Autonomie 14",
+                "Code postal": 1070,
+                "Ville": "Anderlecht",
+                "Géolocalisation": "50.840059107066295, 4.338114511779529",
+                "lat": 50.840059107066295,
+                "lon": 4.338114511779529
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.338114511779529,
+                    50.840059107066295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre éducatif et culturel cinématographique Montois - Cinéma Plaza Art",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue de Nimy 12",
+                "Code postal": 7000,
+                "Ville": "Mons",
+                "Géolocalisation": "50.45549984244863, 3.953472398274617",
+                "lat": 50.455499842448631,
+                "lon": 3.9534723982746169
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.953472398274617,
+                    50.455499842448631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Galeries",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Galerie de la Reine 26",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.84731888703647, 4.3545773846599065",
+                "lat": 50.847318887036472,
+                "lon": 4.3545773846599065
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.354577384659907,
+                    50.847318887036472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Born 2 Be Cheap",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Avenue de la Couronne 41",
+                "Code postal": 1050,
+                "Ville": "Ixelles",
+                "Géolocalisation": "50.830491133458054, 4.377857282944088",
+                "lat": 50.830491133458054,
+                "lon": 4.3778572829440883
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.377857282944088,
+                    50.830491133458054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le P'tit Ciné",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue du Fort 5",
+                "Code postal": 1060,
+                "Ville": "Saint-Gilles",
+                "Géolocalisation": "50.83005568785094, 4.343437440614397",
+                "lat": 50.830055687850937,
+                "lon": 4.3434374406143972
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.343437440614397,
+                    50.830055687850937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre du Film sur l’Art (CFA)",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Avenue des Arts 19F",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.84693428809761, 4.369901584659918",
+                "lat": 50.846934288097607,
+                "lon": 4.3699015846599183
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.369901584659918,
+                    50.846934288097607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Elles tournent",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue du Méridien 10",
+                "Code postal": 1210,
+                "Ville": "Saint-Josse-ten-Noode",
+                "Géolocalisation": "50.853386270296845, 4.369126971167796",
+                "lat": 50.853386270296845,
+                "lon": 4.3691269711677956
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.369126971167796,
+                    50.853386270296845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Agence belge du court métrage",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Avenue Maurice 1",
+                "Code postal": 1050,
+                "Ville": "Ixelles",
+                "Géolocalisation": "50.816483407789605, 4.379156282943703",
+                "lat": 50.816483407789605,
+                "lon": 4.3791562829437032
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.379156282943703,
+                    50.816483407789605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Grignoux",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue Sœurs de Hasque 9",
+                "Code postal": 4000,
+                "Ville": "Liège",
+                "Géolocalisation": "50.64024483281379, 5.573725184651889",
+                "lat": 50.640244832813792,
+                "lon": 5.5737251846518889
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.573725184651889,
+                    50.640244832813792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre culturel des Roches de Rochefort (CCRR)",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue de Behogne 5",
+                "Code postal": 5580,
+                "Ville": "Rochefort",
+                "Géolocalisation": "50.1601034268675, 5.223265626961548",
+                "lat": 50.160103426867501,
+                "lon": 5.2232656269615481
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.223265626961548,
+                    50.160103426867501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Folioscope",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Boulevard de l'Empereur 24",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.8428060489758, 4.353319298152076",
+                "lat": 50.842806048975802,
+                "lon": 4.3533192981520763
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.353319298152076,
+                    50.842806048975802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Peymey Diffusion",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue de la Comtesse de Flandre 8",
+                "Code postal": 1020,
+                "Ville": "Laeken",
+                "Géolocalisation": "50.87408738337415, 4.352561142332714",
+                "lat": 50.874087383374153,
+                "lon": 4.3525611423327142
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.352561142332714,
+                    50.874087383374153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Universciné Belgium SA - SOONER",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Place de l'amitié 6",
+                "Code postal": 1160,
+                "Ville": "Auderghem",
+                "Géolocalisation": "50.82418759787399, 4.402631710985418",
+                "lat": 50.824187597873987,
+                "lon": 4.4026317109854176
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.402631710985418,
+                    50.824187597873987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Churchill",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue du Mouton Blanc 20",
+                "Code postal": 4000,
+                "Ville": "Liège",
+                "Géolocalisation": "50.64129645458255, 5.570331555816018",
+                "lat": 50.641296454582552,
+                "lon": 5.5703315558160176
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.570331555816018,
+                    50.641296454582552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Arbemax sprl - Cinéma Aventure",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Galerie du centre 57",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.84877225690482, 4.352275713495851",
+                "lat": 50.848772256904823,
+                "lon": 4.3522757134958514
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.352275713495851,
+                    50.848772256904823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Cinéart",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue de Namur 72-74",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.83971920877747, 4.361030540480189",
+                "lat": 50.839719208777467,
+                "lon": 4.361030540480189
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.361030540480189,
+                    50.839719208777467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Tournai Ramdam Festival",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Boulevard Delwart 60",
+                "Code postal": 7500,
+                "Ville": "Tournai",
+                "Géolocalisation": "50.61510931885153, 3.387309426979114",
+                "lat": 50.61510931885153,
+                "lon": 3.387309426979114
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.387309426979114,
+                    50.61510931885153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Atelier Graphoui",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Boulevard Emile Bockstael 88",
+                "Code postal": 1020,
+                "Ville": "Laeken",
+                "Géolocalisation": "50.8723235862011, 4.3447954822067745",
+                "lat": 50.872323586201098,
+                "lon": 4.3447954822067745
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344795482206774,
+                    50.872323586201098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "68 Septante",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue Émile Féron 106",
+                "Code postal": 1060,
+                "Ville": "Saint-Gilles",
+                "Géolocalisation": "50.83139158377618, 4.3366816981516365",
+                "lat": 50.831391583776181,
+                "lon": 4.3366816981516365
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.336681698151637,
+                    50.831391583776181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre de l'Audiovisuel à Bruxelles (CBA)",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Avenue des Arts 19F",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.84683747277819, 4.369858373436811",
+                "lat": 50.846837472778191,
+                "lon": 4.369858373436811
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.369858373436811,
+                    50.846837472778191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Imagine Film Distribution",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Chaussée d'Alsemberg 980",
+                "Code postal": 1180,
+                "Ville": "Uccle",
+                "Géolocalisation": "50.79251275932258, 4.333245869314231",
+                "lat": 50.792512759322577,
+                "lon": 4.3332458693142311
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.333245869314231,
+                    50.792512759322577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Festival International du Film de Mons",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue de Nimy 12",
+                "Code postal": 7000,
+                "Ville": "Mons",
+                "Géolocalisation": "50.45549468830482, 3.9534162539576316",
+                "lat": 50.455494688304817,
+                "lon": 3.9534162539576316
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.953416253957632,
+                    50.455494688304817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Flagey",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Place Sainte-Croix",
+                "Code postal": 1050,
+                "Ville": "Ixelles",
+                "Géolocalisation": "50.82686518934202, 4.3728231171974254",
+                "lat": 50.826865189342023,
+                "lon": 4.3728231171974254
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.372823117197425,
+                    50.826865189342023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Projecta asbl - Avila diffusion",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Chaussée de waterloo 37",
+                "Code postal": 1060,
+                "Ville": "Saint-Gilles",
+                "Géolocalisation": "50.82414087351911, 4.351374969449478",
+                "lat": 50.824140873519113,
+                "lon": 4.3513749694494779
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.351374969449478,
+                    50.824140873519113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Cinéma Sauvenière",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Place Xavier Neujean 14",
+                "Code postal": 4000,
+                "Ville": "Liège",
+                "Géolocalisation": "50.64366061503523, 5.568365502322316",
+                "lat": 50.64366061503523,
+                "lon": 5.5683655023223162
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.568365502322316,
+                    50.64366061503523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Genres d'à Côté",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue du Marché au charbon 42",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.84651108926506, 4.349441498152216",
+                "lat": 50.846511089265057,
+                "lon": 4.349441498152216
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.349441498152216,
+                    50.846511089265057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Diogène asbl",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue de la Vanne 2",
+                "Code postal": 1050,
+                "Ville": "Ixelles",
+                "Géolocalisation": "50.82955112610236, 4.3644800539721205",
+                "lat": 50.829551126102359,
+                "lon": 4.3644800539721205
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.36448005397212,
+                    50.829551126102359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Zorobabel",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Avenue Van Volxem 200",
+                "Code postal": 1190,
+                "Ville": "Forest",
+                "Géolocalisation": "50.81948395120181, 4.325255397673827",
+                "lat": 50.819483951201811,
+                "lon": 4.3252553976738266
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.325255397673827,
+                    50.819483951201811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Un soir… un grain/BSFF",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Avenue Maurice 1",
+                "Code postal": 1050,
+                "Ville": "Ixelles",
+                "Géolocalisation": "50.816421900830406, 4.3792110269869475",
+                "lat": 50.816421900830406,
+                "lon": 4.3792110269869475
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.379211026986948,
+                    50.816421900830406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Grignoux - Le Parc Distribution",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue Sœurs de Hasque 9",
+                "Code postal": 4000,
+                "Ville": "Liège",
+                "Géolocalisation": "50.64024483281379, 5.573725184651889",
+                "lat": 50.640244832813792,
+                "lon": 5.5737251846518889
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.573725184651889,
+                    50.640244832813792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Dérives",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue de Mulhouse 36",
+                "Code postal": 4020,
+                "Ville": "Liège",
+                "Géolocalisation": "50.63323437675789, 5.58661631163628",
+                "lat": 50.633234376757891,
+                "lon": 5.5866163116362797
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.58661631163628,
+                    50.633234376757891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Caméo",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue des Carmes 49",
+                "Code postal": 5000,
+                "Ville": "Namur",
+                "Géolocalisation": "50.46690999203061, 4.863835728824586",
+                "lat": 50.466909992030608,
+                "lon": 4.8638357288245864
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.863835728824586,
+                    50.466909992030608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Cinéma Le Parc",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue Paul Joseph Carpay 22",
+                "Code postal": 4020,
+                "Ville": "Liège",
+                "Géolocalisation": "50.64634713745985, 5.60244409814448",
+                "lat": 50.646347137459848,
+                "lon": 5.6024440981444803
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.60244409814448,
+                    50.646347137459848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Cinemamed asbl",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue Dupont 67",
+                "Code postal": 1030,
+                "Ville": "Schaerbeek",
+                "Géolocalisation": "50.85895711693044, 4.366287998152699",
+                "lat": 50.858957116930441,
+                "lon": 4.366287998152699
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.366287998152699,
+                    50.858957116930441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Groupe socialiste d'Action et de Réflexion sur l'Audiovisuel (GSARA)",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue du Marteau 26",
+                "Code postal": 1210,
+                "Ville": "Saint-Josse-ten-Noode",
+                "Géolocalisation": "50.847358538663045, 4.371698311167169",
+                "lat": 50.847358538663045,
+                "lon": 4.3716983111671688
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.371698311167169,
+                    50.847358538663045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Mediadiffusion",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Avenue Athéna 4",
+                "Code postal": 1348,
+                "Ville": "Louvain-la-neuve",
+                "Géolocalisation": "50.676106662050294, 4.612176513489153",
+                "lat": 50.676106662050294,
+                "lon": 4.6121765134891533
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.612176513489153,
+                    50.676106662050294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "SoundImageCulture (SIC)",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue César Depaepe 9",
+                "Code postal": 1060,
+                "Ville": "Saint-Gilles",
+                "Géolocalisation": "50.83358355318135, 4.342173882944168",
+                "lat": 50.833583553181349,
+                "lon": 4.3421738829441683
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.342173882944168,
+                    50.833583553181349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Palace",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue Borgval 19-23",
+                "Code postal": 1000,
+                "Ville": "Bruxelles",
+                "Géolocalisation": "50.45434106815756, 3.9532691693011377",
+                "lat": 50.454341068157561,
+                "lon": 3.9532691693011377
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.953269169301138,
+                    50.454341068157561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "O'Brother Film Distribution",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Quai Godefroid Kurth 10",
+                "Code postal": 4020,
+                "Ville": "Liège",
+                "Géolocalisation": "50.64600544162888, 5.587388098144423",
+                "lat": 50.64600544162888,
+                "lon": 5.5873880981444231
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.587388098144423,
+                    50.64600544162888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Centre Vidéo de Bruxelles (CVB)",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue de la Poste 111",
+                "Code postal": 1030,
+                "Ville": "Schaerbeek",
+                "Géolocalisation": "50.85950331483172, 4.367757057056192",
+                "lat": 50.85950331483172,
+                "lon": 4.3677570570561919
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.367757057056192,
+                    50.85950331483172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Un soir… un grain/BRIFF",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Avenue Maurice 1",
+                "Code postal": 1050,
+                "Ville": "Ixelles",
+                "Géolocalisation": "50.816421900830406, 4.3792110269869475",
+                "lat": 50.816421900830406,
+                "lon": 4.3792110269869475
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.379211026986948,
+                    50.816421900830406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Comité Culturel Gabrielle Bernard",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Rue de la Fabrique 4C",
+                "Code postal": 5190,
+                "Ville": "Moustier-sur-Sambre",
+                "Géolocalisation": "50.45778575870737, 4.692468598137155",
+                "lat": 50.457785758707367,
+                "lon": 4.6924685981371548
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.692468598137155,
+                    50.457785758707367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Cinécité scrl",
+                "Unnamed: 1": "Audiovisuel",
+                "Adresse": "Avenue Van volxem 172",
+                "Code postal": 1190,
+                "Ville": "Forest",
+                "Géolocalisation": "50.81876635792871, 4.324947137974825",
+                "lat": 50.818766357928709,
+                "lon": 4.3249471379748252
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.324947137974825,
+                    50.818766357928709
+                ]
+            }
+        }
+    ]
+}

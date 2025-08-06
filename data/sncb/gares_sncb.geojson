@@ -1,0 +1,4639 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4568709976368,
+          50.658204018466
+        ]
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "STATION_GA": "BIERSET-AW",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "ZCvFt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.62188799757151,
+          50.7244110185903
+        ]
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "STATION_GA": "BASSE-WAVRE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "OK4RN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.80952699777527,
+          49.6802520191871
+        ]
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "STATION_GA": "ARLON",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "gl1rr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.18528499826581,
+          50.3161230182711
+        ]
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "STATION_GA": "LABUISSIERE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "ckPtc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.46884199808179,
+          50.3926020183181
+        ]
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "STATION_GA": "COUILLET",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "dzDfZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.26158099824247,
+          50.3461610187346
+        ]
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "STATION_GA": "LOBBES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "UBw6v"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.40072999835606,
+          50.4629880187625
+        ]
+      },
+      "properties": {
+        "OBJECTID": 56,
+        "STATION_GA": "COURCELLES-MOTTE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "Sqxw5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.33510899771059,
+          50.5998140187481
+        ]
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "STATION_GA": "NIVELLES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "6N96S"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90781699807773,
+          50.2611500186885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "STATION_GA": "DINANT",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "KBZsV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.95651499808192,
+          50.4718020183381
+        ]
+      },
+      "properties": {
+        "OBJECTID": 59,
+        "STATION_GA": "NIMY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "vTPTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.94210199820445,
+          50.4539470183264
+        ]
+      },
+      "properties": {
+        "OBJECTID": 60,
+        "STATION_GA": "MONS",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "Do35O"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.60528599786312,
+          50.7162120183163
+        ]
+      },
+      "properties": {
+        "OBJECTID": 61,
+        "STATION_GA": "WAVRE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "YoEul"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.82213299804044,
+          50.525744018671
+        ]
+      },
+      "properties": {
+        "OBJECTID": 62,
+        "STATION_GA": "FRANCHIMONT",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "4NEXL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.43596499791881,
+          50.259194019145
+        ]
+      },
+      "properties": {
+        "OBJECTID": 63,
+        "STATION_GA": "WALCOURT",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "os5HV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.81851099842313,
+          49.5927300192331
+        ]
+      },
+      "properties": {
+        "OBJECTID": 64,
+        "STATION_GA": "MESSANCY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "7tJ17"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.83670199751129,
+          50.7125530187566
+        ]
+      },
+      "properties": {
+        "OBJECTID": 65,
+        "STATION_GA": "LESSINES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "Qy9MX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.49758899790542,
+          50.6183690192759
+        ]
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "STATION_GA": "JEMEPPE-S-M",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "AHd4Q"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.97618599794584,
+          50.6594570193454
+        ]
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "STATION_GA": "WELKENRAEDT",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "8Nxno"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.69161499774211,
+          50.5695400187581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 68,
+        "STATION_GA": "GEMBLOUX",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "9B4AA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.56845599815521,
+          50.6982190192307
+        ]
+      },
+      "properties": {
+        "OBJECTID": 69,
+        "STATION_GA": "LIERS",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "vIA6e"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.85624099790516,
+          50.4498480189481
+        ]
+      },
+      "properties": {
+        "OBJECTID": 70,
+        "STATION_GA": "QUAREGNON",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "rHl0h"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.64992699768575,
+          50.7364570183529
+        ]
+      },
+      "properties": {
+        "OBJECTID": 71,
+        "STATION_GA": "GASTUCHE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "rmF0C"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.54401099782045,
+          50.4241890186672
+        ]
+      },
+      "properties": {
+        "OBJECTID": 72,
+        "STATION_GA": "CAMPINAIRE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "dFdIt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.39095399799657,
+          50.3979890185533
+        ]
+      },
+      "properties": {
+        "OBJECTID": 73,
+        "STATION_GA": "MARCH-ZONE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "yU2Sm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.21357299756315,
+          50.3213500188231
+        ]
+      },
+      "properties": {
+        "OBJECTID": 74,
+        "STATION_GA": "FONTAINE-VAL",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "TmVrX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.85473299786662,
+          50.5879410188335
+        ]
+      },
+      "properties": {
+        "OBJECTID": 75,
+        "STATION_GA": "VERVIERS-C",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "7Hn7V"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.41160899768888,
+          50.3526490187568
+        ]
+      },
+      "properties": {
+        "OBJECTID": 76,
+        "STATION_GA": "JAMIOULX",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "2N2TI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.95362299819442,
+          50.1897070189557
+        ]
+      },
+      "properties": {
+        "OBJECTID": 77,
+        "STATION_GA": "GOUVY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "gBmxm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.53594099791787,
+          50.1914810188509
+        ]
+      },
+      "properties": {
+        "OBJECTID": 78,
+        "STATION_GA": "PHILIPPEVILLE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "tuNO1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.61661499797813,
+          50.6700380188709
+        ]
+      },
+      "properties": {
+        "OBJECTID": 79,
+        "STATION_GA": "LOUVAIN-LA-N",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "NAKTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.22787699778505,
+          50.7399970186989
+        ]
+      },
+      "properties": {
+        "OBJECTID": 80,
+        "STATION_GA": "MOUSCRON",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "3sC0Y"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.81418599801066,
+          50.5371140192997
+        ]
+      },
+      "properties": {
+        "OBJECTID": 81,
+        "STATION_GA": "THEUX",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "SLWcQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76262199752841,
+          50.4432400190996
+        ]
+      },
+      "properties": {
+        "OBJECTID": 82,
+        "STATION_GA": "FLOREFFE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "xAmjw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.90932199761843,
+          50.2786930191678
+        ]
+      },
+      "properties": {
+        "OBJECTID": 83,
+        "STATION_GA": "VIELSALM",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "CvxTZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.69438799832278,
+          50.4528120187021
+        ]
+      },
+      "properties": {
+        "OBJECTID": 84,
+        "STATION_GA": "MOUSTIER",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "vBFmt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.09768999834005,
+          50.469547018994
+        ]
+      },
+      "properties": {
+        "OBJECTID": 85,
+        "STATION_GA": "THIEU",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "glRr9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.56715599817676,
+          50.4564850185231
+        ]
+      },
+      "properties": {
+        "OBJECTID": 86,
+        "STATION_GA": "COMBL-TOUR",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "bfjZ2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.04724999811223,
+          50.6971980189478
+        ]
+      },
+      "properties": {
+        "OBJECTID": 87,
+        "STATION_GA": "ENGHIEN",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "xOve5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3254129981821,
+          50.4968910189094
+        ]
+      },
+      "properties": {
+        "OBJECTID": 88,
+        "STATION_GA": "GOUY-PIETON",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "xismj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13095699808473,
+          50.310019018881
+        ]
+      },
+      "properties": {
+        "OBJECTID": 89,
+        "STATION_GA": "ERQUEL-VILL",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "cKstx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.29008299796137,
+          50.4929040190119
+        ]
+      },
+      "properties": {
+        "OBJECTID": 90,
+        "STATION_GA": "GODARVILLE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "L6GvD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.06920899822985,
+          50.5731050181641
+        ]
+      },
+      "properties": {
+        "OBJECTID": 91,
+        "STATION_GA": "SOIGNIES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "52FLe"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.53314399815298,
+          50.5782100190003
+        ]
+      },
+      "properties": {
+        "OBJECTID": 92,
+        "STATION_GA": "VILLERS-LA-V",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "qJG4C"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5758599979397,
+          50.6920250190687
+        ]
+      },
+      "properties": {
+        "OBJECTID": 93,
+        "STATION_GA": "LIMAL",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "T6KzF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86242799758427,
+          50.469312018417
+        ]
+      },
+      "properties": {
+        "OBJECTID": 94,
+        "STATION_GA": "NAMUR",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "ssjaA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.84710899833217,
+          50.7330930182546
+        ]
+      },
+      "properties": {
+        "OBJECTID": 95,
+        "STATION_GA": "ACREN",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "5Fb2E"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.95690399825767,
+          50.1142080187989
+        ]
+      },
+      "properties": {
+        "OBJECTID": 96,
+        "STATION_GA": "BEAURAING",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "xX3jD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.59961499796709,
+          50.69333801842
+        ]
+      },
+      "properties": {
+        "OBJECTID": 97,
+        "STATION_GA": "MILMORT",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "mJ8qe"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.22087199769162,
+          50.5277560189931
+        ]
+      },
+      "properties": {
+        "OBJECTID": 98,
+        "STATION_GA": "STATTE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "do922"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.23500099786972,
+          50.5059590189879
+        ]
+      },
+      "properties": {
+        "OBJECTID": 99,
+        "STATION_GA": "MANAGE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "5Ke7C"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.55226999791134,
+          50.5575690185753
+        ]
+      },
+      "properties": {
+        "OBJECTID": 100,
+        "STATION_GA": "TILLY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "CzII1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.43866399799772,
+          50.4045680189085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 101,
+        "STATION_GA": "CHARL-SUD",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "sp657"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.28814899818282,
+          50.3425030184071
+        ]
+      },
+      "properties": {
+        "OBJECTID": 102,
+        "STATION_GA": "THUIN",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "7aqe0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.23289599809455,
+          50.5268140190577
+        ]
+      },
+      "properties": {
+        "OBJECTID": 103,
+        "STATION_GA": "HUY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "FHeqf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.37578999810414,
+          50.6848380185343
+        ]
+      },
+      "properties": {
+        "OBJECTID": 104,
+        "STATION_GA": "BRAINE-L'ALL",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "YnPwj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.18041999792231,
+          50.478054018854
+        ]
+      },
+      "properties": {
+        "OBJECTID": 105,
+        "STATION_GA": "LA LOUV-CTRE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "I44LR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.26410399762508,
+          50.4479250189852
+        ]
+      },
+      "properties": {
+        "OBJECTID": 106,
+        "STATION_GA": "CARNIERES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "ku0hS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.68867199793693,
+          50.5731660187657
+        ]
+      },
+      "properties": {
+        "OBJECTID": 107,
+        "STATION_GA": "TROOZ",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "26VWx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.90646099806949,
+          50.4058400184403
+        ]
+      },
+      "properties": {
+        "OBJECTID": 108,
+        "STATION_GA": "FRAMERIES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "Sw9Ai"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6866549981221,
+          50.4102870185323
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "STATION_GA": "QUIEVRAIN",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "rZCru"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.17651999834879,
+          50.651329018948
+        ]
+      },
+      "properties": {
+        "OBJECTID": 110,
+        "STATION_GA": "HENNUYERES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "30FFS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.45642999828104,
+          50.5945560192066
+        ]
+      },
+      "properties": {
+        "OBJECTID": 111,
+        "STATION_GA": "FLEMALLE-HTE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "ZZ2r3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.90347999829175,
+          50.5588270183292
+        ]
+      },
+      "properties": {
+        "OBJECTID": 112,
+        "STATION_GA": "LENS",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "9fYGX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5448249975331,
+          50.4831180189058
+        ]
+      },
+      "properties": {
+        "OBJECTID": 113,
+        "STATION_GA": "FLEURUS",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "Qx2Je"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.58565699793982,
+          50.4293760186338
+        ]
+      },
+      "properties": {
+        "OBJECTID": 114,
+        "STATION_GA": "AISEAU",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "xmVBp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9780599983019,
+          49.9838280187326
+        ]
+      },
+      "properties": {
+        "OBJECTID": 115,
+        "STATION_GA": "GEDINNE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "mHhsE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.28872099800041,
+          50.4349200189895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 116,
+        "STATION_GA": "PIETON",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "4lZiI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.24711899806957,
+          50.4584670182428
+        ]
+      },
+      "properties": {
+        "OBJECTID": 117,
+        "STATION_GA": "MORLANWELZ",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "vy55s"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.21116899831052,
+          50.5196760187267
+        ]
+      },
+      "properties": {
+        "OBJECTID": 118,
+        "STATION_GA": "FAMILLEUREUX",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "YsxGU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.17715999763256,
+          50.5461270181683
+        ]
+      },
+      "properties": {
+        "OBJECTID": 119,
+        "STATION_GA": "MARCHE-ECAUS",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "bTn42"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.02639099805172,
+          50.492082018873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 120,
+        "STATION_GA": "SCLAIGNEAUX",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "p7Lx3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.87319499814797,
+          50.3691070193025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 121,
+        "STATION_GA": "TROIS-PONTS",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "wULic"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.38340399822925,
+          50.7150310182303
+        ]
+      },
+      "properties": {
+        "OBJECTID": 122,
+        "STATION_GA": "WATERLOO",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "uYBdx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.65151799750277,
+          50.7789310185823
+        ]
+      },
+      "properties": {
+        "OBJECTID": 123,
+        "STATION_GA": "PECROT",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "I3XJt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5150939978709,
+          50.7255280187911
+        ]
+      },
+      "properties": {
+        "OBJECTID": 124,
+        "STATION_GA": "GENVAL",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "RnzPo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.45233999790675,
+          49.8543530189415
+        ]
+      },
+      "properties": {
+        "OBJECTID": 125,
+        "STATION_GA": "NEUFCHATEAU",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "v3HXt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.56700599763777,
+          50.6247290192567
+        ]
+      },
+      "properties": {
+        "OBJECTID": 126,
+        "STATION_GA": "LIEGE-GUILLEMINS",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "OZFwC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.02303999805939,
+          50.3677880192636
+        ]
+      },
+      "properties": {
+        "OBJECTID": 127,
+        "STATION_GA": "ASSESSE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "i8aDP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.77602599754781,
+          50.6270840181386
+        ]
+      },
+      "properties": {
+        "OBJECTID": 128,
+        "STATION_GA": "ATH",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "5y3cc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.56105999842386,
+          50.6393630192465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 129,
+        "STATION_GA": "LIEGE-CARRE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "0KAzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73437499783059,
+          50.4393280184126
+        ]
+      },
+      "properties": {
+        "OBJECTID": 130,
+        "STATION_GA": "FRANIERE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "vnyf3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.76651399749482,
+          50.4279520189493
+        ]
+      },
+      "properties": {
+        "OBJECTID": 131,
+        "STATION_GA": "HAININ",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "KNahI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.63143099815145,
+          50.4491180184337
+        ]
+      },
+      "properties": {
+        "OBJECTID": 132,
+        "STATION_GA": "AUVELAIS",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "ViAoj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.44069199830046,
+          50.2839980190845
+        ]
+      },
+      "properties": {
+        "OBJECTID": 133,
+        "STATION_GA": "MELR-HOTTON",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "XYkJn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.11231799790453,
+          50.303705019101
+        ]
+      },
+      "properties": {
+        "OBJECTID": 134,
+        "STATION_GA": "ERQUELINNES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "a4bBm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.87483399814378,
+          50.5865320186045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 135,
+        "STATION_GA": "CAMBRON-CAST",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "go0sp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.05991199787216,
+          50.4706060187397
+        ]
+      },
+      "properties": {
+        "OBJECTID": 136,
+        "STATION_GA": "HAVRE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "1nj92"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.39200099754612,
+          50.3007820189003
+        ]
+      },
+      "properties": {
+        "OBJECTID": 137,
+        "STATION_GA": "COUR-HEURE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "EFEP4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6240379982366,
+          50.6612100191707
+        ]
+      },
+      "properties": {
+        "OBJECTID": 138,
+        "STATION_GA": "HERSTAL",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "9Cd0D"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.50978399843532,
+          50.6612180192216
+        ]
+      },
+      "properties": {
+        "OBJECTID": 139,
+        "STATION_GA": "ANS",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "qak6q"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90450099757037,
+          50.2371040187602
+        ]
+      },
+      "properties": {
+        "OBJECTID": 140,
+        "STATION_GA": "ANSEREMME",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "SHkxK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.51941299767124,
+          49.5604430194868
+        ]
+      },
+      "properties": {
+        "OBJECTID": 141,
+        "STATION_GA": "VIRTON",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "tKEwC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.53376499790523,
+          50.4283210187661
+        ]
+      },
+      "properties": {
+        "OBJECTID": 142,
+        "STATION_GA": "HAMOIR",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "qWXWg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.60963299798606,
+          50.4323970190194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 143,
+        "STATION_GA": "TAMINES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "XJt5C"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.66262099784843,
+          50.7538320183252
+        ]
+      },
+      "properties": {
+        "OBJECTID": 144,
+        "STATION_GA": "ARCHENNES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "Iw6si"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37949299763541,
+          49.9197770191433
+        ]
+      },
+      "properties": {
+        "OBJECTID": 145,
+        "STATION_GA": "LIBRAMONT",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "CN7lf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.38384399796675,
+          50.5061770186246
+        ]
+      },
+      "properties": {
+        "OBJECTID": 146,
+        "STATION_GA": "LUTTRE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "toJoC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5019129983704,
+          50.3492850189818
+        ]
+      },
+      "properties": {
+        "OBJECTID": 147,
+        "STATION_GA": "BARVAUX",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "ZbyWk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.32078699756767,
+          50.678720018642
+        ]
+      },
+      "properties": {
+        "OBJECTID": 148,
+        "STATION_GA": "REMICOURT",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "NZCm1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.31342099774894,
+          50.2023570191337
+        ]
+      },
+      "properties": {
+        "OBJECTID": 149,
+        "STATION_GA": "MARLOIE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "aGX1g"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.24954099784704,
+          50.6944850188276
+        ]
+      },
+      "properties": {
+        "OBJECTID": 150,
+        "STATION_GA": "WAREMME",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "LyWSY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36569699766872,
+          50.6454680184927
+        ]
+      },
+      "properties": {
+        "OBJECTID": 151,
+        "STATION_GA": "LILLOIS",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "J3jwf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.19133999797198,
+          50.5226720188852
+        ]
+      },
+      "properties": {
+        "OBJECTID": 152,
+        "STATION_GA": "BAS-OHA",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "wYjs3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6325599982847,
+          49.7181800194409
+        ]
+      },
+      "properties": {
+        "OBJECTID": 153,
+        "STATION_GA": "HABAY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "a3ztN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74863499751612,
+          50.5339350191226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 154,
+        "STATION_GA": "BEUZET",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "u7wT9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.57055399791441,
+          50.6464150185379
+        ]
+      },
+      "properties": {
+        "OBJECTID": 155,
+        "STATION_GA": "LIEGE-ST-LAMBERT",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "MU6Y2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.52542899797361,
+          50.0953500185112
+        ]
+      },
+      "properties": {
+        "OBJECTID": 156,
+        "STATION_GA": "MARIEMBOURG",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "24jCr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.49695799814003,
+          50.7383050184277
+        ]
+      },
+      "properties": {
+        "OBJECTID": 157,
+        "STATION_GA": "LA HULPE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "9ACXM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.80618599814076,
+          50.568065018843
+        ]
+      },
+      "properties": {
+        "OBJECTID": 158,
+        "STATION_GA": "PEPINSTER",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "fFUAm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.03696299817439,
+          50.6352640192637
+        ]
+      },
+      "properties": {
+        "OBJECTID": 159,
+        "STATION_GA": "EUPEN",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "1x9uq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.57835199797381,
+          50.509013018805
+        ]
+      },
+      "properties": {
+        "OBJECTID": 160,
+        "STATION_GA": "POULSEUR",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "FIknn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9099589976078,
+          50.5300740182423
+        ]
+      },
+      "properties": {
+        "OBJECTID": 161,
+        "STATION_GA": "JURBISE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "u2UD7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.90944799835053,
+          50.3412910190626
+        ]
+      },
+      "properties": {
+        "OBJECTID": 162,
+        "STATION_GA": "QUEVY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "0hla9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.99515099800477,
+          50.3890020184113
+        ]
+      },
+      "properties": {
+        "OBJECTID": 163,
+        "STATION_GA": "COURRIERE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "PbPcq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.55281699833523,
+          50.4293860184201
+        ]
+      },
+      "properties": {
+        "OBJECTID": 164,
+        "STATION_GA": "FARCIENNES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "IAMv2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.33175699772326,
+          49.7070610194316
+        ]
+      },
+      "properties": {
+        "OBJECTID": 165,
+        "STATION_GA": "FLORENVILLE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "8XnUG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87874899790688,
+          50.3207600184572
+        ]
+      },
+      "properties": {
+        "OBJECTID": 166,
+        "STATION_GA": "YVOIR",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "hTTvF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.59733199781714,
+          50.613483018546
+        ]
+      },
+      "properties": {
+        "OBJECTID": 167,
+        "STATION_GA": "ANGLEUR",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "ysZaN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.74489399811682,
+          50.423212018477
+        ]
+      },
+      "properties": {
+        "OBJECTID": 168,
+        "STATION_GA": "THULIN",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "e33Tk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.52077299826087,
+          50.4095290186034
+        ]
+      },
+      "properties": {
+        "OBJECTID": 169,
+        "STATION_GA": "CHATELET",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "Mfvjw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.39408399824895,
+          50.4122340188627
+        ]
+      },
+      "properties": {
+        "OBJECTID": 170,
+        "STATION_GA": "MARCH-AU-PT",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "UGIQ2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.00639299834994,
+          50.1892400193225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 171,
+        "STATION_GA": "HOUYET",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "PwXSU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.69239599824851,
+          50.73906601883
+        ]
+      },
+      "properties": {
+        "OBJECTID": 172,
+        "STATION_GA": "VISE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "i5YOt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.40642399774852,
+          50.2853360184373
+        ]
+      },
+      "properties": {
+        "OBJECTID": 173,
+        "STATION_GA": "BERZEE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "mo0NM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.42943799765713,
+          50.660847019202
+        ]
+      },
+      "properties": {
+        "OBJECTID": 174,
+        "STATION_GA": "VOROUX",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "HDul7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.81012699815219,
+          50.5447200185146
+        ]
+      },
+      "properties": {
+        "OBJECTID": 175,
+        "STATION_GA": "JUSLENVILLE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "PrJrG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13862599788682,
+          50.6058380189021
+        ]
+      },
+      "properties": {
+        "OBJECTID": 176,
+        "STATION_GA": "BRAINE-LE-CT",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "EqaqD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.85171399774361,
+          50.594334018166
+        ]
+      },
+      "properties": {
+        "OBJECTID": 177,
+        "STATION_GA": "BRUGELETTE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "XLcZk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.79955699753008,
+          50.6147150185001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 178,
+        "STATION_GA": "MAFFLE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "mbPIm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82784699816934,
+          50.4571480187105
+        ]
+      },
+      "properties": {
+        "OBJECTID": 179,
+        "STATION_GA": "RONET",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "7NiRo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9496909980209,
+          50.4063370185745
+        ]
+      },
+      "properties": {
+        "OBJECTID": 180,
+        "STATION_GA": "SART-BERNARD",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "zkNy0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.12500099794561,
+          50.2618160187139
+        ]
+      },
+      "properties": {
+        "OBJECTID": 181,
+        "STATION_GA": "CHAPOIS",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "UFQO0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88438499825984,
+          50.4288620188724
+        ]
+      },
+      "properties": {
+        "OBJECTID": 182,
+        "STATION_GA": "DAVE-ST-MART",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "DZZr8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.51944199830285,
+          50.3768430191688
+        ]
+      },
+      "properties": {
+        "OBJECTID": 183,
+        "STATION_GA": "BOMAL",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "QnJ0K"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.61679699799167,
+          50.6005710188249
+        ]
+      },
+      "properties": {
+        "OBJECTID": 184,
+        "STATION_GA": "LEUZE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "Uj2yU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.26693399826636,
+          50.1600010192764
+        ]
+      },
+      "properties": {
+        "OBJECTID": 185,
+        "STATION_GA": "JEMELLE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "aCo8a"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80750699799872,
+          50.456170018569
+        ]
+      },
+      "properties": {
+        "OBJECTID": 186,
+        "STATION_GA": "FLAWINNE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "zcxot"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.59168499802906,
+          50.5136090187621
+        ]
+      },
+      "properties": {
+        "OBJECTID": 187,
+        "STATION_GA": "PERUWELZ",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "QlQWP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.86793999780647,
+          50.489283019363
+        ]
+      },
+      "properties": {
+        "OBJECTID": 188,
+        "STATION_GA": "GERONSTERE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "PpURF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.86550599779938,
+          50.5909280189398
+        ]
+      },
+      "properties": {
+        "OBJECTID": 189,
+        "STATION_GA": "VERVIERS-PAL",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "LSj2s"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.66313199792161,
+          50.4513520187091
+        ]
+      },
+      "properties": {
+        "OBJECTID": 190,
+        "STATION_GA": "JEMEPPE-S-S",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "BoJfk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.59136699770694,
+          50.7051850188292
+        ]
+      },
+      "properties": {
+        "OBJECTID": 191,
+        "STATION_GA": "BIERGES-WAL",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "QDB6T"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.53325999833672,
+          50.71143701825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 192,
+        "STATION_GA": "RIXENSART",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "Gt4IP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.66693299752425,
+          50.5051320189496
+        ]
+      },
+      "properties": {
+        "OBJECTID": 193,
+        "STATION_GA": "BLATON",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "cWpU0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.34519399843593,
+          50.2220400188588
+        ]
+      },
+      "properties": {
+        "OBJECTID": 194,
+        "STATION_GA": "MARCHE-FAM",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "PTlch"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.53530199755894,
+          50.7503940187353
+        ]
+      },
+      "properties": {
+        "OBJECTID": 195,
+        "STATION_GA": "GLONS",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "FLbUn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.83564099814392,
+          50.5994370181875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 196,
+        "STATION_GA": "MEVERG-ATTRE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "aiGzR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.85558099832347,
+          50.4902130186979
+        ]
+      },
+      "properties": {
+        "OBJECTID": 197,
+        "STATION_GA": "SPA",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "1v6mW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.18809499826268,
+          50.4654860190863
+        ]
+      },
+      "properties": {
+        "OBJECTID": 198,
+        "STATION_GA": "LA LOUV-SUD",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "Ey9lL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.09468499800691,
+          50.4968700184216
+        ]
+      },
+      "properties": {
+        "OBJECTID": 199,
+        "STATION_GA": "ANDENNE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "BZmRJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87705199759664,
+          50.3689970183911
+        ]
+      },
+      "properties": {
+        "OBJECTID": 200,
+        "STATION_GA": "LUSTIN",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "pBC5E"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.79699799800901,
+          50.4363310183139
+        ]
+      },
+      "properties": {
+        "OBJECTID": 201,
+        "STATION_GA": "BOUSSU",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "C7DEJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.82925799810697,
+          49.5638230194814
+        ]
+      },
+      "properties": {
+        "OBJECTID": 202,
+        "STATION_GA": "ATHUS",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "gicxo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5495059974891,
+          50.6938030187163
+        ]
+      },
+      "properties": {
+        "OBJECTID": 203,
+        "STATION_GA": "PROFONDSART",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "Ro5Lx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.20582899819733,
+          50.6918140188094
+        ]
+      },
+      "properties": {
+        "OBJECTID": 204,
+        "STATION_GA": "TUBIZE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "850cl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.88088299777631,
+          50.3913110188283
+        ]
+      },
+      "properties": {
+        "OBJECTID": 205,
+        "STATION_GA": "COO",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "Oh6tQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.72177699816208,
+          50.5508860185368
+        ]
+      },
+      "properties": {
+        "OBJECTID": 206,
+        "STATION_GA": "LONZEE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "wH2Rb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.74309699815299,
+          49.555914019178
+        ]
+      },
+      "properties": {
+        "OBJECTID": 207,
+        "STATION_GA": "HALANZY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "J1f80"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9646439982072,
+          50.2104840191586
+        ]
+      },
+      "properties": {
+        "OBJECTID": 208,
+        "STATION_GA": "GENDRON-CELL",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "xRm6O"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92991699768623,
+          50.4196090185946
+        ]
+      },
+      "properties": {
+        "OBJECTID": 209,
+        "STATION_GA": "NANINNE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "iwIoG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86904599758652,
+          50.3487520191725
+        ]
+      },
+      "properties": {
+        "OBJECTID": 210,
+        "STATION_GA": "GODINNE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "ewWuU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.76810999771448,
+          49.6908930190308
+        ]
+      },
+      "properties": {
+        "OBJECTID": 211,
+        "STATION_GA": "STOCKEM",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "zcEAr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.40646199819023,
+          50.3338030187038
+        ]
+      },
+      "properties": {
+        "OBJECTID": 212,
+        "STATION_GA": "BEIGNEE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "TiakL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.69868299815582,
+          50.5579100189381
+        ]
+      },
+      "properties": {
+        "OBJECTID": 213,
+        "STATION_GA": "CHAP-DIEU",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "JJovm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.52374999813426,
+          50.4031360187982
+        ]
+      },
+      "properties": {
+        "OBJECTID": 214,
+        "STATION_GA": "SY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "ccf0W"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.69873799814317,
+          50.48250001832
+        ]
+      },
+      "properties": {
+        "OBJECTID": 215,
+        "STATION_GA": "HARCHIES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "VCjqD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.00754799786632,
+          50.4697980188402
+        ]
+      },
+      "properties": {
+        "OBJECTID": 216,
+        "STATION_GA": "OBOURG",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "c6EBK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.28067199841016,
+          50.0907060187798
+        ]
+      },
+      "properties": {
+        "OBJECTID": 217,
+        "STATION_GA": "GRUPONT",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "VowZ4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.90824999829826,
+          50.4871990185203
+        ]
+      },
+      "properties": {
+        "OBJECTID": 218,
+        "STATION_GA": "GHLIN",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "qatd0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.46272099750218,
+          50.4322570186862
+        ]
+      },
+      "properties": {
+        "OBJECTID": 219,
+        "STATION_GA": "LODELINSART",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "W1neI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.53970099822023,
+          50.6104280190976
+        ]
+      },
+      "properties": {
+        "OBJECTID": 220,
+        "STATION_GA": "LA ROCHE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "zX4RO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.01043199795314,
+          50.5433940186337
+        ]
+      },
+      "properties": {
+        "OBJECTID": 221,
+        "STATION_GA": "NEUFVILLES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "EVqQC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.96172799803245,
+          50.536362018706
+        ]
+      },
+      "properties": {
+        "OBJECTID": 222,
+        "STATION_GA": "MASNUY-ST-P",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "ILvNK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.33177999774132,
+          50.554683018591
+        ]
+      },
+      "properties": {
+        "OBJECTID": 223,
+        "STATION_GA": "HAUTE-FLONE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "0UTfQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.93642899763958,
+          50.6161610184842
+        ]
+      },
+      "properties": {
+        "OBJECTID": 224,
+        "STATION_GA": "DOLHAIN-GIL",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "vGvvJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5490099981422,
+          50.6215320185534
+        ]
+      },
+      "properties": {
+        "OBJECTID": 225,
+        "STATION_GA": "FAUX",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "8uLtE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.82327499781609,
+          50.6863940187199
+        ]
+      },
+      "properties": {
+        "OBJECTID": 226,
+        "STATION_GA": "PAPIGNIES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "VmH5j"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.72349299829875,
+          50.4650080187225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 227,
+        "STATION_GA": "V-POMMEROEUL",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "ARtD2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.786235998192,
+          49.6881380187898
+        ]
+      },
+      "properties": {
+        "OBJECTID": 228,
+        "STATION_GA": "VIVILLE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "NggAv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.67544599786402,
+          50.5128920189432
+        ]
+      },
+      "properties": {
+        "OBJECTID": 229,
+        "STATION_GA": "MAZY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "t0H8T"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.79383799791266,
+          50.6615050183203
+        ]
+      },
+      "properties": {
+        "OBJECTID": 230,
+        "STATION_GA": "REBAIX",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "VDk41"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.30852599830058,
+          50.3647830191296
+        ]
+      },
+      "properties": {
+        "OBJECTID": 231,
+        "STATION_GA": "HOURPES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "TcMGx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.80451599812673,
+          50.5633790192644
+        ]
+      },
+      "properties": {
+        "OBJECTID": 232,
+        "STATION_GA": "PEPINST-CITE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "lOUN6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.88762599761992,
+          50.5066650185914
+        ]
+      },
+      "properties": {
+        "OBJECTID": 233,
+        "STATION_GA": "ERBISOEUL",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "qdC0c"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8192349981138,
+          50.4426630182849
+        ]
+      },
+      "properties": {
+        "OBJECTID": 234,
+        "STATION_GA": "ST-GHISLAIN",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "uv44F"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.57367199791581,
+          50.5399220185416
+        ]
+      },
+      "properties": {
+        "OBJECTID": 235,
+        "STATION_GA": "HONY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "2gL9s"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.29266399814734,
+          50.0194430186156
+        ]
+      },
+      "properties": {
+        "OBJECTID": 236,
+        "STATION_GA": "POIX-ST-HUB",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "03bpA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.21083399807163,
+          50.4301400186559
+        ]
+      },
+      "properties": {
+        "OBJECTID": 237,
+        "STATION_GA": "LEVAL",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "hUSDH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.06131999789573,
+          50.3431040191296
+        ]
+      },
+      "properties": {
+        "OBJECTID": 238,
+        "STATION_GA": "NATOYE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "0WM1t"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.28589799753295,
+          50.6853240189972
+        ]
+      },
+      "properties": {
+        "OBJECTID": 239,
+        "STATION_GA": "BLERET",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "YgfU4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.08089499811562,
+          50.4972150192367
+        ]
+      },
+      "properties": {
+        "OBJECTID": 240,
+        "STATION_GA": "CHAT-DE-SEIL",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "iYskU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.56899199767746,
+          50.6743820182304
+        ]
+      },
+      "properties": {
+        "OBJECTID": 241,
+        "STATION_GA": "OTTIGNIES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "ALkO2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.51018599761989,
+          50.6197060188073
+        ]
+      },
+      "properties": {
+        "OBJECTID": 242,
+        "STATION_GA": "PONT-SERAING",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "HViti"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36363199813901,
+          50.5357650186576
+        ]
+      },
+      "properties": {
+        "OBJECTID": 243,
+        "STATION_GA": "OBAIX-BUZET",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "B1fxB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.83519199800338,
+          50.7028310186431
+        ]
+      },
+      "properties": {
+        "OBJECTID": 244,
+        "STATION_GA": "HOURAING",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "qTsmW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.99844199790595,
+          50.771719018305
+        ]
+      },
+      "properties": {
+        "OBJECTID": 245,
+        "STATION_GA": "COMINES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "ctEsV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0429919982465,
+          49.9340310188035
+        ]
+      },
+      "properties": {
+        "OBJECTID": 246,
+        "STATION_GA": "GRAIDE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "nQooe"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.30061699766027,
+          50.2248190188085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 247,
+        "STATION_GA": "AYE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "5xQJw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.42916599829309,
+          50.2691920186377
+        ]
+      },
+      "properties": {
+        "OBJECTID": 248,
+        "STATION_GA": "PRY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "usEXI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.43718599794684,
+          50.4117690183825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 249,
+        "STATION_GA": "CHARL-OUEST",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "VQXCv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.58570599843073,
+          50.4857260189504
+        ]
+      },
+      "properties": {
+        "OBJECTID": 250,
+        "STATION_GA": "RIVAGE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "18lWo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.39385199780328,
+          50.4431220185339
+        ]
+      },
+      "properties": {
+        "OBJECTID": 251,
+        "STATION_GA": "ROUX",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "pcO6i"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.99756399772742,
+          50.4700470190562
+        ]
+      },
+      "properties": {
+        "OBJECTID": 252,
+        "STATION_GA": "NAMECHE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "1tHd8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.72410499766528,
+          50.5650640184644
+        ]
+      },
+      "properties": {
+        "OBJECTID": 253,
+        "STATION_GA": "FRAIPONT",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "vCGnp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.74190099770939,
+          50.5720100186234
+        ]
+      },
+      "properties": {
+        "OBJECTID": 254,
+        "STATION_GA": "NESSONVAUX",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "6HPnb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.56910699824404,
+          50.6599490185931
+        ]
+      },
+      "properties": {
+        "OBJECTID": 255,
+        "STATION_GA": "CEROUX-MOUST",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "iixt7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.64970199782782,
+          50.6079410182375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 256,
+        "STATION_GA": "CHASTRE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "I4L3k"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.53960299784555,
+          49.7274060189991
+        ]
+      },
+      "properties": {
+        "OBJECTID": 257,
+        "STATION_GA": "MARBEHAN",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "DzNFt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1577459981239,
+          50.312707019002
+        ]
+      },
+      "properties": {
+        "OBJECTID": 258,
+        "STATION_GA": "SOLRE-SAMBRE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "HCDbT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.27669799838708,
+          50.1325380186209
+        ]
+      },
+      "properties": {
+        "OBJECTID": 259,
+        "STATION_GA": "FORRIERES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "jgjaS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.32075899824808,
+          50.5460570183937
+        ]
+      },
+      "properties": {
+        "OBJECTID": 260,
+        "STATION_GA": "AMAY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "ohdYz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6728749976864,
+          50.4728270190161
+        ]
+      },
+      "properties": {
+        "OBJECTID": 261,
+        "STATION_GA": "AYWAILLE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "oklYD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.61249699756888,
+          50.6383850189697
+        ]
+      },
+      "properties": {
+        "OBJECTID": 262,
+        "STATION_GA": "MONT-ST-GUIB",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "rrFL4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1185539982015,
+          49.8953090193582
+        ]
+      },
+      "properties": {
+        "OBJECTID": 263,
+        "STATION_GA": "PALISEUL",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "Av7ol"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.19444499832054,
+          50.2490370185587
+        ]
+      },
+      "properties": {
+        "OBJECTID": 264,
+        "STATION_GA": "HAVERSIN",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "RFO9y"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6181419980956,
+          50.6073100184184
+        ]
+      },
+      "properties": {
+        "OBJECTID": 265,
+        "STATION_GA": "CHENEE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "6AJWR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.48010599773172,
+          50.6048370187737
+        ]
+      },
+      "properties": {
+        "OBJECTID": 266,
+        "STATION_GA": "FLEMALLE-GDE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "Enspa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.56602699821972,
+          50.5117240182517
+        ]
+      },
+      "properties": {
+        "OBJECTID": 267,
+        "STATION_GA": "LIGNY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "xsYuE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.58356499785609,
+          50.5704980189143
+        ]
+      },
+      "properties": {
+        "OBJECTID": 268,
+        "STATION_GA": "TILFF",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "q06XT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35044499795357,
+          50.3772570189676
+        ]
+      },
+      "properties": {
+        "OBJECTID": 269,
+        "STATION_GA": "LANDELIES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "uqzZL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.40488999815393,
+          50.319991019109
+        ]
+      },
+      "properties": {
+        "OBJECTID": 270,
+        "STATION_GA": "HAM-S-HEURE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "AEvhk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.17301999822571,
+          50.4087600182285
+        ]
+      },
+      "properties": {
+        "OBJECTID": 271,
+        "STATION_GA": "BINCHE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "XwNW7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.63556799760474,
+          50.6205640183972
+        ]
+      },
+      "properties": {
+        "OBJECTID": 272,
+        "STATION_GA": "BLANMONT",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "SiHYE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.46726499838592,
+          50.5996640186914
+        ]
+      },
+      "properties": {
+        "OBJECTID": 273,
+        "STATION_GA": "LEMAN",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "VSHni"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.96530499819577,
+          50.4806740190185
+        ]
+      },
+      "properties": {
+        "OBJECTID": 274,
+        "STATION_GA": "MARCHE-DAMES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "WU6Yt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.56574599781223,
+          50.6463470188545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 275,
+        "STATION_GA": "COURT-ST-ET",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "NoAcZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9109929974798,
+          50.3916540181931
+        ]
+      },
+      "properties": {
+        "OBJECTID": 276,
+        "STATION_GA": "GENLY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "kEHkz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.49246099761584,
+          50.0570600191693
+        ]
+      },
+      "properties": {
+        "OBJECTID": 277,
+        "STATION_GA": "COUVIN",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "yxQRt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.93600799795462,
+          50.6627230186891
+        ]
+      },
+      "properties": {
+        "OBJECTID": 278,
+        "STATION_GA": "SILLY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "PvbFn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.57284599818347,
+          50.5303760186917
+        ]
+      },
+      "properties": {
+        "OBJECTID": 279,
+        "STATION_GA": "ESNEUX",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "bWleq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.12522399795423,
+          50.474169018562
+        ]
+      },
+      "properties": {
+        "OBJECTID": 280,
+        "STATION_GA": "BRACQUEGNIES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "y2fLm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.88535299750686,
+          50.4525650188891
+        ]
+      },
+      "properties": {
+        "OBJECTID": 281,
+        "STATION_GA": "JEMAPPES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "5xfQ4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.09117499815925,
+          50.2913160189641
+        ]
+      },
+      "properties": {
+        "OBJECTID": 282,
+        "STATION_GA": "CINEY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "o4gbT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.26700499807216,
+          49.8540090187239
+        ]
+      },
+      "properties": {
+        "OBJECTID": 283,
+        "STATION_GA": "BERTRIX",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "a3vTV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.402343998029,
+          50.582725018465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 284,
+        "STATION_GA": "ENGIS",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "nXZJM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.28959999835771,
+          50.5392730186339
+        ]
+      },
+      "properties": {
+        "OBJECTID": 285,
+        "STATION_GA": "AMPSIN",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "f6L4H"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.15696099784304,
+          50.5621030188106
+        ]
+      },
+      "properties": {
+        "OBJECTID": 286,
+        "STATION_GA": "ECAUSSINNES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "XCv65"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.58719899771916,
+          50.5478790191629
+        ]
+      },
+      "properties": {
+        "OBJECTID": 287,
+        "STATION_GA": "MERY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "L0CrT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.32216899815221,
+          50.433093018631
+        ]
+      },
+      "properties": {
+        "OBJECTID": 288,
+        "STATION_GA": "FORCHIES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "oHj9Q"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3625349980729,
+          50.5127100184753
+        ]
+      },
+      "properties": {
+        "OBJECTID": 289,
+        "STATION_GA": "PONT-CELLES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "K7lQf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.08723999766208,
+          49.9074310190164
+        ]
+      },
+      "properties": {
+        "OBJECTID": 290,
+        "STATION_GA": "CARLSBOURG",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "oct0N"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36780299786572,
+          50.6698320185211
+        ]
+      },
+      "properties": {
+        "OBJECTID": 291,
+        "STATION_GA": "MOMALLE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "5n1BB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.39751099809664,
+          50.6642410186427
+        ]
+      },
+      "properties": {
+        "OBJECTID": 292,
+        "STATION_GA": "FEXHE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "AH2ha"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.65275699798154,
+          50.7623930185292
+        ]
+      },
+      "properties": {
+        "OBJECTID": 293,
+        "STATION_GA": "FLORIVAL",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "mDy8C"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76809599765361,
+          50.5212690191583
+        ]
+      },
+      "properties": {
+        "OBJECTID": 294,
+        "STATION_GA": "ST-D-BOVESSE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "RNQrR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.45187199781316,
+          50.5692620181818
+        ]
+      },
+      "properties": {
+        "OBJECTID": 295,
+        "STATION_GA": "ANTOING",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "bl6o6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80188999815996,
+          50.4992800188691
+        ]
+      },
+      "properties": {
+        "OBJECTID": 296,
+        "STATION_GA": "RHISNES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "R6Tej"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.61427299785867,
+          50.6446620185446
+        ]
+      },
+      "properties": {
+        "OBJECTID": 297,
+        "STATION_GA": "BRESSOUX",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "BiZgk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88040099771602,
+          50.4557320183814
+        ]
+      },
+      "properties": {
+        "OBJECTID": 298,
+        "STATION_GA": "JAMBES-EST",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "QnpH0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8759179984003,
+          50.4546700184096
+        ]
+      },
+      "properties": {
+        "OBJECTID": 299,
+        "STATION_GA": "JAMBES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "xKyP5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.55510899826417,
+          50.6109040186742
+        ]
+      },
+      "properties": {
+        "OBJECTID": 300,
+        "STATION_GA": "SCLESSIN",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "2Pzi9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.24577199752102,
+          50.7137370184803
+        ]
+      },
+      "properties": {
+        "OBJECTID": 301,
+        "STATION_GA": "HERSEAUX",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "v7leA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.66805799836139,
+          50.591592018916
+        ]
+      },
+      "properties": {
+        "OBJECTID": 302,
+        "STATION_GA": "ERNAGE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "6IcyW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.39691399821412,
+          50.6129260187857
+        ]
+      },
+      "properties": {
+        "OBJECTID": 303,
+        "STATION_GA": "TOURNAI",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "GNcTF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.35697699769452,
+          50.6287880180863
+        ]
+      },
+      "properties": {
+        "OBJECTID": 304,
+        "STATION_GA": "FROYENNES",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "KZkcX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1077249983218,
+          50.2676500186897
+        ]
+      },
+      "properties": {
+        "OBJECTID": 305,
+        "STATION_GA": "LEIGNON",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "mQFWP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.79914499825806,
+          49.5636260190355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 306,
+        "STATION_GA": "AUBANGE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "VDRUY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.49710099787505,
+          50.5468130184106
+        ]
+      },
+      "properties": {
+        "OBJECTID": 307,
+        "STATION_GA": "MAUBRAY",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "80Z2g"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.52024199749785,
+          50.5304300184921
+        ]
+      },
+      "properties": {
+        "OBJECTID": 308,
+        "STATION_GA": "CALLENELLE",
+        "UPLOAD": "20231009000000"
+      },
+      "id": "hDXzT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.29153935001807,
+          50.81791889174411
+        ]
+      },
+      "properties": {
+        "name": "Anderlecht"
+      },
+      "id": "62gge"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.398413178033535,
+          50.80966821560958
+        ]
+      },
+      "properties": {
+        "name": "Arcades"
+      },
+      "id": "zxbze"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.290747338329603,
+          50.87303368231714
+        ]
+      },
+      "properties": {
+        "name": "Berchem-Sainte-Agathe"
+      },
+      "id": "FH8tM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.348513996971404,
+          50.879439832781806
+        ]
+      },
+      "properties": {
+        "name": "Bockstael"
+      },
+      "id": "aFn8o"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.408269524378792,
+          50.794557887850466
+        ]
+      },
+      "properties": {
+        "name": "Boitsfort"
+      },
+      "id": "bi8Lp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3936139736337365,
+          50.801951890761714
+        ]
+      },
+      "properties": {
+        "name": "Boondael"
+      },
+      "id": "YXa5m"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.410014400576312,
+          50.87777425857257
+        ]
+      },
+      "properties": {
+        "name": "Bordet"
+      },
+      "id": "1kx6w"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.356758313778238,
+          50.84531102090924
+        ]
+      },
+      "properties": {
+        "name": "Bruxelles-Central"
+      },
+      "id": "yWKZh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.347842846245292,
+          50.8411764847111
+        ]
+      },
+      "properties": {
+        "name": "Bruxelles-Chapelle"
+      },
+      "id": "GAKWB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.362219756181423,
+          50.85178018423311
+        ]
+      },
+      "properties": {
+        "name": "Bruxelles-Congrès"
+      },
+      "id": "99Csc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.37397244623751,
+          50.838837819321824
+        ]
+      },
+      "properties": {
+        "name": "Bruxelles-Luxembourg"
+      },
+      "id": "sx6Iy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.33605246243933,
+          50.83580082998443
+        ]
+      },
+      "properties": {
+        "name": "Bruxelles-Midi"
+      },
+      "id": "H0L62"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.361252314745066,
+          50.85959959950345
+        ]
+      },
+      "properties": {
+        "name": "Bruxelles-Nord"
+      },
+      "id": "F0F7n"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.322817263171559,
+          50.852056071625306
+        ]
+      },
+      "properties": {
+        "name": "Bruxelles-Ouest"
+      },
+      "id": "yHHNO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3800235818869115,
+          50.8428486190508
+        ]
+      },
+      "properties": {
+        "name": "Bruxelles-Schuman"
+      },
+      "id": "8whe1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.404357128311309,
+          50.81920158872187
+        ]
+      },
+      "properties": {
+        "name": "Delta"
+      },
+      "id": "dnAJK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.390498715543296,
+          50.82130756103682
+        ]
+      },
+      "properties": {
+        "name": "Etterbeek"
+      },
+      "id": "83vew"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.401355058394873,
+          50.868206569659996
+        ]
+      },
+      "properties": {
+        "name": "Evere"
+      },
+      "id": "U5LJI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.320981149593714,
+          50.81020033864242
+        ]
+      },
+      "properties": {
+        "name": "Forest-Est"
+      },
+      "id": "G278i"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.310347511520068,
+          50.810073409300344
+        ]
+      },
+      "properties": {
+        "name": "Forest-Midi"
+      },
+      "id": "StPBY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.378599135455682,
+          50.831012300888254
+        ]
+      },
+      "properties": {
+        "name": "Germoir"
+      },
+      "id": "6Sw0u"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4200308350351145,
+          50.888870898174225
+        ]
+      },
+      "properties": {
+        "name": "Haren"
+      },
+      "id": "3aihO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.41507698726639,
+          50.88961689325333
+        ]
+      },
+      "properties": {
+        "name": "Haren-Sud"
+      },
+      "id": "OodwI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.33292340690821,
+          50.88120457762705
+        ]
+      },
+      "properties": {
+        "name": "Jette"
+      },
+      "id": "YLjt1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.394274204769294,
+          50.85475701020498
+        ]
+      },
+      "properties": {
+        "name": "Meiser"
+      },
+      "id": "9LEPr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.401387762013129,
+          50.81433682462524
+        ]
+      },
+      "properties": {
+        "name": "Merode"
+      },
+      "id": "ofBmw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.329808308524526,
+          50.77789096380295
+        ]
+      },
+      "properties": {
+        "name": "Moensberg"
+      },
+      "id": "7e6oO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3604295420051615,
+          50.79358621465676
+        ]
+      },
+      "properties": {
+        "name": "Saint-Job"
+      },
+      "id": "PQmyr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.378431520147674,
+          50.878692671016346
+        ]
+      },
+      "properties": {
+        "name": "Schaerbeek"
+      },
+      "id": "oiHFi"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.334138579085992,
+          50.86599657964655
+        ]
+      },
+      "properties": {
+        "name": "Simonis"
+      },
+      "id": "9BDNC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.340863741472311,
+          50.871556561106395
+        ]
+      },
+      "properties": {
+        "name": "Tour et Taxis"
+      },
+      "id": "h6G1b"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.33174596145836,
+          50.79221449668923
+        ]
+      },
+      "properties": {
+        "name": "Uccle-Calevoet"
+      },
+      "id": "pzZ5s"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.323778168016773,
+          50.80248549025631
+        ]
+      },
+      "properties": {
+        "name": "Uccle-Stalle"
+      },
+      "id": "4DqFG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.380098353288501,
+          50.794563791274435
+        ]
+      },
+      "properties": {
+        "name": "Vivier d'Oie"
+      },
+      "id": "Y4NJm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.399853335540962,
+          50.809710591799906
+        ]
+      },
+      "properties": {
+        "name": "Watermael"
+      },
+      "id": "WPRl5"
+    }
+  ]
+}

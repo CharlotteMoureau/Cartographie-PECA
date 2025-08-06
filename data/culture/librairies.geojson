@@ -1,0 +1,1356 @@
+{
+    "type": "FeatureCollection",
+    "name": "librairies_labellisees",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "CFC Librairie - Quartiers Latins",
+                "Unnamed: 1": "Librairies",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Place des Martyrs 14",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.851561873592146, 4.356662454062672",
+                "Latitude": 50.851561873592146,
+                "Longitude": 4.3566624540626719
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.356662454062672,
+                    50.851561873592146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "ABC Livres - Librairie du Midi",
+                "Unnamed: 1": "Librairies",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Boulevard Poincaré 75",
+                "Code postal": 1070,
+                "Localité": "Anderlecht",
+                "Géolocalisation": "50.84052394749101, 4.339915296391117",
+                "Latitude": 50.840523947491008,
+                "Longitude": 4.3399152963911174
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.339915296391117,
+                    50.840523947491008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "A Livre Ouvert / Le Rat Conteur",
+                "Unnamed: 1": "Librairies",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Saint Lambert 116",
+                "Code postal": 1200,
+                "Localité": "Woluwe-Saint-Lambert",
+                "Géolocalisation": "50.84394498400112, 4.435838040557258",
+                "Latitude": 50.843944984001119,
+                "Longitude": 4.4358380405572584
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.435838040557258,
+                    50.843944984001119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Au P'tit Prince",
+                "Unnamed: 1": "Librairies",
+                "Province": "Brabant wallon",
+                "Adresse": "Grand' Place 53",
+                "Code postal": 1400,
+                "Localité": "Nivelles",
+                "Géolocalisation": "50.5975267053141, 4.322447109868617",
+                "Latitude": 50.597526705314102,
+                "Longitude": 4.3224471098686168
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.322447109868617,
+                    50.597526705314102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Graffiti",
+                "Unnamed: 1": "Librairies",
+                "Province": "Brabant wallon",
+                "Adresse": "Chaussée de Bruxelles 129-131",
+                "Code postal": 1410,
+                "Localité": "Waterloo",
+                "Géolocalisation": "50.71878661165675, 4.39806530987674",
+                "Latitude": 50.718786611656753,
+                "Longitude": 4.3980653098767402
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.39806530987674,
+                    50.718786611656753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Livre Aux Trésors",
+                "Unnamed: 1": "Librairies",
+                "Province": "Liège",
+                "Adresse": "Place Xavier-Neujean 27A",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.64286922373398, 5.567762454048634",
+                "Latitude": 50.642869223733982,
+                "Longitude": 5.5677624540486343
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.567762454048634,
+                    50.642869223733982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Pax",
+                "Unnamed: 1": "Librairies",
+                "Province": "Liège",
+                "Adresse": "Place Cockerill 4",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.64190174892281, 5.575472981036168",
+                "Latitude": 50.641901748922812,
+                "Longitude": 5.5754729810361683
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.575472981036168,
+                    50.641901748922812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Autre Chose",
+                "Unnamed: 1": "Librairies",
+                "Province": "Liège",
+                "Adresse": "Rue Albert Ier 40",
+                "Code postal": 4280,
+                "Localité": "Hannut",
+                "Géolocalisation": "50.67054596651657, 5.081157967544283",
+                "Latitude": 50.670545966516571,
+                "Longitude": 5.0811579675442831
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.081157967544283,
+                    50.670545966516571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Dédicace",
+                "Unnamed: 1": "Librairies",
+                "Province": "Luxembourg",
+                "Adresse": "Place Nestor Outer 11",
+                "Code postal": 6760,
+                "Localité": "Virton",
+                "Géolocalisation": "49.56759869413966, 5.53186561325741",
+                "Latitude": 49.567598694139662,
+                "Longitude": 5.53186561325741
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.53186561325741,
+                    49.567598694139662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Ligne Claire",
+                "Unnamed: 1": "Librairies",
+                "Province": "Hainaut",
+                "Adresse": "Grand'Rue 66",
+                "Code postal": 7000,
+                "Localité": "Mons",
+                "Géolocalisation": "50.45076252765484, 3.949365898212741",
+                "Latitude": 50.450762527654838,
+                "Longitude": 3.9493658982127409
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.949365898212741,
+                    50.450762527654838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Tulitu",
+                "Unnamed: 1": "Librairies",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue de Flandre 55",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.851946339830135, 4.346457238721112",
+                "Latitude": 50.851946339830135,
+                "Longitude": 4.3464572387211122
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.346457238721112,
+                    50.851946339830135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Librairie Flagey",
+                "Unnamed: 1": "Librairies",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Place Flagey 29",
+                "Code postal": 1050,
+                "Localité": "Ixelles",
+                "Géolocalisation": "50.828650937876674, 4.372628881048737",
+                "Latitude": 50.828650937876674,
+                "Longitude": 4.3726288810487368
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.372628881048737,
+                    50.828650937876674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Forbidden Zone",
+                "Unnamed: 1": "Librairies",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Chaussée de Waterloo 205",
+                "Code postal": 1060,
+                "Localité": "Saint-Gilles",
+                "Géolocalisation": "50.826023302164316, 4.346519907120131",
+                "Latitude": 50.826023302164316,
+                "Longitude": 4.3465199071201308
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.346519907120131,
+                    50.826023302164316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Bleus d'encre - Marclau",
+                "Unnamed: 1": "Librairies",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Parvis Saint-Pierre 10",
+                "Code postal": 1180,
+                "Localité": "Uccle",
+                "Géolocalisation": "50.80331775910707, 4.338988781047039",
+                "Latitude": 50.803317759107067,
+                "Longitude": 4.3389887810470391
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.338988781047039,
+                    50.803317759107067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Toutes Directions",
+                "Unnamed: 1": "Librairies",
+                "Province": "Liège",
+                "Adresse": "Rue de la Violette 3",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.645538441741024, 5.5760036656948655",
+                "Latitude": 50.645538441741024,
+                "Longitude": 5.5760036656948655
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.576003665694865,
+                    50.645538441741024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "BD Liège",
+                "Unnamed: 1": "Librairies",
+                "Province": "Liège",
+                "Adresse": "Rue des Carmes 14",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.6401791456652, 5.574490152200678",
+                "Latitude": 50.640179145665201,
+                "Longitude": 5.5744901522006778
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.574490152200678,
+                    50.640179145665201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Marque Tapage",
+                "Unnamed: 1": "Librairies",
+                "Province": "Liège",
+                "Adresse": "Place du Marché 6",
+                "Code postal": 4651,
+                "Localité": "Battice",
+                "Géolocalisation": "50.64740363606849, 5.823384539864301",
+                "Latitude": 50.647403636068489,
+                "Longitude": 5.8233845398643007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.823384539864301,
+                    50.647403636068489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Point Virgule",
+                "Unnamed: 1": "Librairies",
+                "Province": "Namur",
+                "Adresse": "Rue Lelièvre 1",
+                "Code postal": 5000,
+                "Localité": "Namur",
+                "Géolocalisation": "50.46487766084338, 4.860846938695119",
+                "Latitude": 50.464877660843378,
+                "Longitude": 4.8608469386951194
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.860846938695119,
+                    50.464877660843378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Bande-A-Part",
+                "Unnamed: 1": "Librairies",
+                "Province": "Namur",
+                "Adresse": "Rue Léopold 5",
+                "Code postal": 5030,
+                "Localité": "Gembloux",
+                "Géolocalisation": "50.56064317050672, 4.692923377765568",
+                "Latitude": 50.560643170506722,
+                "Longitude": 4.6929233777655677
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.692923377765568,
+                    50.560643170506722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Délivrez-Vous/La folie douce",
+                "Unnamed: 1": "Librairies",
+                "Province": "Namur",
+                "Adresse": "Rue Bois Sainte-Marie 192/9",
+                "Code postal": 5060,
+                "Localité": "Sambreville",
+                "Géolocalisation": "50.44692054857123, 4.64779772520011",
+                "Latitude": 50.446920548571228,
+                "Longitude": 4.6477977252001104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.64779772520011,
+                    50.446920548571228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Procure - Fidescaut",
+                "Unnamed: 1": "Librairies",
+                "Province": "Hainaut",
+                "Adresse": "Rue des Maux 22",
+                "Code postal": 7500,
+                "Localité": "Tournai",
+                "Géolocalisation": "50.60624496001055, 3.384459797957858",
+                "Latitude": 50.60624496001055,
+                "Longitude": 3.3844597979578581
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.384459797957858,
+                    50.60624496001055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Chantelivre",
+                "Unnamed: 1": "Librairies",
+                "Province": "Hainaut",
+                "Adresse": "Quai Notre-Dame 10",
+                "Code postal": 7500,
+                "Localité": "Tournai",
+                "Géolocalisation": "50.60947312566294, 3.388761981033974",
+                "Latitude": 50.609473125662937,
+                "Longitude": 3.3887619810339742
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.388761981033974,
+                    50.609473125662937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Petite librairie",
+                "Unnamed: 1": "Librairies",
+                "Province": "Liège",
+                "Adresse": "Rue du Naimeux 39",
+                "Code postal": 4802,
+                "Localité": "Heusy",
+                "Géolocalisation": "50.57810718931794, 5.864606266846469",
+                "Latitude": 50.57810718931794,
+                "Longitude": 5.8646062668464687
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.864606266846469,
+                    50.57810718931794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Météores",
+                "Unnamed: 1": "Librairies",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Blaes 207",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.83598011322841, 4.344741243573858",
+                "Latitude": 50.835980113228409,
+                "Longitude": 4.3447412435738579
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344741243573858,
+                    50.835980113228409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Twist",
+                "Unnamed: 1": "Librairies",
+                "Province": "Brabant wallon",
+                "Adresse": "Rue des Fusillés 2",
+                "Code postal": 1340,
+                "Localité": "Ottignies",
+                "Géolocalisation": "50.66968246861302, 4.573367925443391",
+                "Latitude": 50.669682468613019,
+                "Longitude": 4.5733679254433914
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.573367925443391,
+                    50.669682468613019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Mot Passant",
+                "Unnamed: 1": "Librairies",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Avenue de Jette 300",
+                "Code postal": 1090,
+                "Localité": "Jette",
+                "Géolocalisation": "50.87371125513792, 4.323914687247171",
+                "Latitude": 50.87371125513792,
+                "Longitude": 4.3239146872471714
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.323914687247171,
+                    50.87371125513792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Librairie Européenne",
+                "Unnamed: 1": "Librairies",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue de l'Orme 1",
+                "Code postal": 1040,
+                "Localité": "Etterbeek",
+                "Géolocalisation": "50.843494964372795, 4.396233067555904",
+                "Latitude": 50.843494964372795,
+                "Longitude": 4.3962330675559036
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.396233067555904,
+                    50.843494964372795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Peinture Fraîche",
+                "Unnamed: 1": "Librairies",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue du Tabellion 10",
+                "Code postal": 1050,
+                "Localité": "Ixelles",
+                "Géolocalisation": "50.82488454106079, 4.358661254060896",
+                "Latitude": 50.82488454106079,
+                "Longitude": 4.3586612540608964
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.358661254060896,
+                    50.82488454106079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "UOPC",
+                "Unnamed: 1": "Librairies",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Avenue Gustave Demey 14-16",
+                "Code postal": 1160,
+                "Localité": "Auderghem",
+                "Géolocalisation": "50.81226021313125, 4.426570482623059",
+                "Latitude": 50.812260213131253,
+                "Longitude": 4.4265704826230587
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.426570482623059,
+                    50.812260213131253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "L'Ivre De Papier",
+                "Unnamed: 1": "Librairies",
+                "Province": "Brabant wallon",
+                "Adresse": "Rue Saint-Jean 34",
+                "Code postal": 1370,
+                "Localité": "Jodoigne",
+                "Géolocalisation": "50.72487848489976, 4.871645573849037",
+                "Latitude": 50.724878484899762,
+                "Longitude": 4.8716455738490367
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.871645573849037,
+                    50.724878484899762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Librairie Le Baobab",
+                "Unnamed: 1": "Librairies",
+                "Province": "Brabant wallon",
+                "Adresse": "Avenue Alphonse Allard 57",
+                "Code postal": 1420,
+                "Localité": "Braine-L'Alleud",
+                "Géolocalisation": "50.68090893594875, 4.377778537471815",
+                "Latitude": 50.68090893594875,
+                "Longitude": 4.3777785374718148
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.377778537471815,
+                    50.68090893594875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Parenthèse",
+                "Unnamed: 1": "Librairies",
+                "Province": "Liège",
+                "Adresse": "Rue du Pot d'Or 18",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.64203935623393, 5.569926311028272",
+                "Latitude": 50.64203935623393,
+                "Longitude": 5.5699263110282722
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.569926311028272,
+                    50.64203935623393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Long Courrier",
+                "Unnamed: 1": "Librairies",
+                "Province": "Liège",
+                "Adresse": "Avenue Laboulle 55",
+                "Code postal": 4130,
+                "Localité": "Esneux",
+                "Géolocalisation": "50.567744221960474, 5.5816464810312025",
+                "Latitude": 50.567744221960474,
+                "Longitude": 5.5816464810312025
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.581646481031203,
+                    50.567744221960474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Traversée",
+                "Unnamed: 1": "Librairies",
+                "Province": "Liège",
+                "Adresse": "Rue de l'Harmonie 17",
+                "Code postal": 4800,
+                "Localité": "Verviers",
+                "Géolocalisation": "50.592141981591055, 5.85727156753901",
+                "Latitude": 50.592141981591055,
+                "Longitude": 5.8572715675390103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.85727156753901,
+                    50.592141981591055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Papyrus",
+                "Unnamed: 1": "Librairies",
+                "Province": "Namur",
+                "Adresse": "Rue Bas de la Place 16",
+                "Code postal": 5000,
+                "Localité": "Namur",
+                "Géolocalisation": "50.46317071437844, 4.868939809859584",
+                "Latitude": 50.463170714378442,
+                "Longitude": 4.868939809859584
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.868939809859584,
+                    50.463170714378442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Point-Virgule",
+                "Unnamed: 1": "Librairies",
+                "Province": "Luxembourg",
+                "Adresse": "Grand Place 21",
+                "Code postal": 6700,
+                "Localité": "Arlon",
+                "Géolocalisation": "49.68391538668914, 5.81410309791866",
+                "Latitude": 49.683915386689137,
+                "Longitude": 5.8141030979186601
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.81410309791866,
+                    49.683915386689137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Oxygène",
+                "Unnamed: 1": "Librairies",
+                "Province": "Luxembourg",
+                "Adresse": "Rue Saint-Roch 26",
+                "Code postal": 6840,
+                "Localité": "Neufchateau",
+                "Géolocalisation": "49.843115237556376, 5.434438255597208",
+                "Latitude": 49.843115237556376,
+                "Longitude": 5.4344382555972084
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.434438255597208,
+                    49.843115237556376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Livre's - Blue Moon",
+                "Unnamed: 1": "Librairies",
+                "Province": "Luxembourg",
+                "Adresse": "Avenue de France 9",
+                "Code postal": 6900,
+                "Localité": "Marche-en-Famenne",
+                "Géolocalisation": "50.227242691071524, 5.340839540527026",
+                "Latitude": 50.227242691071524,
+                "Longitude": 5.3408395405270257
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.340839540527026,
+                    50.227242691071524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Florilège",
+                "Unnamed: 1": "Librairies",
+                "Province": "Hainaut",
+                "Adresse": "Rue du Grand Jour 16",
+                "Code postal": 7000,
+                "Localité": "Mons",
+                "Géolocalisation": "50.459731705920774, 3.954868438694774",
+                "Latitude": 50.459731705920774,
+                "Longitude": 3.9548684386947741
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.954868438694774,
+                    50.459731705920774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Scientia",
+                "Unnamed: 1": "Librairies",
+                "Province": "Hainaut",
+                "Adresse": "Rue de la Chaussée 64-66",
+                "Code postal": 7000,
+                "Localité": "Mons",
+                "Géolocalisation": "50.4528545083331, 3.9504428098589175",
+                "Latitude": 50.452854508333097,
+                "Longitude": 3.9504428098589175
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.950442809858917,
+                    50.452854508333097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "L'Ecrivain Public",
+                "Unnamed: 1": "Librairies",
+                "Province": "Hainaut",
+                "Adresse": "Rue de Brouckère 45",
+                "Code postal": 7100,
+                "Localité": "La Louvière",
+                "Géolocalisation": "50.479646272865196, 4.189920423354517",
+                "Latitude": 50.479646272865196,
+                "Longitude": 4.1899204233545166
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.189920423354517,
+                    50.479646272865196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Claudine",
+                "Unnamed: 1": "Librairies",
+                "Province": "Brabant wallon",
+                "Adresse": "Courte rue des Fontaines 74",
+                "Code postal": 1300,
+                "Localité": "Wavre",
+                "Géolocalisation": "50.715423415605265, 4.609739353359972",
+                "Latitude": 50.715423415605265,
+                "Longitude": 4.6097393533599718
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.609739353359972,
+                    50.715423415605265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Filigranes",
+                "Unnamed: 1": "Librairies",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Boulevard de Waterloo 25",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.83798267886884, 4.35896812112517",
+                "Latitude": 50.83798267886884,
+                "Longitude": 4.3589681211251703
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35896812112517,
+                    50.83798267886884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Brüsel",
+                "Unnamed: 1": "Librairies",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Boulevard Anspach 100",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.84774300788719, 4.34931909639164",
+                "Latitude": 50.847743007887189,
+                "Longitude": 4.3493190963916399
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.34931909639164,
+                    50.847743007887189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Librairie Jaune",
+                "Unnamed: 1": "Librairies",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Léopold 1er 499",
+                "Code postal": 1090,
+                "Localité": "Jette",
+                "Géolocalisation": "50.8736548954288, 4.329020669133414",
+                "Latitude": 50.8736548954288,
+                "Longitude": 4.3290206691334143
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.329020669133414,
+                    50.8736548954288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Brüsel Waterloo",
+                "Unnamed: 1": "Librairies",
+                "Province": "Brabant wallon",
+                "Adresse": "Chaussée de Bruxelles 225",
+                "Code postal": 1410,
+                "Localité": "Waterloo",
+                "Géolocalisation": "50.71529123631347, 4.399012196382695",
+                "Latitude": 50.715291236313469,
+                "Longitude": 4.3990121963826949
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.399012196382695,
+                    50.715291236313469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Siloë Liège",
+                "Unnamed: 1": "Librairies",
+                "Province": "Liège",
+                "Adresse": "Rue des Prémontrés 40",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.63754279195169, 5.57447774028737",
+                "Latitude": 50.637542791951688,
+                "Longitude": 5.57447774028737
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.57447774028737,
+                    50.637542791951688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "L'oiseau-Lire",
+                "Unnamed: 1": "Librairies",
+                "Province": "Liège",
+                "Adresse": "Rue du Collège 10",
+                "Code postal": 4600,
+                "Localité": "Visé",
+                "Géolocalisation": "50.73593905507428, 5.694942782619783",
+                "Latitude": 50.735939055074283,
+                "Longitude": 5.6949427826197834
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.694942782619783,
+                    50.735939055074283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Augustins",
+                "Unnamed: 1": "Librairies",
+                "Province": "Liège",
+                "Adresse": "Pont du Chêne 1",
+                "Code postal": 4800,
+                "Localité": "Verviers",
+                "Géolocalisation": "50.591981726716476, 5.855047267539023",
+                "Latitude": 50.591981726716476,
+                "Longitude": 5.8550472675390228
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.855047267539023,
+                    50.591981726716476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Molière",
+                "Unnamed: 1": "Librairies",
+                "Province": "Hainaut",
+                "Adresse": "Boulevard Tirou 68",
+                "Code postal": 6000,
+                "Localité": "Charleroi",
+                "Géolocalisation": "50.4079192383675, 4.443084654032868",
+                "Latitude": 50.407919238367498,
+                "Longitude": 4.4430846540328677
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.443084654032868,
+                    50.407919238367498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Polar & Co",
+                "Unnamed: 1": "Librairies",
+                "Province": "Hainaut",
+                "Adresse": "Rue de la Coupe 36",
+                "Code postal": 7000,
+                "Localité": "Mons",
+                "Géolocalisation": "50.45273669590508, 3.9518450656818946",
+                "Latitude": 50.452736695905081,
+                "Longitude": 3.9518450656818946
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.951845065681895,
+                    50.452736695905081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Librairie de la Reine",
+                "Unnamed: 1": "Librairies",
+                "Province": "Hainaut",
+                "Adresse": "Grand Place 9",
+                "Code postal": 7130,
+                "Localité": "Binche",
+                "Géolocalisation": "50.4105581643738, 4.165573984457237",
+                "Latitude": 50.410558164373803,
+                "Longitude": 4.1655739844572368
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.165573984457237,
+                    50.410558164373803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Melpomène",
+                "Unnamed: 1": "Librairies",
+                "Province": "Hainaut",
+                "Adresse": "Rue de la Station 85",
+                "Code postal": 7700,
+                "Localité": "Mouscron",
+                "Géolocalisation": "50.743624994631055, 3.2228488979637424",
+                "Latitude": 50.743624994631055,
+                "Longitude": 3.2228488979637424
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.222848897963742,
+                    50.743624994631055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Graines de vie",
+                "Unnamed: 1": "Librairies",
+                "Province": "Namur",
+                "Adresse": "Rue de la Station 53",
+                "Code postal": 5060,
+                "Localité": "Sambreville",
+                "Géolocalisation": "50.431356774368645, 4.612698076097485",
+                "Latitude": 50.431356774368645,
+                "Longitude": 4.6126980760974847
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.612698076097485,
+                    50.431356774368645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Tropismes",
+                "Unnamed: 1": "Librairies",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Galerie des Princes 11",
+                "Code postal": 1000,
+                "Localité": "Bruxelles",
+                "Géolocalisation": "50.84835536364712, 4.354835711733241",
+                "Latitude": 50.848355363647123,
+                "Longitude": 4.3548357117332408
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.354835711733241,
+                    50.848355363647123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Les Yeux Gourmands",
+                "Unnamed: 1": "Librairies",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Avenue Jean Volders 64 A",
+                "Code postal": 1060,
+                "Localité": "Saint-Gilles",
+                "Géolocalisation": "50.831276534805035, 4.344059667555103",
+                "Latitude": 50.831276534805035,
+                "Longitude": 4.3440596675551033
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344059667555103,
+                    50.831276534805035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "ABAO Librairie",
+                "Unnamed: 1": "Librairies",
+                "Province": "Bruxelles-Capitale",
+                "Adresse": "Rue Middelbourg 40",
+                "Code postal": 1170,
+                "Localité": "Watermael-Boitsfort",
+                "Géolocalisation": "50.79659487193957, 4.417893353156194",
+                "Latitude": 50.796594871939568,
+                "Longitude": 4.4178933531561944
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.417893353156194,
+                    50.796594871939568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Librairie Entre-Temps - Barricade",
+                "Unnamed: 1": "Librairies",
+                "Province": "Liège",
+                "Adresse": "Rue Pierreuse 15",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.646903412413515, 5.57323525404888",
+                "Latitude": 50.646903412413515,
+                "Longitude": 5.5732352540488801
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.57323525404888,
+                    50.646903412413515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Grande Ourse",
+                "Unnamed: 1": "Librairies",
+                "Province": "Liège",
+                "Adresse": "Rue Maghin 95",
+                "Code postal": 4000,
+                "Localité": "Liège",
+                "Géolocalisation": "50.651504931058426, 5.588153038707632",
+                "Latitude": 50.651504931058426,
+                "Longitude": 5.5881530387076319
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.588153038707632,
+                    50.651504931058426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Librairie Antigone",
+                "Unnamed: 1": "Librairies",
+                "Province": "Namur",
+                "Adresse": "Place de l'Orneau 17",
+                "Code postal": 5030,
+                "Localité": "Gembloux",
+                "Géolocalisation": "50.560591945174934, 4.6915291556277205",
+                "Latitude": 50.560591945174934,
+                "Longitude": 4.6915291556277205
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.691529155627721,
+                    50.560591945174934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Dlivre",
+                "Unnamed: 1": "Librairies",
+                "Province": "Namur",
+                "Adresse": "Rue Grande 67 A",
+                "Code postal": 5500,
+                "Localité": "Dinant",
+                "Géolocalisation": "50.25795161346673, 4.914647438681303",
+                "Latitude": 50.25795161346673,
+                "Longitude": 4.9146474386813033
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.914647438681303,
+                    50.25795161346673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "Le Temps De Lire",
+                "Unnamed: 1": "Librairies",
+                "Province": "Luxembourg",
+                "Adresse": "Rue du Serpont 13",
+                "Code postal": 6800,
+                "Localité": "Libramont",
+                "Géolocalisation": "49.922089667672026, 5.377195923317342",
+                "Latitude": 49.922089667672026,
+                "Longitude": 5.3771959233173421
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.377195923317342,
+                    49.922089667672026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "André Leto Librairie",
+                "Unnamed: 1": "Librairies",
+                "Province": "Hainaut",
+                "Adresse": "Rue d'Havré 35",
+                "Code postal": 7000,
+                "Localité": "Mons",
+                "Géolocalisation": "50.45405208521724, 3.9538106810236107",
+                "Latitude": 50.454052085217242,
+                "Longitude": 3.9538106810236107
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.953810681023611,
+                    50.454052085217242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Dénomination": "La Mazerine",
+                "Unnamed: 1": "Librairies",
+                "Province": "Brabant wallon",
+                "Adresse": "Square Marie-Pouli 1A",
+                "Code postal": 1310,
+                "Localité": "La Hulpe",
+                "Géolocalisation": "50.72701888142558, 4.486627042207744",
+                "Latitude": 50.727018881425579,
+                "Longitude": 4.4866270422077443
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.486627042207744,
+                    50.727018881425579
+                ]
+            }
+        }
+    ]
+}

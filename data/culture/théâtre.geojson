@@ -1,0 +1,2878 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.348918711733178,
+          50.84738447899861
+        ]
+      },
+      "properties": {
+        "Salle": "Ancienne Belgique",
+        "Type": "Concert & théâtre",
+        "Adresse": "Boulevard Anspach 110",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.365677038720902,
+          50.84917750023399
+        ]
+      },
+      "properties": {
+        "Salle": "Cirque royal",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de l'Enseignement 81",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.356164282019509,
+          50.852117611930474
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre de la Place des Martyrs",
+        "Type": "Concert & théâtre",
+        "Adresse": "Place des Martyrs 22",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.365542009008042,
+          50.84536001218753
+        ]
+      },
+      "properties": {
+        "Salle": "Vaux Hall",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de la Loi 5",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.341802726903461,
+          50.901328621023836
+        ]
+      },
+      "properties": {
+        "Salle": "Brussels Expo - ING Arena",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue de Miramar",
+        "Code postal": 1020,
+        "Ville": "Laeken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.364277097549577,
+          50.86315653298552
+        ]
+      },
+      "properties": {
+        "Salle": "Magic Land Théâtre - Animar",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue d’Hoogvorst 8-14",
+        "Code postal": 1030,
+        "Ville": "Schaerbeek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.357117097359522,
+          50.83632643931772
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre de la Toison d'Or",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue de la Toison d'Or 40",
+        "Code postal": 1050,
+        "Ville": "Ixelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.321842724348162,
+          50.83173134582447
+        ]
+      },
+      "properties": {
+        "Salle": "Volta",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de la Petite Île 1A",
+        "Code postal": 1070,
+        "Ville": "Anderlecht"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.41449141269975,
+          50.82549046213108
+        ]
+      },
+      "properties": {
+        "Salle": "Comédie Royale Claude Volter",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue des Frères Legrain 98",
+        "Code postal": 1150,
+        "Ville": "Woluwe-Saint-Pierre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7614674531765715,
+          50.68234063378053
+        ]
+      },
+      "properties": {
+        "Salle": "Eglise de Sart-Risbart",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de l'Etang 3",
+        "Code postal": 1315,
+        "Ville": "Incourt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.528794197348322,
+          50.590370888764014
+        ]
+      },
+      "properties": {
+        "Salle": "Abbaye de Villers-la-Ville",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de l'Abbaye 55",
+        "Code postal": 1495,
+        "Ville": "Villers-la-Ville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.560655282009974,
+          50.64335433738967
+        ]
+      },
+      "properties": {
+        "Salle": "Auditorium Saint-Laurent",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Saint-Laurent 29",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.586539764252768,
+          50.644507019582846
+        ]
+      },
+      "properties": {
+        "Salle": "Manège de la Caserne Fonck",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Ransonnet 2",
+        "Code postal": 4020,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.551341478314357,
+          50.57774364114783
+        ]
+      },
+      "properties": {
+        "Salle": "Country Hall - Liège",
+        "Type": "Concert & théâtre",
+        "Adresse": "Allée du Bol d’Air 19",
+        "Code postal": 4031,
+        "Ville": "Angleur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.870251447356419,
+          50.466923091943414
+        ]
+      },
+      "properties": {
+        "Salle": "Grand Manège - Namur Concert Hall",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Rogier 82",
+        "Code postal": 5000,
+        "Ville": "Namur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.443121243362586,
+          50.413833731945864
+        ]
+      },
+      "properties": {
+        "Salle": "Palais des Beaux-Arts",
+        "Type": "Concert & théâtre",
+        "Adresse": "Place du Manège 1",
+        "Code postal": 6000,
+        "Ville": "Charleroi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.404891697340325,
+          50.41337107263776
+        ]
+      },
+      "properties": {
+        "Salle": "Rockerill",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de la Providence 136",
+        "Code postal": 6030,
+        "Ville": "Marchienne-au-Pont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.535556470924072,
+          50.46632822849451
+        ]
+      },
+      "properties": {
+        "Salle": "La Ferme de Martinrou",
+        "Type": "Concert & théâtre",
+        "Adresse": "Chaussée de Charleroi 615",
+        "Code postal": 6220,
+        "Ville": "Fleurus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.723363997322011,
+          50.00610905898316
+        ]
+      },
+      "properties": {
+        "Salle": "Espace 23",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Gustave-Delperdange 6",
+        "Code postal": 6600,
+        "Ville": "Bastogne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9526930723952036,
+          50.45526107007714
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Royal de Mons",
+        "Type": "Concert & théâtre",
+        "Adresse": "Grand Place",
+        "Code postal": 7000,
+        "Ville": "Mons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9375702552031933,
+          50.45830684515598
+        ]
+      },
+      "properties": {
+        "Salle": "Lotto Mons Expo",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue Thomas Edison 2",
+        "Code postal": 7000,
+        "Ville": "Mons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8444022393132125,
+          50.42791709331343
+        ]
+      },
+      "properties": {
+        "Salle": "Espace Magnum",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue Dr Schweitzer 100",
+        "Code postal": 7340,
+        "Ville": "Colfontaine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35376552282007,
+          50.84997072430815
+        ]
+      },
+      "properties": {
+        "Salle": "La Monnaie",
+        "Type": "Concert & théâtre",
+        "Adresse": "Place de la Monnaie",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.34642962192099,
+          50.84696448536877
+        ]
+      },
+      "properties": {
+        "Salle": "Les Riches-Claires",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue des Riches Claires 24",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.354862922700763,
+          50.85497856885373
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre National Wallonie-Bruxelles",
+        "Type": "Concert & théâtre",
+        "Adresse": "Boulevard Emile Jacqmain 111-115",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.353253739689662,
+          50.847916173545535
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Royal de Toone",
+        "Type": "Concert & théâtre",
+        "Adresse": "Petite rue des Bouchers 16",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3655849243488065,
+          50.845935828747564
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Royal du Parc",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de la Loi 3",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.359646143952698,
+          50.85200798646905
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre de La Montagne Magique",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue du Marais 57",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.371630526193615,
+          50.81269059115646
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre de Poche",
+        "Type": "Concert & théâtre",
+        "Adresse": "Chemin du Gymnase 1A",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.340536724351249,
+          50.899643800731134
+        ]
+      },
+      "properties": {
+        "Salle": "Brussels Expo - Auditorium 2000",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue de Miramar 11",
+        "Code postal": 1020,
+        "Ville": "Laeken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.389533983865753,
+          50.85209003300603
+        ]
+      },
+      "properties": {
+        "Salle": "La Balsamine",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue Félix Marchal 1",
+        "Code postal": 1030,
+        "Ville": "Schaerbeek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.396238683865787,
+          50.85191855892141
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre 140",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue Eugène Plasky 140",
+        "Code postal": 1030,
+        "Ville": "Schaerbeek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.369634741727885,
+          50.86365231896776
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Océan Nord",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Vandeweyer 63",
+        "Code postal": 1030,
+        "Ville": "Schaerbeek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.391534539689135,
+          50.83724380477321
+        ]
+      },
+      "properties": {
+        "Salle": "Atelier 210",
+        "Type": "Concert & théâtre",
+        "Adresse": "Chaussée Saint-Pierre 210",
+        "Code postal": 1040,
+        "Ville": "Etterbeek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.37262483968869,
+          50.82693277477304
+        ]
+      },
+      "properties": {
+        "Salle": "Flagey",
+        "Type": "Concert & théâtre",
+        "Adresse": "Place Sainte-Croix",
+        "Code postal": 1050,
+        "Ville": "Ixelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.362046783865159,
+          50.83878120405084
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Molière",
+        "Type": "Concert & théâtre",
+        "Adresse": "Galerie de la Porte de Namur 3",
+        "Code postal": 1050,
+        "Ville": "Ixelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.336740768524035,
+          50.8304283023112
+        ]
+      },
+      "properties": {
+        "Salle": "La Tricoterie - Fabrique de liens",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Théodore Verhaegen 158",
+        "Code postal": 1060,
+        "Ville": "Saint-Gilles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.366333217669845,
+          50.85474446610009
+        ]
+      },
+      "properties": {
+        "Salle": "Le Botanique",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Royale 236",
+        "Code postal": 1210,
+        "Ville": "Saint-Josse-ten-Noode"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.360205412899624,
+          50.85703890665256
+        ]
+      },
+      "properties": {
+        "Salle": "mOtown concerts",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue André Bertulot",
+        "Code postal": 1210,
+        "Ville": "Saint-Josse-ten-Noode"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.55069999735318,
+          50.69722511352104
+        ]
+      },
+      "properties": {
+        "Salle": "eccART- Espace culturel de Profonsart",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de Grandsart 13",
+        "Code postal": 1300,
+        "Ville": "Wavre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81974939735129,
+          50.65609690963486
+        ]
+      },
+      "properties": {
+        "Salle": "Ferme de la petite Cense",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de la Petite Cense 13",
+        "Code postal": 1360,
+        "Ville": "Perwez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.591366210845372,
+          50.64853170062958
+        ]
+      },
+      "properties": {
+        "Salle": "Le Garage Creative Music",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Marengo 27",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.592396179023436,
+          50.648756195616635
+        ]
+      },
+      "properties": {
+        "Salle": "Le Hangar asbl",
+        "Type": "Concert & théâtre",
+        "Adresse": "Quai St Léonard 43B",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.568341012691454,
+          50.64343214449035
+        ]
+      },
+      "properties": {
+        "Salle": "La Cité Miroir",
+        "Type": "Concert & théâtre",
+        "Adresse": "Place Xavier Neujean 22",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.569852045653764,
+          50.64334251823824
+        ]
+      },
+      "properties": {
+        "Salle": "Opéra Royal de Wallonie-Liège",
+        "Type": "Concert & théâtre",
+        "Adresse": "Place de l’Opéra",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.565961697350582,
+          50.63987225063026
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Arlequin",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Rutxhiel 3",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.573092082197219,
+          50.640067445954955
+        ]
+      },
+      "properties": {
+        "Salle": "Regina Club - Hôtel De Clercx",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Saint-Paul 27-31",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.57418764394268,
+          50.631012074408275
+        ]
+      },
+      "properties": {
+        "Salle": "Palais des Congrès de Liège - Liège Expo",
+        "Type": "Concert & théâtre",
+        "Adresse": "Esplanade de l'Europe 2",
+        "Code postal": 4020,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.297510139673102,
+          50.4832011542654
+        ]
+      },
+      "properties": {
+        "Salle": "Deux Ours",
+        "Type": "Concert & théâtre",
+        "Adresse": "Place Georges Hubin 2",
+        "Code postal": 4577,
+        "Ville": "Modave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.862875799189313,
+          50.47276405140403
+        ]
+      },
+      "properties": {
+        "Salle": "Les Abattoirs de Bomel",
+        "Type": "Concert & théâtre",
+        "Adresse": "Traverse des Muses 18",
+        "Code postal": 5000,
+        "Ville": "Namur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.692479326177509,
+          50.45781307272574
+        ]
+      },
+      "properties": {
+        "Salle": "Comité culturel Gabrielle Bernard",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de la Fabrique 4C",
+        "Code postal": 5190,
+        "Ville": "Jemeppe-sur-Sambre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1704528973315975,
+          50.22028776600565
+        ]
+      },
+      "properties": {
+        "Salle": "Le Petit Théâtre de la Grande Vie",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue du Bonnier 12",
+        "Code postal": 5580,
+        "Ville": "Rochefort"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4371478749130775,
+          50.41015148051017
+        ]
+      },
+      "properties": {
+        "Salle": "Comédie Centrale de Charleroi",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue du Grand Central 33",
+        "Code postal": 6000,
+        "Ville": "Charleroi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.440376697340116,
+          50.409056929123764
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Marignan",
+        "Type": "Concert & théâtre",
+        "Adresse": "Boulevard Joseph Tirou 53",
+        "Code postal": 6000,
+        "Ville": "Charleroi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.447615639669304,
+          50.40042795838815
+        ]
+      },
+      "properties": {
+        "Salle": "La Ruche Théâtre Royal",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue Marius Meurée 1",
+        "Code postal": 6001,
+        "Ville": "Charleroi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.312638239653539,
+          50.04906933667321
+        ]
+      },
+      "properties": {
+        "Salle": "Château de Chimay",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue du Château 14",
+        "Code postal": 6464,
+        "Ville": "Chimay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.806097754977787,
+          49.680975234301975
+        ]
+      },
+      "properties": {
+        "Salle": "L'Entrepôt",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Zénobe Gramme 2",
+        "Code postal": 6700,
+        "Ville": "Arlon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.075060582161798,
+          49.82428982393477
+        ]
+      },
+      "properties": {
+        "Salle": "Halle du Bouillon Blanc",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Saint Lambert 65",
+        "Code postal": 6832,
+        "Ville": "Bouillon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.959137763147406,
+          50.45584768689659
+        ]
+      },
+      "properties": {
+        "Salle": "Maison Folie",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue des Arbalestriers 8",
+        "Code postal": 7000,
+        "Ville": "Mons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.165338612872405,
+          50.410573417618835
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre communal de Binche",
+        "Type": "Concert & théâtre",
+        "Adresse": "Grand Place",
+        "Code postal": 7130,
+        "Ville": "Binche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9990339581582752,
+          50.76701092620361
+        ]
+      },
+      "properties": {
+        "Salle": "L'Arsenal",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de la Procession 47",
+        "Code postal": 7780,
+        "Ville": "Comines-Warneton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.355311292696101,
+          50.848275649804336
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Royal des Galeries",
+        "Type": "Concert & théâtre",
+        "Adresse": "Galerie du Roi 32",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.34614819639198,
+          50.853244136061015
+        ]
+      },
+      "properties": {
+        "Salle": "BRONKS théâtre jeune public",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue du Marché aux Porcs 15",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.348396370686238,
+          50.84139994304876
+        ]
+      },
+      "properties": {
+        "Salle": "Les Brigittines",
+        "Type": "Concert & théâtre",
+        "Adresse": "Petite rue des Brigittines 1",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.348275141535763,
+          50.84375606519372
+        ]
+      },
+      "properties": {
+        "Salle": "Espace Magh",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue du Poinçon 17",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.346313795513841,
+          50.85151533500888
+        ]
+      },
+      "properties": {
+        "Salle": "La Bellone",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de Flandre 46",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.334057168527008,
+          50.895777209082524
+        ]
+      },
+      "properties": {
+        "Salle": "Stade Roi Baudouin",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue de Marathon 135",
+        "Code postal": 1020,
+        "Ville": "Laeken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.369507197360572,
+          50.860062682840955
+        ]
+      },
+      "properties": {
+        "Salle": "Halles de Schaerbeek",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Royale Sainte-Marie 22A",
+        "Code postal": 1030,
+        "Ville": "Schaerbeek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.369785212700219,
+          50.83547266672536
+        ]
+      },
+      "properties": {
+        "Salle": "Le Rideau",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Goffart 7A",
+        "Code postal": 1050,
+        "Ville": "Ixelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.376043083865397,
+          50.844107684506994
+        ]
+      },
+      "properties": {
+        "Salle": "Le Rideau de Bruxelles",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de Trèves 111",
+        "Code postal": 1050,
+        "Ville": "Ixelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.366885797548339,
+          50.83461792103997
+        ]
+      },
+      "properties": {
+        "Salle": "Sounds Live",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de la Tulipe 28",
+        "Code postal": 1050,
+        "Ville": "Ixelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.345530768524062,
+          50.83047541951156
+        ]
+      },
+      "properties": {
+        "Salle": "Maison du Peuple",
+        "Type": "Concert & théâtre",
+        "Adresse": "Parvis Saint-Gilles 37",
+        "Code postal": 1060,
+        "Ville": "Saint-Gilles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.318268926194476,
+          50.83165419875205
+        ]
+      },
+      "properties": {
+        "Salle": "Magasin 4",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue des Goujons 158",
+        "Code postal": 1070,
+        "Ville": "Anderlecht"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.376829339689814,
+          50.851263294781056
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Le Public",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Braemt 64",
+        "Code postal": 1210,
+        "Ville": "Saint-Josse-ten-Noode"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.380727633580574,
+          50.85086437704962
+        ]
+      },
+      "properties": {
+        "Salle": "Jazz Station",
+        "Type": "Concert & théâtre",
+        "Adresse": "Chaussée de Louvain 193A",
+        "Code postal": 1210,
+        "Ville": "Saint-Josse-ten-Noode"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.716435397356872,
+          50.778136812816456
+        ]
+      },
+      "properties": {
+        "Salle": "Salle Spacium Hamme-Mille",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue du Centenaire 5",
+        "Code postal": 1320,
+        "Ville": "Beauvechain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.610097768516664,
+          50.668716271321834
+        ]
+      },
+      "properties": {
+        "Salle": "Aula Magna",
+        "Type": "Concert & théâtre",
+        "Adresse": "Place Raymond Lemaire 1",
+        "Code postal": 1348,
+        "Ville": "Louvain-La-Neuve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.613960149184407,
+          50.668607471651036
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Jean Vilar",
+        "Type": "Concert & théâtre",
+        "Adresse": "Place de l’Hocaille 6",
+        "Code postal": 1348,
+        "Ville": "Louvain-La-Neuve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.414389197354174,
+          50.71919443964555
+        ]
+      },
+      "properties": {
+        "Salle": "Chapelle Musicale Reine-Elisabeth",
+        "Type": "Concert & théâtre",
+        "Adresse": "Chaussée de Tervuren 445",
+        "Code postal": 1410,
+        "Ville": "Waterloo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6312854261841965,
+          50.605851607849736
+        ]
+      },
+      "properties": {
+        "Salle": "La Tchatche Chastre",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de la Chapelle 1",
+        "Code postal": 1450,
+        "Ville": "Chastre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.219358572208841,
+          50.65725110612529
+        ]
+      },
+      "properties": {
+        "Salle": "Zik-Zak",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de Tubize 28",
+        "Code postal": 1460,
+        "Ville": "Ittre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.263697159990149,
+          50.64902524535623
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre de la Valette",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Basse 11",
+        "Code postal": 1460,
+        "Ville": "Ittre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.450074912689916,
+          50.608976892409274
+        ]
+      },
+      "properties": {
+        "Salle": "Le Monty",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de Charleroi 58",
+        "Code postal": 1470,
+        "Ville": "Genappe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.188416739681327,
+          50.665799580128215
+        ]
+      },
+      "properties": {
+        "Salle": "Le Moulin fantôme",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de Coeurcq 142",
+        "Code postal": 1480,
+        "Ville": "Tubize"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.570185682009856,
+          50.6409414156221
+        ]
+      },
+      "properties": {
+        "Salle": "Le Forum",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Pont d'Avroy 12-14",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.572990266669755,
+          50.65484350944572
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Le Moderne",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Sainte-Walburge 1",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.581033396780291,
+          50.63810151092756
+        ]
+      },
+      "properties": {
+        "Salle": "Comédie en île",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Méan 11",
+        "Code postal": 4020,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.640182110846793,
+          50.67981483265751
+        ]
+      },
+      "properties": {
+        "Salle": "LaFabrik, Espace Event",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Pierre-Joseph Antoine 79E",
+        "Code postal": 4040,
+        "Ville": "Herstal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.694089724914024,
+          50.736949516259415
+        ]
+      },
+      "properties": {
+        "Salle": "Les Tréteaux Visé",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de la Chinstrée",
+        "Code postal": 4600,
+        "Ville": "Visé"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8686170550129235,
+          50.4625719675011
+        ]
+      },
+      "properties": {
+        "Salle": "Le Delta, Espace Culturel Provincial",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue Fernand Golenvaux 18",
+        "Code postal": 5000,
+        "Ville": "Namur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4489884126807695,
+          50.40686011508559
+        ]
+      },
+      "properties": {
+        "Salle": "L'Ancre",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de Montigny 122",
+        "Code postal": 6000,
+        "Ville": "Charleroi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.336716509166142,
+          50.24663390501678
+        ]
+      },
+      "properties": {
+        "Salle": "WEX",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue des Deux Provinces 1",
+        "Code postal": 6900,
+        "Ville": "Marche-en-Famenne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.956639012874551,
+          50.45955114508337
+        ]
+      },
+      "properties": {
+        "Salle": "Arsonic - La Chapelle du Silence",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de Nimy 138",
+        "Code postal": 7000,
+        "Ville": "Mons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.949482155203057,
+          50.45549355711599
+        ]
+      },
+      "properties": {
+        "Salle": "La Chapelle Club",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue des Telliers 5",
+        "Code postal": 7000,
+        "Ville": "Mons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.916348617118832,
+          50.43925359889928
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre des Rues",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue du Cerisier 20",
+        "Code postal": 7033,
+        "Ville": "Mons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0203485552047775,
+          50.49478824989658
+        ]
+      },
+      "properties": {
+        "Salle": "Le Moulin de Saint-Denis",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de la Filature 37",
+        "Code postal": 7034,
+        "Ville": "Mons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.000318161370448,
+          50.76915069757413
+        ]
+      },
+      "properties": {
+        "Salle": "Club Open Music",
+        "Type": "Concert & théâtre",
+        "Adresse": "Place Saint-Anne 13",
+        "Code postal": 7780,
+        "Ville": "Comines-Warneton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.354601925226979,
+          50.84732960506347
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre du Vaudeville",
+        "Type": "Concert & théâtre",
+        "Adresse": "Galerie de la Reine 13",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.351345255030473,
+          50.8498197197315
+        ]
+      },
+      "properties": {
+        "Salle": "Viage Theater Bruxelles",
+        "Type": "Concert & théâtre",
+        "Adresse": "Boulevard Anspach 30",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.351076111041898,
+          50.84712322795365
+        ]
+      },
+      "properties": {
+        "Salle": "The Music Village",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue des Pierres 50",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.37867711085385,
+          50.83489456523783
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Varia",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue du Sceptre 78",
+        "Code postal": 1050,
+        "Ville": "Ixelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.373237439877038,
+          50.83495383740398
+        ]
+      },
+      "properties": {
+        "Salle": "La Maison qui Chante",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue du Viaduc 122",
+        "Code postal": 1050,
+        "Ville": "Ixelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.338946443544643,
+          50.82786495540452
+        ]
+      },
+      "properties": {
+        "Salle": "Les Ateliers Claus",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Crickx 15",
+        "Code postal": 1060,
+        "Ville": "Saint-Gilles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.332186597358987,
+          50.82489871836443
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre l'Improviste",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de Fierlant 120",
+        "Code postal": 1190,
+        "Ville": "Forest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.369546626195495,
+          50.854389751925204
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre de la Vie",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Traversière 45",
+        "Code postal": 1210,
+        "Ville": "Saint-Josse-ten-Noode"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.626631226188204,
+          50.69400018333709
+        ]
+      },
+      "properties": {
+        "Salle": "Espace Columban",
+        "Type": "Concert & théâtre",
+        "Adresse": "Chemin de Vieusart 162",
+        "Code postal": 1300,
+        "Ville": "Wavre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.602240294937434,
+          50.714772973134515
+        ]
+      },
+      "properties": {
+        "Salle": "La Sucrerie",
+        "Type": "Concert & théâtre",
+        "Adresse": "Chem. de la Sucrerie 2",
+        "Code postal": 1301,
+        "Ville": "Wavre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5011019820133376,
+          50.71722135887197
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre des Compagnons du Flétry",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue des Combattants 27",
+        "Code postal": 1332,
+        "Ville": "Rixensart"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.617679242097939,
+          50.666089747732535
+        ]
+      },
+      "properties": {
+        "Salle": "La Ferme du Biéreau",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue du Jardin Botanique",
+        "Code postal": 1348,
+        "Ville": "Louvain-La-Neuve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3912943703651965,
+          50.71663846987756
+        ]
+      },
+      "properties": {
+        "Salle": "Salle Jules Bastin",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue François Libert 28",
+        "Code postal": 1410,
+        "Ville": "Waterloo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.537469268515814,
+          50.64962403207482
+        ]
+      },
+      "properties": {
+        "Salle": "Le Triangle",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de Limauges 5",
+        "Code postal": 1490,
+        "Ville": "Court-St-Etienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.570558739680007,
+          50.63554207213064
+        ]
+      },
+      "properties": {
+        "Salle": "Salle Philharmonique de Liège",
+        "Type": "Concert & théâtre",
+        "Adresse": "Boulevard Piercot 25-27",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.550275368513952,
+          50.60816915532783
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre de l'Aléna",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de Berloz 2",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.565205812690779,
+          50.628359040684366
+        ]
+      },
+      "properties": {
+        "Salle": "Le Comédie Centrale Liège",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue du Plan Incliné 87",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.596564053362468,
+          50.66077959197436
+        ]
+      },
+      "properties": {
+        "Salle": "Jacques Pelzer Jazz Club",
+        "Type": "Concert & théâtre",
+        "Adresse": "Boulevard Ernest Solvay 493",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.586539764252768,
+          50.644507019582846
+        ]
+      },
+      "properties": {
+        "Salle": "Ecuries de la Caserne Fonck",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Ransonnet 2",
+        "Code postal": 4020,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.584550455021185,
+          50.64483955421871
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre de la Communauté - Liège",
+        "Type": "Concert & théâtre",
+        "Adresse": "Place Ste-Barbe 16",
+        "Code postal": 4020,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.581760711033047,
+          50.64427223852715
+        ]
+      },
+      "properties": {
+        "Salle": "L'An Vert",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Mathieu Polain 4",
+        "Code postal": 4020,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8740709126834085,
+          50.4651133307239
+        ]
+      },
+      "properties": {
+        "Salle": "Cinex - Salle Bosret",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Saint-Nicolas 84",
+        "Code postal": 5000,
+        "Ville": "Namur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.857499510837356,
+          50.47118195688786
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Jardin Passion",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Marie-Henriette 39",
+        "Code postal": 5000,
+        "Ville": "Namur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.871109754171473,
+          50.46361083482918
+        ]
+      },
+      "properties": {
+        "Salle": "La Nef, Espace Culturel d'Harscamp",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue St Nicolas 2",
+        "Code postal": 5000,
+        "Ville": "Namur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.443571854440488,
+          50.41742976341354
+        ]
+      },
+      "properties": {
+        "Salle": "Le Poche Théâtre",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue du Fort 70",
+        "Code postal": 6000,
+        "Ville": "Charleroi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.443880681999271,
+          50.40717436735344
+        ]
+      },
+      "properties": {
+        "Salle": "Le Vecteur",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de Marcinelle 30",
+        "Code postal": 6000,
+        "Ville": "Charleroi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.068264582160612,
+          49.79716212911658
+        ]
+      },
+      "properties": {
+        "Salle": "Salle de l'Académie de Musique Bouillon",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue des Bastions 4",
+        "Code postal": 6830,
+        "Ville": "Bouillon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9570455398604647,
+          50.45587892548315
+        ]
+      },
+      "properties": {
+        "Salle": "Auditorium Abel Dubois - RTBF",
+        "Type": "Concert & théâtre",
+        "Adresse": "Esplanade Anne-Charlotte de Lorraine",
+        "Code postal": 7000,
+        "Ville": "Mons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9569034245179417,
+          50.45816161776384
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre le Manège",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue des Passages 1",
+        "Code postal": 7000,
+        "Ville": "Mons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3994212398673502,
+          50.61396056384598
+        ]
+      },
+      "properties": {
+        "Salle": "Le Water Moulin",
+        "Type": "Concert & théâtre",
+        "Adresse": "Boulevard Eisenhower 207",
+        "Code postal": 7500,
+        "Ville": "Tournai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.354608140568411,
+          50.84487069041273
+        ]
+      },
+      "properties": {
+        "Salle": "La Madeleine",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Duquesnoy 14",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.362442392696432,
+          50.85391748037008
+        ]
+      },
+      "properties": {
+        "Salle": "Auditorium du Passage 44",
+        "Type": "Concert & théâtre",
+        "Adresse": "Boulevard du Jardin Botanique 44",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.359594536872765,
+          50.84416918465024
+        ]
+      },
+      "properties": {
+        "Salle": "Bozar",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Ravenstein 23",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.34591848289722,
+          50.839317126003344
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Les Tanneurs",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue des Tanneurs 75-77",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35400436852462,
+          50.84260719309348
+        ]
+      },
+      "properties": {
+        "Salle": "Maison des Musiques",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Lebeau 39",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.349167739690435,
+          50.864972873520315
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Ephémère Magic Mirrors Bruxelles",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue du Port 86C",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3512066396899005,
+          50.85352571568176
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Le Fou Rire",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue du Grand Hospice 3",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.352762655030078,
+          50.840703522579226
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Marivaux",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de la Samaritaine 20",
+        "Code postal": 1000,
+        "Ville": "Bruxelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.38955544153613,
+          50.85204261934293
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre de la Balsamine",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue Félix Marchal 1",
+        "Code postal": 1030,
+        "Ville": "Schaerbeek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.371295039688789,
+          50.828963222804056
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Marni",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de Vergnies 25",
+        "Code postal": 1050,
+        "Ville": "Ixelles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3424418820183845,
+          50.829003383197346
+        ]
+      },
+      "properties": {
+        "Salle": "Pianofabriek",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue du Fort 35",
+        "Code postal": 1060,
+        "Ville": "Saint-Gilles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.352527399397787,
+          50.832668724460596
+        ]
+      },
+      "properties": {
+        "Salle": "Maison poème",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue d’Ecosse 30",
+        "Code postal": 1060,
+        "Ville": "Saint-Gilles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.295617353182526,
+          50.81419776502665
+        ]
+      },
+      "properties": {
+        "Salle": "Auditorim Jacques Brel (Céria)",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue Emile Gryzon 1",
+        "Code postal": 1070,
+        "Ville": "Anderlecht"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.398995625354981,
+          50.87666951747006
+        ]
+      },
+      "properties": {
+        "Salle": "Espace toots",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Edouard Stuckens 125",
+        "Code postal": 1140,
+        "Ville": "Evere"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4026104531823265,
+          50.80917052327602
+        ]
+      },
+      "properties": {
+        "Salle": "La Vénerie - Espace Delvaux",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Gratès 3",
+        "Code postal": 1170,
+        "Ville": "Watermael-Boitsfort"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.32605444338052,
+          50.810165175120055
+        ]
+      },
+      "properties": {
+        "Salle": "Forest National",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue Victor Rousseau 208",
+        "Code postal": 1190,
+        "Ville": "Forest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760939026377212,
+          50.680340327455355
+        ]
+      },
+      "properties": {
+        "Salle": "Le 71 - Travers Emotion",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Alphonse Robert 71",
+        "Code postal": 1315,
+        "Ville": "Incourt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.794401524345258,
+          50.7681949117688
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre des Quatre Mains",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Longue 152",
+        "Code postal": 1320,
+        "Ville": "Beauvechain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.639132955022573,
+          50.675158156380746
+        ]
+      },
+      "properties": {
+        "Salle": "Boabop Théâtre",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue du Fraignat 18",
+        "Code postal": 1325,
+        "Ville": "Chaumont-Gistoux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.565704755022045,
+          50.663455588767185
+        ]
+      },
+      "properties": {
+        "Salle": "La Grange du Douaire",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue des Combattants 2",
+        "Code postal": 1340,
+        "Ville": "Ottignies"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4882134653956935,
+          50.700012158506404
+        ]
+      },
+      "properties": {
+        "Salle": "Le Rideau Rouge Lasne",
+        "Type": "Concert & théâtre",
+        "Adresse": "Route de Renipont 70",
+        "Code postal": 1380,
+        "Ville": "Lasne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.262871039680659,
+          50.64997082826284
+        ]
+      },
+      "properties": {
+        "Salle": "Heptone Ittre",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Haute 7",
+        "Code postal": 1460,
+        "Ville": "Ittre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.566793210844591,
+          50.63018879954787
+        ]
+      },
+      "properties": {
+        "Salle": "A La Courte Echelle",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de Rotterdam 29",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.571987083856221,
+          50.64250566232831
+        ]
+      },
+      "properties": {
+        "Salle": "Trocadéro de Liège",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Lulay des Fèbvres 6A",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.56796305502116,
+          50.64378366510118
+        ]
+      },
+      "properties": {
+        "Salle": "Le Reflektor",
+        "Type": "Concert & théâtre",
+        "Adresse": "Place Xavier-Neujean 24",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.574708595504265,
+          50.640843947957464
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre de Liège",
+        "Type": "Concert & théâtre",
+        "Adresse": "Place du Vingt Août 16",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.57665468996534,
+          50.640076964478276
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre Universitaire Royal de Liège",
+        "Type": "Concert & théâtre",
+        "Adresse": "Quai Roosevelt 1",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.596511399197856,
+          50.660651996943756
+        ]
+      },
+      "properties": {
+        "Salle": "Le Rio",
+        "Type": "Concert & théâtre",
+        "Adresse": "Boulevard Ernest Solvay 487",
+        "Code postal": 4000,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.604605112691637,
+          50.646766850696004
+        ]
+      },
+      "properties": {
+        "Salle": "Espace Georges Truffaut",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue de Lille 5",
+        "Code postal": 4020,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.582920329715233,
+          50.640240263045776
+        ]
+      },
+      "properties": {
+        "Salle": "KulturA",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Roture 13",
+        "Code postal": 4020,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.580443310844938,
+          50.63785655171626
+        ]
+      },
+      "properties": {
+        "Salle": "La Zone",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Méan 27",
+        "Code postal": 4020,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.58176161551491,
+          50.64038995290089
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre du Trianon",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Surlet 20",
+        "Code postal": 4020,
+        "Ville": "Liège"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.517617312689054,
+          50.58963574898757
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre de la Communauté - Seraing",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de la Vecquée 353",
+        "Code postal": 4100,
+        "Ville": "Seraing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.536482841525075,
+          50.60781708595721
+        ]
+      },
+      "properties": {
+        "Salle": "OM",
+        "Type": "Concert & théâtre",
+        "Adresse": "Quai Louva 1",
+        "Code postal": 4102,
+        "Ville": "Seraing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.499206368515192,
+          50.63609538932023
+        ]
+      },
+      "properties": {
+        "Salle": "La Bouch'rit'",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Abraham Lincoln 12",
+        "Code postal": 4460,
+        "Ville": "Grace-Hollogne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.239330853356321,
+          50.520541235727585
+        ]
+      },
+      "properties": {
+        "Salle": "Atelier Rock",
+        "Type": "Concert & théâtre",
+        "Adresse": "Quai Dautrebande 7",
+        "Code postal": 4500,
+        "Ville": "Huy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.860972982007724,
+          50.593795653203266
+        ]
+      },
+      "properties": {
+        "Salle": "Spirit of 66",
+        "Type": "Concert & théâtre",
+        "Adresse": "Place du Martyr 16",
+        "Code postal": 4800,
+        "Ville": "Verviers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.867519283854038,
+          50.593279235112576
+        ]
+      },
+      "properties": {
+        "Salle": "Théâtre du Peigné",
+        "Type": "Concert & théâtre",
+        "Adresse": "Place du Marché 14",
+        "Code postal": 4800,
+        "Ville": "Verviers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.856559864244152,
+          50.45630629369887
+        ]
+      },
+      "properties": {
+        "Salle": "Belvédère - Théâtre de Verdure de Namur",
+        "Type": "Concert & théâtre",
+        "Adresse": "Avenue Marie d'Artois 1",
+        "Code postal": 5000,
+        "Ville": "Namur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.675987997344887,
+          50.514434906112136
+        ]
+      },
+      "properties": {
+        "Salle": "Jazz9",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de l'Usine 9A",
+        "Code postal": 5032,
+        "Ville": "Gembloux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.876976661295827,
+          50.41001109178194
+        ]
+      },
+      "properties": {
+        "Salle": "La Fabrique de Théâtre",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue de l'Industrie 128",
+        "Code postal": 7080,
+        "Ville": "Frameries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9259335975402436,
+          50.65039952167155
+        ]
+      },
+      "properties": {
+        "Salle": "Le Salon",
+        "Type": "Concert & théâtre",
+        "Adresse": "Rue Ville Basse 19",
+        "Code postal": 7830,
+        "Ville": "Silly"
+      }
+    }
+  ]
+}
