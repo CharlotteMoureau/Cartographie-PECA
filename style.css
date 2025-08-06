@@ -1,0 +1,83 @@
+html, body, #map {
+  height: 100%;
+  margin: 0;
+}
+
+/* .carte-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-bottom: 2px solid #ddd;
+}
+
+.carte-header h1 {
+  font-size: 2rem;
+  margin: 0;
+  color: #333;
+  font-weight: 600;
+} */
+
+.logo-peca {
+  height: 50px;
+  width: auto;
+}
+
+.cluster-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}
+
+.cluster-icon {
+  width: 16px;
+  height: 16px;
+}
+
+.marker-cluster-ecoles {
+  background-color: #00008B;
+  color: white;
+  border: 2px solid white;
+}
+
+.marker-cluster-gares {
+  background-color: #0071b7;
+  color: white;
+  border: 2px solid white;
+}
+
+.marker-cluster-arrets {
+  background-color: #f3cb14;
+  color: black;
+  border: 2px solid white;
+}
+
+.marker-cluster-culture {
+  background-color: white;
+  color: #D86F6F;
+  border: 2px solid #D86F6F;
+}
+
+.leaflet-control-layers {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  padding: 10px;
+}
+
+.leaflet-control-layers-group-label {
+  font-weight: bold;
+  margin-top: 5px;
+  margin-left: 5px;
+  display: block;
+}
+
+.leaflet-control-layers-group-content {
+  margin-left: 20px;
+  margin-bottom: 5px;
+  font-size: 13px;
+}
