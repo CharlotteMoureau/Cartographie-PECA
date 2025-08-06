@@ -16,8 +16,8 @@ export async function getCCMarkers(icon) {
     const props = feature.properties;
     const popupContent = `
       <strong>${props.Dénomination || "Centre culturel"}</strong><br>
-      Type d'opérateur culturel : Centre culturel<br>
       ${props.rue || ""}, ${props.code_postal || ""} ${props.localite || ""}
+    <br><br>Type d'opérateur culturel : Centre culturel
     `;
     return L.marker(latlng, { icon: iconCC }).bindPopup(popupContent);
   });

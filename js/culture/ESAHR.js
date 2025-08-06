@@ -16,8 +16,10 @@ export async function getESAHRMarkers() {
     const props = feature.properties;
     const popupContent = `
       <strong>${props.Dénomination || "ESAHR"}</strong><br>
-      Type d'opérateur culturel : ${props.Type || "ESAHR"}<br>
-      ${props.Adresse || ""}, ${props["Code postal"] || ""} ${props.Ville || ""}
+       ${props.Adresse || ""}, ${props["Code postal"] || ""} ${
+      props.Ville || ""
+    }<br><br>
+    Type d'opérateur culturel : ${props.Type || "ESAHR"}
     `;
     return L.marker(latlng, { icon: iconESAHR }).bindPopup(popupContent);
   });

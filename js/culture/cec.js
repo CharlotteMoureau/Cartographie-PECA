@@ -16,10 +16,10 @@ export async function getCecMarkers(icon) {
     const props = feature.properties;
     const popupContent = `
       <strong>${props.Dénomination || "CEC"}</strong><br>
-      Type d'opérateur culturel : ${props["Unnamed: 1"] || "CEC"}<br>
       ${props.Adresse || ""}, ${props["Code postal"] || ""} ${
       props.Localité || ""
-    }
+    }<br><br>
+    Type d'opérateur culturel : ${props["Unnamed: 1"] || "CEC"}
     `;
     return L.marker(latlng, { icon: iconCec }).bindPopup(popupContent);
   });

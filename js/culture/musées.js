@@ -16,10 +16,10 @@ export async function getMuséesMarkers() {
     const props = feature.properties;
     const popupContent = `
       <strong>${props.Dénomination || "Musée"}</strong><br>
-      Type d'opérateur culturel : ${props["Unnamed: 1"] || "Musée"}<br>
       ${props.Adresse || ""}, ${props["Code postal"] || ""} ${
       props.Localité || ""
-    }
+    }<br><br>
+    Type d'opérateur culturel : ${props["Unnamed: 1"] || "Musée"}
     `;
     return L.marker(latlng, { icon: iconMusée }).bindPopup(popupContent);
   });

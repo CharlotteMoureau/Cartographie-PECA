@@ -18,10 +18,10 @@ export async function getCréationMonstrMarkers(icon) {
       <strong>${
         props.Dénomination || "Lieu de création et de monstration"
       }</strong><br>
-      Type d'opérateur culturel : ${
-        props["Unnamed: 1"] || "Lieu de création et de monstration"
-      }<br>
-      ${props.Adresse || ""}, ${props.CP || ""} ${props.Ville || ""}
+      ${props.Adresse || ""}, ${props.CP || ""} ${props.Ville || ""}<br><br>
+    Type d'opérateur culturel : ${
+      props["Unnamed: 1"] || "Lieu de création et de monstration"
+    }
     `;
     return L.marker(latlng, { icon: iconCréationMonstr }).bindPopup(
       popupContent

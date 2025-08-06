@@ -16,12 +16,10 @@ export async function getCréationArtMarkers(icon) {
     const props = feature.properties;
     const popupContent = `
       <strong>${props.Dénomination || "Création Artistique"}</strong><br>
-      Type d'opérateur culturel : ${
-        props["Unnamed: 1"] || "Création Artistique"
-      }<br>
       ${props.Adresse || ""}, ${props["Code postal"] || ""} ${
       props.Localité || ""
-    }
+    }<br><br>
+    Type d'opérateur culturel : ${props["Unnamed: 1"] || "Création Artistique"}
     `;
     return L.marker(latlng, { icon: iconCréationArt }).bindPopup(popupContent);
   });

@@ -16,10 +16,12 @@ export async function getCinéMarkers(icon) {
     const props = feature.properties;
     const popupContent = `
       <strong>${props["Dénomination du lieu"] || "Cinéma"}</strong><br>
-      Type d'opérateur culturel : ${
-        props.Catégorie || "Salle projection & Cinéma"
-      }<br>
-      ${props.Adresse || ""}, ${props["Code postal"] || ""} ${props.Ville || ""}
+      ${props.Adresse || ""}, ${props["Code postal"] || ""} ${
+      props.Ville || ""
+    }<br><br>
+    Type d'opérateur culturel : ${
+      props.Catégorie || "Salle projection & Cinéma"
+    }
     `;
     return L.marker(latlng, { icon: iconCiné }).bindPopup(popupContent);
   });

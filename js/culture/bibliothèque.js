@@ -16,10 +16,10 @@ export async function getBiblisMarkers(icon) {
     const props = feature.properties;
     const popupContent = `
       <strong>${props.Dénomination || "Bibliothèque"}</strong><br>
-      Type d'opérateur culturel : ${props.Type || "Bibliothèque"}<br>
       ${props.Adresse || ""}, ${props["Code postal"] || ""} ${
       props.Localité || ""
-    }
+    }<br><br>
+    Type d'opérateur culturel : ${props.Type || "Bibliothèque"}
     `;
     return L.marker(latlng, { icon: iconBibli }).bindPopup(popupContent);
   });

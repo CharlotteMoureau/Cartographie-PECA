@@ -16,8 +16,10 @@ export async function getAudiovisuelMarkers(icon) {
     const props = feature.properties;
     const popupContent = `
       <strong>${props.Dénomination || "Audiovisuel"}</strong><br>
-      Type d'opérateur culturel : ${props["Unnamed: 1"] || "Audiovisuel"}<br>
-      ${props.Adresse || ""}, ${props["Code postal"] || ""} ${props.Ville || ""}
+      ${props.Adresse || ""}, ${props["Code postal"] || ""} ${
+      props.Ville || ""
+    }<br><br>
+      Type d'opérateur culturel : ${props["Unnamed: 1"] || "Audiovisuel"}
     `;
     return L.marker(latlng, { icon: iconAudiovisuel }).bindPopup(popupContent);
   });
