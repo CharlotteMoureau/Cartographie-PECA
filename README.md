@@ -1,6 +1,6 @@
 # Carte PECA – Cartographie interactive des acteurs culturels et éducatifs
 
-Ce projet vise à créer une carte interactive regroupant les données géographiques liées au programme PECA (Parcours d'Éducation Culturelle et Artistique) en Wallonie.
+Ce projet vise à créer une carte interactive regroupant les données géographiques liées au programme PECA (Parcours d'Éducation Culturelle et Artistique) en Fédération Wallonie-Bruxelles.
 
 ## Objectifs
 
