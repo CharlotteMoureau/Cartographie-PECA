@@ -13,7 +13,10 @@ export function ajouterCouche(map, overlays, { tecGroup }) {
           const props = feature.properties;
           const popupContent = `
               <strong>Ligne TEC</strong><br>
-              ${props.FIRST_LGN_ || "Sans nom"}
+              ${props.route_long_name || "Sans nom"}
+              <p><a href="https://www.letec.be/lines/${
+                props.route_id
+              }" target=_blank>Voir l'horaire de cette ligne</a></p>
             `;
           layer.bindPopup(popupContent);
         },

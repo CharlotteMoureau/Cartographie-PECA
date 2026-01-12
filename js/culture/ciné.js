@@ -3,7 +3,7 @@ export async function getCinéMarkers(icon) {
   const data = await res.json();
 
   const iconCiné = L.icon({
-    iconUrl: "img/culture.svg",
+    iconUrl: "img/ciné.svg",
     iconSize: [25, 41],
     iconAnchor: [12, 41],
     popupAnchor: [1, -34],

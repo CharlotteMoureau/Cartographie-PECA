@@ -36,7 +36,10 @@ export function ajouterCouche(map, overlays, { tecGroup }) {
           const props = feature.properties;
           const popupContent = `
               <strong>Arrêt de bus</strong><br>
-              ${props.ARRET_NOM || ""}
+              ${props.stop_name || ""}
+              <p><a href="https://www.letec.be/stops/${
+                props.stop_id
+              }" target=_blank>Voir l'horaire à cet arrêt</a></p>
             `;
           layer.bindPopup(popupContent);
         },
