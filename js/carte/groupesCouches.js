@@ -33,6 +33,7 @@ export function initGroupes() {
   const littMarkers = [];
   const cinéMarkers = [];
   const théâtreMarkers = [];
+  const rencontresMarkers = [];
 
   return {
     ecolesGroup,
@@ -53,5 +54,6 @@ export function initGroupes() {
     librairiesMarkers,
     cinéMarkers,
     théâtreMarkers,
+    rencontresMarkers,
   };
 }

@@ -420,7 +420,7 @@
             },
             "properties": {
                 "denomination": "La Mazerine",
-                "adresse": "Square Marie-Pouli\u00a01A",
+                "adresse": "Square Marie-Pouli 1A",
                 "code_postal": "1310",
                 "localite": "La Hulpe",
                 "telephone": "02 653 14 58",
@@ -467,7 +467,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Br\u00fcsel Waterloo",
+                "denomination": "Brüsel Waterloo",
                 "adresse": "Chaussée de Bruxelles 225",
                 "code_postal": "1410",
                 "localite": "Waterloo",
@@ -563,7 +563,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Peinture Fra\u00eeche",
+                "denomination": "Peinture Fraîche",
                 "adresse": "Rue du Tabellion 10",
                 "code_postal": "1050",
                 "localite": "Ixelles",
@@ -1115,7 +1115,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Silo\u00eb Liège",
+                "denomination": "Siloë Liège",
                 "adresse": "Rue des Prémontrés 40",
                 "code_postal": "4000",
                 "localite": "Liège",
@@ -1499,7 +1499,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Br\u00fcsel",
+                "denomination": "Brüsel",
                 "adresse": "Boulevard Anspach 100",
                 "code_postal": "1000",
                 "localite": "Bruxelles",
@@ -1651,7 +1651,7 @@
                 "courriel": "ladedicace@yahoo.fr",
                 "site_web": "https://www.facebook.com/ladedicace.virton?locale=fr_FR",
                 "statut_juridique": "srl",
-                "responsable": "Fran\u00e7oise Parmentier",
+                "responsable": "Françoise Parmentier",
                 "province": "Luxembourg",
                 "bassin_de_vie_fwb": "Luxembourg",
                 "bce": "0886.016.509"

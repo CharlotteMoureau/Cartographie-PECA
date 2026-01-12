@@ -14,6 +14,7 @@ export function initFiltresCulture(
     littMarkers,
     cinéMarkers,
     théâtreMarkers,
+    rencontresMarkers,
     cultureCluster,
   }
 ) {
@@ -54,6 +55,7 @@ export function initFiltresCulture(
     <label><input type="checkbox" id="filter-musees" checked /> Musées</label>
     <label><input type="checkbox" id="filter-ocAudio" checked /> Opérateurs culturels audiovisuel</label>
     <label><input type="checkbox" id="filter-ocLitt" checked /> Opérateurs culturels littéraires</label>
+    <label><input type="checkbox" id="filter-rencontres" checked /> Rencontres artistiques en classe</label>
     <label><input type="checkbox" id="filter-ciné" checked /> Salles de projection et cinémas</label>
     <label><input type="checkbox" id="filter-théâtre" checked /> Salles de concert et théâtres</label>
     `;
@@ -88,6 +90,7 @@ export function initFiltresCulture(
     { id: "filter-ocLitt", markers: littMarkers },
     { id: "filter-ciné", markers: cinéMarkers },
     { id: "filter-théâtre", markers: théâtreMarkers },
+    { id: "filter-rencontres", markers: rencontresMarkers },
   ];
 
   checkboxHandlers.forEach(({ id, markers }) => {

@@ -23,6 +23,7 @@ const {
   littMarkers,
   cinéMarkers,
   théâtreMarkers,
+  rencontresMarkers,
 } = initGroupes();
 
 const overlays = {
@@ -60,6 +61,7 @@ Promise.all([
       littMarkers,
       cinéMarkers,
       théâtreMarkers,
+      rencontresMarkers,
       sncbGroup,
       tecGroup,
     })
@@ -84,6 +86,7 @@ Promise.all([
     littMarkers,
     cinéMarkers,
     théâtreMarkers,
+    rencontresMarkers,
     cultureCluster,
   });
 });

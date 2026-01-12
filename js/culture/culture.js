@@ -11,6 +11,7 @@ import { getLibrairiesMarkers } from "./librairies.js";
 import { getLittMarkers } from "./littéraires.js";
 import { getCinéMarkers } from "./ciné.js";
 import { getThéâtreMarkers } from "./théâtre.js";
+import { getRencontresMarkers } from "./rencontresArtistiques.js";
 
 export async function ajouterCouche(map, overlays, groups) {
   const icon = L.icon({
@@ -96,6 +97,12 @@ export async function ajouterCouche(map, overlays, groups) {
   const théâtre = await getThéâtreMarkers(icon);
   théâtre.forEach((m) => {
     groups.théâtreMarkers.push(m);
+    groups.cultureCluster.addLayer(m);
+  });
+
+  const rencontres = await getRencontresMarkers(icon);
+  rencontres.forEach((m) => {
+    groups.rencontresMarkers.push(m);
     groups.cultureCluster.addLayer(m);
   });
 }
