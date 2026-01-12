@@ -15,11 +15,20 @@ export async function getLibrairiesMarkers() {
     const latlng = [coords[1], coords[0]];
     const props = feature.properties;
     const popupContent = `
-      <strong>${props.Dénomination || "Librairie"}</strong><br>
-      ${props.Adresse || ""}, ${props["Code postal"] || ""} ${
-      props.Localité || ""
-    }<br><br>
-      Type d'opérateur culturel : ${props["Unnamed: 1"] || "Librairie"}
+      <strong>${props.denomination || "Librairie"}</strong><br>
+      ${props.adresse || ""}, ${props["code_postal"] || ""} ${
+      props.localite || ""
+    }
+    ${
+      props.site_web
+        ? `<br><br>
+    <a href="${
+      props.site_web || ""
+    }" target=_blank>Consulter le site internet</a>`
+        : ""
+    }
+    <br><br>
+      Type d'opérateur culturel : Librairie labellisée
     `;
     return L.marker(latlng, { icon: iconLibrairie }).bindPopup(popupContent);
   });
