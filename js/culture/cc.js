@@ -15,9 +15,12 @@ export async function getCCMarkers(icon) {
     const latlng = [coords[1], coords[0]];
     const props = feature.properties;
     const popupContent = `
-      <strong>${props.Dénomination || "Centre culturel"}</strong><br>
+      <strong>${props.denomination || "Centre culturel"}</strong><br>
       ${props.rue || ""}, ${props.code_postal || ""} ${props.localite || ""}
     <br><br>Type d'opérateur culturel : Centre culturel
+    <br><br><a href="https://www.peca.be/recherche-operateur-culturel?tx_solr%5Bq%5D=${
+      props.denomination || ""
+    }" target=_blank>Voir la fiche dans le répertoire PECA</a>
     `;
     return L.marker(latlng, { icon: iconCC }).bindPopup(popupContent);
   });
