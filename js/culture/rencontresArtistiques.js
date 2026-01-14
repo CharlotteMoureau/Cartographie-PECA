@@ -18,7 +18,7 @@ export async function getRencontresMarkers(icon) {
       <strong>${props.prenom || ""} ${props.nom || ""}</strong><br>
       ${
         props.nom_d_artiste_ou_du_groupe_artistique
-          ? `Nom d'artiste : ${props.nom_d_artiste_ou_du_groupe_artistique}`
+          ? `Nom d'artiste ou de collectif : ${props.nom_d_artiste_ou_du_groupe_artistique}`
           : ""
       }
       <p>Domaine artistique : ${props.domaine_s_artistique_s}</p>

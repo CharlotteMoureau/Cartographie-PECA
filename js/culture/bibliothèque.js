@@ -15,11 +15,12 @@ export async function getBiblisMarkers(icon) {
     const latlng = [coords[1], coords[0]];
     const props = feature.properties;
     const popupContent = `
-      <strong>${props.Dénomination || "Bibliothèque"}</strong><br>
-      ${props.Adresse || ""}, ${props["Code postal"] || ""} ${
-      props.Localité || ""
-    }<br><br>
-    Type d'opérateur culturel : ${props.Type || "Bibliothèque"}
+      <strong>${props.denomination || "Bibliothèque"}</strong><br>
+      ${props.adresse || ""}, ${props.cp || ""} ${props.ville || ""}<br><br>
+    Type d'opérateur culturel : ${props.categorie || "Bibliothèque"}
+    <br><br><a href="https://www.peca.be/recherche-operateur-culturel?tx_solr%5Bq%5D=${
+      props.denomination || ""
+    }" target=_blank>Voir la fiche dans le répertoire PECA</a>
     `;
     return L.marker(latlng, { icon: iconBibli }).bindPopup(popupContent);
   });
