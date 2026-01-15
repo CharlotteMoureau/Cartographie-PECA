@@ -65,7 +65,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel de Couvin \"Christian Colle\"",
+                "denomination": "Centre culturel de Couvin 'Christian Colle'",
                 "rue": "Rue du Pilori 6",
                 "code_postal": "5660",
                 "localite": "Couvin",
@@ -252,7 +252,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel de Sambreville \"Crac's\"",
+                "denomination": "Centre culturel de Sambreville 'Crac's'",
                 "rue": "Grand-Place 28",
                 "code_postal": "5060",
                 "localite": "Sambreville",
@@ -304,7 +304,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel d'Anderlecht \"Escale du Nord\"",
+                "denomination": "Centre culturel d'Anderlecht 'Escale du Nord'",
                 "rue": "Rue du Chapelain 1",
                 "code_postal": "1070",
                 "localite": "Anderlecht",
@@ -384,7 +384,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel de Courcelles \"La Posterie\"",
+                "denomination": "Centre culturel de Courcelles 'La Posterie'",
                 "rue": "Rue P. Monnoyer 46",
                 "code_postal": "6180",
                 "localite": "Courcelles",
@@ -412,7 +412,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel d'Ottignies-Louvain-la-Neuve \"SPOTT\"",
+                "denomination": "Centre culturel d'Ottignies-Louvain-la-Neuve 'SPOTT'",
                 "rue": "Avenue des Combattants 41",
                 "code_postal": "1340",
                 "localite": "Ottignies",
@@ -465,7 +465,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel de Jette \"Centre Armillaire\"",
+                "denomination": "Centre culturel de Jette 'Centre Armillaire'",
                 "rue": "Boulevard Smet de Nayer 145",
                 "code_postal": "1090",
                 "localite": "Jette",
@@ -491,7 +491,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Maison de la Culture Famenne-Ardenne \"Culture et Vie en Marche\"",
+                "denomination": "Maison de la Culture Famenne-Ardenne 'Culture et Vie en Marche'",
                 "rue": "Chauss\u00e9e de l'Ourthe 74",
                 "code_postal": "6900",
                 "localite": "Marche-en-Famenne",
@@ -599,7 +599,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel d'Amay \"Cultur'Ama\"",
+                "denomination": "Centre culturel d'Amay 'Cultur'Ama'",
                 "rue": "Rue Entre-deux-Tours 3",
                 "code_postal": "4540",
                 "localite": "Amay",
@@ -865,7 +865,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel \"Les Chiroux\"",
+                "denomination": "Centre culturel 'Les Chiroux'",
                 "rue": "Place des Carmes 8",
                 "code_postal": "4000",
                 "localite": "Liege",
@@ -978,7 +978,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel d'Eghez\u00e9e \"Ecrin\"",
+                "denomination": "Centre culturel d'Eghez\u00e9e 'Ecrin'",
                 "rue": "Rue de la Gare 5",
                 "code_postal": "5310",
                 "localite": "Eghezee",
@@ -1066,7 +1066,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel \"Central\"",
+                "denomination": "Centre culturel 'Central'",
                 "rue": "Place Jules Mansart 17-18",
                 "code_postal": "7100",
                 "localite": "La louviere",
@@ -1093,7 +1093,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel \"Ren\u00e9 Magritte\"",
+                "denomination": "Centre culturel 'Ren\u00e9 Magritte'",
                 "rue": "Rue des 4 fils Aymon, 21",
                 "code_postal": "7860",
                 "localite": "Lessines",
@@ -1150,7 +1150,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel de Sivry-Rance \"Terre chevrotine\"",
+                "denomination": "Centre culturel de Sivry-Rance 'Terre chevrotine'",
                 "rue": "Chemin des Amours 1",
                 "code_postal": "6470",
                 "localite": "Sivry",
@@ -1200,7 +1200,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel d'Anderlues \"La Bourlette\"",
+                "denomination": "Centre culturel d'Anderlues 'La Bourlette'",
                 "rue": "Place Albert 1er 10",
                 "code_postal": "6150",
                 "localite": "Anderlues",
@@ -1227,7 +1227,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel \"Fleurus Culture\"",
+                "denomination": "Centre culturel 'Fleurus Culture'",
                 "rue": "Place Ferrer 1",
                 "code_postal": "6220",
                 "localite": "Fleurus",
@@ -1388,7 +1388,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel \"Le Sablon\"",
+                "denomination": "Centre culturel 'Le Sablon'",
                 "rue": "Place de Carni\u00e8res 36",
                 "code_postal": "7141",
                 "localite": "Morlanwelz",
@@ -1472,7 +1472,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel de Momignies \"En Thi\u00e9rache\"",
+                "denomination": "Centre culturel de Momignies 'En Thi\u00e9rache'",
                 "rue": "Rue de Macon 5",
                 "code_postal": "6590",
                 "localite": "Momignies",
@@ -1526,7 +1526,7 @@
                 ]
             },
             "properties": {
-                "denomination": "\"Pays des Collines\" Centre culturel",
+                "denomination": "'Pays des Collines' Centre culturel",
                 "rue": "Rue de la Gare 20",
                 "code_postal": "7910",
                 "localite": "Anvaing",
@@ -1713,7 +1713,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel de Peruwelz \"Arr\u00eat 59\"",
+                "denomination": "Centre culturel de Peruwelz 'Arr\u00eat 59'",
                 "rue": "Rue des Fran\u00e7ais 59",
                 "code_postal": "7600",
                 "localite": "Peruwelz",
@@ -1874,7 +1874,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel d'Enghien \"Maison JONATHAS\"",
+                "denomination": "Centre culturel d'Enghien 'Maison JONATHAS'",
                 "rue": "Rue Montgomery 7",
                 "code_postal": "7850",
                 "localite": "Enghien",
@@ -1931,7 +1931,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel de Ganshoren \"La Villa\"",
+                "denomination": "Centre culturel de Ganshoren 'La Villa'",
                 "rue": "Place Guido Gezelle 26",
                 "code_postal": "1083",
                 "localite": "Ganshoren",
@@ -2011,7 +2011,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel d'Etterbeek \"Le Senghor\"",
+                "denomination": "Centre culturel d'Etterbeek 'Le Senghor'",
                 "rue": "Chauss\u00e9e de Wavre 366",
                 "code_postal": "1040",
                 "localite": "Etterbeek",
@@ -2063,7 +2063,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Foyer culturel \"Henri Simon\"",
+                "denomination": "Foyer culturel 'Henri Simon'",
                 "rue": "Rue du Centre 81",
                 "code_postal": "4140",
                 "localite": "Sprimont",
@@ -2193,7 +2193,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel de Saint-Ghislain Foyer Culturel \"Septem\"",
+                "denomination": "Centre culturel de Saint-Ghislain Foyer Culturel 'Septem'",
                 "rue": "Grand-Place 37",
                 "code_postal": "7330",
                 "localite": "Saint-Ghislain",
@@ -2246,7 +2246,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel de Watermael-Boitsfort \"La V\u00e9nerie\"",
+                "denomination": "Centre culturel de Watermael-Boitsfort 'La V\u00e9nerie'",
                 "rue": "Place Antoine Gilson 3",
                 "code_postal": "1170",
                 "localite": "Watermael-Boitsfort",
@@ -2437,7 +2437,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel de Gembloux \"Atrium 57\"",
+                "denomination": "Centre culturel de Gembloux 'Atrium 57'",
                 "rue": "Rue du Moulin 55bis",
                 "code_postal": "5030",
                 "localite": "Gembloux",
@@ -2841,7 +2841,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel Berchemois \"Archipel 19\"",
+                "denomination": "Centre culturel Berchemois 'Archipel 19'",
                 "rue": "Place de l'Eglise 15",
                 "code_postal": "1082",
                 "localite": "Berchem-Ste-Agathe",
@@ -2894,7 +2894,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel de Charleroi \"L'Eden\"",
+                "denomination": "Centre culturel de Charleroi 'L'Eden'",
                 "rue": "Boulevard Jacques Bertrand 1-3",
                 "code_postal": "6000",
                 "localite": "Charleroi",
@@ -2920,7 +2920,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel de Chi\u00e8vres-Brugelette\u00a0\"l\u2019Envol\"",
+                "denomination": "Centre culturel de Chi\u00e8vres-Brugelette\u00a0'l\u2019Envol'",
                 "rue": "Rue de Saint-Ghislain 16",
                 "code_postal": "7950",
                 "localite": "Chievres",
@@ -2948,7 +2948,7 @@
                 ]
             },
             "properties": {
-                "denomination": "R\u00e9seau des Centres culturels de la F\u00e9d\u00e9ration Wallonie-Bruxelles \"ASTRAC\"",
+                "denomination": "R\u00e9seau des Centres culturels de la F\u00e9d\u00e9ration Wallonie-Bruxelles 'ASTRAC'",
                 "rue": "Rue du Couvent 4",
                 "code_postal": "6810",
                 "localite": "Jamoigne",
@@ -3263,7 +3263,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel \"Action Sud\"",
+                "denomination": "Centre culturel 'Action Sud'",
                 "rue": "Rue Vieille Eglise 10",
                 "code_postal": "5670",
                 "localite": "Viroinval",
@@ -3400,7 +3400,7 @@
                 ]
             },
             "properties": {
-                "denomination": "Centre culturel de Waterloo \"Espace Bernier\"",
+                "denomination": "Centre culturel de Waterloo 'Espace Bernier'",
                 "rue": "Rue Fran\u00e7ois Libert 26",
                 "code_postal": "1410",
                 "localite": "Waterloo",
