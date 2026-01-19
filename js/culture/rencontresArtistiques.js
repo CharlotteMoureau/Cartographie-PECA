@@ -1,5 +1,5 @@
 export async function getRencontresMarkers(icon) {
-  const res = await fetch("data/culture/rencontres artistiques.geojson");
+  const res = await fetch("data/culture/rencontres_artistiques.geojson");
   const data = await res.json();
 
   const iconRencontres = L.icon({

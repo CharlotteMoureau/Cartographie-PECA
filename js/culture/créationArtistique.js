@@ -1,5 +1,5 @@
 export async function getCréationArtMarkers(icon) {
-  const res = await fetch("data/culture/Création artistiques.geojson");
+  const res = await fetch("data/culture/création_artistique.geojson");
   const data = await res.json();
 
   const iconCréationArt = L.icon({
@@ -15,11 +15,16 @@ export async function getCréationArtMarkers(icon) {
     const latlng = [coords[1], coords[0]];
     const props = feature.properties;
     const popupContent = `
-      <strong>${props.Dénomination || "Création Artistique"}</strong><br>
-      ${props.Adresse || ""}, ${props["Code postal"] || ""} ${
+      <strong>${props.nom_de_l_operateur || "Création Artistique"}</strong><br>
+      ${props.adresse || ""}, ${props.code_postal || ""} ${
       props.Localité || ""
     }<br><br>
-    Type d'opérateur culturel : ${props["Unnamed: 1"] || "Création Artistique"}
+    Type d'opérateur culturel : ${
+      props.categorie_principale || "Création Artistique"
+    }
+    <br><br><a href="https://www.peca.be/recherche-operateur-culturel?tx_solr%5Bq%5D=${
+      props.nom_de_l_operateur || ""
+    }" target=_blank>Voir la fiche dans le répertoire PECA</a>
     `;
     return L.marker(latlng, { icon: iconCréationArt }).bindPopup(popupContent);
   });

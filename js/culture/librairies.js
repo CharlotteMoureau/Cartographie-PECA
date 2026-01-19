@@ -19,17 +19,12 @@ export async function getLibrairiesMarkers() {
       ${props.adresse || ""}, ${props["code_postal"] || ""} ${
       props.localite || ""
     }
-    ${
-      props.site_web
-        ? `<br><br>
-    <a href="${
-      props.site_web || ""
-    }" target=_blank>Consulter le site internet</a>`
-        : ""
-    }
     <br><br>
       Type d'opérateur culturel : Librairie labellisée
-    `;
+    <br><br><a href="https://www.peca.be/recherche-operateur-culturel?tx_solr%5Bq%5D=${
+      props.denomination || ""
+    }" target=_blank>Voir la fiche dans le répertoire PECA</a>
+      `;
     return L.marker(latlng, { icon: iconLibrairie }).bindPopup(popupContent);
   });
 }
