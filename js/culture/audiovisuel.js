@@ -15,12 +15,15 @@ export async function getAudiovisuelMarkers(icon) {
     const latlng = [coords[1], coords[0]];
     const props = feature.properties;
     const popupContent = `
-      <strong>${props.Dénomination || "Audiovisuel"}</strong><br>
-      ${props.Adresse || ""}, ${props["Code postal"] || ""} ${
-      props.Ville || ""
+      <strong>${props.denomination || "Audiovisuel"}</strong><br>
+      ${props.adresse || ""}, ${props.code_postal || ""} ${
+      props.ville || ""
     }<br><br>
-      Type d'opérateur culturel : ${props["Unnamed: 1"] || "Audiovisuel"}
-    `;
+      Type d'opérateur culturel : ${props.categorie || "Audiovisuel"}
+    <br><br><a href="https://www.peca.be/recherche-operateur-culturel?tx_solr%5Bq%5D=${
+      props.denomination || ""
+    }" target=_blank>Voir la fiche dans le répertoire PECA</a>
+      `;
     return L.marker(latlng, { icon: iconAudiovisuel }).bindPopup(popupContent);
   });
 }
