@@ -2,6 +2,7 @@ import { initCarte } from "./initCarte.js";
 import { initGroupes } from "./groupesCouches.js";
 import { initControleLayers } from "./controleLayers.js";
 import { initFiltresCulture } from "./filtresCulture.js";
+import { initLegende } from "./legende.js";
 
 const map = initCarte();
 const groups = initGroupes();
@@ -107,6 +108,7 @@ async function initMapLayers() {
 
     const layerControl = initControleLayers(map, overlays);
     initFiltresCulture(layerControl, groups);
+    initLegende(map);
 
     const criticalGroups = LAYER_DEFINITIONS.filter(
       ({ priority }) => priority === "critical",
