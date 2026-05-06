@@ -3,23 +3,6 @@ html, body, #map {
   margin: 0;
 }
 
-/* .carte-header {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 15px;
-  padding: 20px;
-  background-color: #f9f9f9;
-  border-bottom: 2px solid #ddd;
-}
-
-.carte-header h1 {
-  font-size: 2rem;
-  margin: 0;
-  color: #333;
-  font-weight: 600;
-} */
-
 .logo-peca {
   height: 50px;
   width: auto;
@@ -80,4 +63,32 @@ html, body, #map {
   margin-left: 20px;
   margin-bottom: 5px;
   font-size: 13px;
+}
+
+.culture-filter-title {
+  cursor: pointer;
+  padding: 5px;
+  background: #f0f0f0;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.culture-filter-toggle-icon {
+  margin-left: auto;
+}
+
+.culture-filter-content {
+  display: none;
+  padding: 5px 10px;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-top: 5px;
+}
+
+.culture-filter-content.is-open {
+  display: block;
 }

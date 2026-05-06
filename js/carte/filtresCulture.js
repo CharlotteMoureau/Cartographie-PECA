@@ -81,6 +81,35 @@ function findCultureMainCheckbox(controlContainer) {
   return { checkbox: null, label: null };
 }
 
+function getOverlayControlContainer(layerControl) {
+  return (
+    layerControl?._container?.querySelector(
+      ".leaflet-control-layers-overlays",
+    ) || document.querySelector(".leaflet-control-layers-overlays")
+  );
+}
+
+function insertFilterGroup(layerControl, customGroup) {
+  const controlContainer = getOverlayControlContainer(layerControl);
+
+  if (!controlContainer) {
+    return null;
+  }
+
+  const { label: cultureMainLabel } = findCultureMainCheckbox(controlContainer);
+
+  if (cultureMainLabel?.parentNode) {
+    cultureMainLabel.parentNode.insertBefore(
+      customGroup,
+      cultureMainLabel.nextSibling,
+    );
+  } else if (customGroup.parentNode !== controlContainer) {
+    controlContainer.appendChild(customGroup);
+  }
+
+  return controlContainer;
+}
+
 function setCategoryVisible(cultureCluster, markers, visible) {
   markers.forEach((marker) => {
     if (visible) {
@@ -95,9 +124,7 @@ export function initFiltresCulture(layerControl, groups) {
   const { cultureCluster } = groups;
   const map = layerControl?._map;
 
-  const controlContainer = document.querySelector(
-    ".leaflet-control-layers-overlays",
-  );
+  const controlContainer = getOverlayControlContainer(layerControl);
 
   if (!controlContainer) {
     return;
@@ -107,43 +134,32 @@ export function initFiltresCulture(layerControl, groups) {
   customGroup.className = "leaflet-control-layers-group";
 
   const title = document.createElement("span");
-  title.className = "leaflet-control-layers-group-label";
-  title.innerHTML = `Filtres culture <span style="float:right;">▼</span>`;
-  title.style.cursor = "pointer";
-  title.style.padding = "5px";
-  title.style.background = "#f0f0f0";
-  title.style.borderRadius = "4px";
-  title.style.display = "block";
+  title.className = "leaflet-control-layers-group-label culture-filter-title";
+
+  const titleText = document.createElement("span");
+  titleText.textContent = "Filtres culture";
+
+  const titleIcon = document.createElement("span");
+  titleIcon.className = "culture-filter-toggle-icon";
+  titleIcon.textContent = "▼";
+
+  title.append(titleText, titleIcon);
 
   const filterContent = document.createElement("div");
-  filterContent.className = "leaflet-control-layers-group-content";
-  filterContent.style.display = "none";
-  filterContent.style.padding = "5px 10px";
-  filterContent.style.background = "#fff";
-  filterContent.style.border = "1px solid #ccc";
-  filterContent.style.borderRadius = "4px";
-  filterContent.style.marginTop = "5px";
+  filterContent.className =
+    "leaflet-control-layers-group-content culture-filter-content";
 
   filterContent.innerHTML = createFilterMarkup();
 
   title.addEventListener("click", () => {
-    const isVisible = filterContent.style.display === "block";
-    filterContent.style.display = isVisible ? "none" : "block";
-    title.querySelector("span").textContent = isVisible ? "▼" : "▲";
+    const isVisible = filterContent.classList.toggle("is-open");
+    titleIcon.textContent = isVisible ? "▲" : "▼";
   });
 
   customGroup.appendChild(title);
   customGroup.appendChild(filterContent);
 
-  const { checkbox: cultureMainCheckbox, label: cultureMainLabel } =
-    findCultureMainCheckbox(controlContainer);
-
-  if (cultureMainLabel?.parentNode) {
-    cultureMainLabel.parentNode.insertBefore(
-      customGroup,
-      cultureMainLabel.nextSibling,
-    );
-  }
+  insertFilterGroup(layerControl, customGroup);
 
   const checkboxEntries = CULTURE_FILTERS.map((filter) => ({
     ...filter,
@@ -152,11 +168,60 @@ export function initFiltresCulture(layerControl, groups) {
   })).filter(({ checkbox }) => checkbox);
 
   let isCultureEnabled = null;
+  let syncSource = null;
+
+  const getCultureMainCheckbox = () =>
+    findCultureMainCheckbox(
+      getOverlayControlContainer(layerControl) || controlContainer,
+    ).checkbox;
+
+  const getCheckedCount = () =>
+    checkboxEntries.filter(({ checkbox }) => checkbox.checked).length;
+
+  const setCultureLayerEnabled = (enabled, source = "program") => {
+    if (isCultureEnabled === enabled) {
+      return;
+    }
+
+    isCultureEnabled = enabled;
+    syncSource = source;
+
+    if (!map) {
+      return;
+    }
+
+    if (enabled) {
+      if (!map.hasLayer(cultureCluster)) {
+        map.addLayer(cultureCluster);
+      }
+    } else if (map.hasLayer(cultureCluster)) {
+      map.removeLayer(cultureCluster);
+    }
+  };
+
+  const syncMainCheckboxState = () => {
+    const cultureMainCheckbox = getCultureMainCheckbox();
+
+    if (!cultureMainCheckbox) {
+      return;
+    }
+
+    const checkedCount = getCheckedCount();
+    const allChecked = checkedCount === checkboxEntries.length;
+    const anyChecked = checkedCount > 0;
+
+    cultureMainCheckbox.checked = anyChecked;
+    cultureMainCheckbox.indeterminate = anyChecked && !allChecked;
+  };
 
   const applySubFilters = () => {
     checkboxEntries.forEach(({ checkbox, markers }) => {
       setCategoryVisible(cultureCluster, markers, checkbox.checked);
     });
+
+    const anyChecked = getCheckedCount() > 0;
+    setCultureLayerEnabled(anyChecked, "subfilter");
+    syncMainCheckboxState();
   };
 
   const syncSubFiltersWithCultureToggle = (cultureEnabled) => {
@@ -166,37 +231,51 @@ export function initFiltresCulture(layerControl, groups) {
 
     checkboxEntries.forEach(({ checkbox }) => {
       checkbox.checked = cultureEnabled;
-      checkbox.disabled = !cultureEnabled;
     });
 
-    isCultureEnabled = cultureEnabled;
+    setCultureLayerEnabled(cultureEnabled, "main-toggle");
     applySubFilters();
   };
 
   checkboxEntries.forEach(({ checkbox, markers }) => {
     checkbox.addEventListener("change", (e) => {
       setCategoryVisible(cultureCluster, markers, e.target.checked);
+      const anyChecked = getCheckedCount() > 0;
+      setCultureLayerEnabled(anyChecked);
+      syncMainCheckboxState();
     });
   });
 
-  if (cultureMainCheckbox) {
-    syncSubFiltersWithCultureToggle(cultureMainCheckbox.checked);
-
-    cultureMainCheckbox.addEventListener("change", (e) => {
-      syncSubFiltersWithCultureToggle(e.target.checked);
-    });
-  }
+  syncSubFiltersWithCultureToggle(Boolean(getCultureMainCheckbox()?.checked));
 
   if (map) {
     map.on("overlayadd", (e) => {
       if (e.layer === cultureCluster) {
-        syncSubFiltersWithCultureToggle(true);
+        insertFilterGroup(layerControl, customGroup);
+
+        if (syncSource === "subfilter") {
+          isCultureEnabled = true;
+          syncMainCheckboxState();
+        } else {
+          syncSubFiltersWithCultureToggle(true);
+        }
+
+        syncSource = null;
       }
     });
 
     map.on("overlayremove", (e) => {
       if (e.layer === cultureCluster) {
-        syncSubFiltersWithCultureToggle(false);
+        insertFilterGroup(layerControl, customGroup);
+
+        if (syncSource === "subfilter") {
+          isCultureEnabled = false;
+          syncMainCheckboxState();
+        } else {
+          syncSubFiltersWithCultureToggle(false);
+        }
+
+        syncSource = null;
       }
     });
   }
