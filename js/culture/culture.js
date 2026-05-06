@@ -13,28 +13,28 @@ import { getCinéMarkers } from "./ciné.js";
 import { getThéâtreMarkers } from "./théâtre.js";
 import { getRencontresMarkers } from "./rencontresArtistiques.js";
 
-export async function ajouterCouche(map, overlays, groups) {
-  const categories = [
-    { load: getMuséesMarkers, target: groups.muséesMarkers },
-    { load: getBiblisMarkers, target: groups.biblisMarkers },
-    { load: getCCMarkers, target: groups.ccMarkers },
-    { load: getCecMarkers, target: groups.cecMarkers },
-    { load: getESAHRMarkers, target: groups.esahrMarkers },
-    { load: getAudiovisuelMarkers, target: groups.ocAudioMarkers },
-    { load: getCentreArchiveMarkers, target: groups.centreArchiveMarkers },
-    { load: getCréationArtMarkers, target: groups.créationArtMarkers },
-    { load: getCréationMonstrMarkers, target: groups.créationMonstrMarkers },
-    { load: getLibrairiesMarkers, target: groups.librairiesMarkers },
-    { load: getLittMarkers, target: groups.littMarkers },
-    { load: getCinéMarkers, target: groups.cinéMarkers },
-    { load: getThéâtreMarkers, target: groups.théâtreMarkers },
-    { load: getRencontresMarkers, target: groups.rencontresMarkers },
-  ];
+const CULTURE_CATEGORY_REGISTRY = [
+  { load: getMuséesMarkers, groupKey: "muséesMarkers" },
+  { load: getBiblisMarkers, groupKey: "biblisMarkers" },
+  { load: getCCMarkers, groupKey: "ccMarkers" },
+  { load: getCecMarkers, groupKey: "cecMarkers" },
+  { load: getESAHRMarkers, groupKey: "esahrMarkers" },
+  { load: getAudiovisuelMarkers, groupKey: "ocAudioMarkers" },
+  { load: getCentreArchiveMarkers, groupKey: "centreArchiveMarkers" },
+  { load: getCréationArtMarkers, groupKey: "créationArtMarkers" },
+  { load: getCréationMonstrMarkers, groupKey: "créationMonstrMarkers" },
+  { load: getLibrairiesMarkers, groupKey: "librairiesMarkers" },
+  { load: getLittMarkers, groupKey: "littMarkers" },
+  { load: getCinéMarkers, groupKey: "cinéMarkers" },
+  { load: getThéâtreMarkers, groupKey: "théâtreMarkers" },
+  { load: getRencontresMarkers, groupKey: "rencontresMarkers" },
+];
 
+async function loadCategoryMarkers(categories, groups) {
   const loadedMarkers = await Promise.all(
-    categories.map(async ({ load, target }) => {
+    categories.map(async ({ load, groupKey }) => {
       const markers = await load();
-      target.push(...markers);
+      groups[groupKey].push(...markers);
       return markers;
     }),
   );
@@ -42,4 +42,8 @@ export async function ajouterCouche(map, overlays, groups) {
   loadedMarkers.flat().forEach((marker) => {
     groups.cultureCluster.addLayer(marker);
   });
+}
+
+export async function ajouterCouche(map, overlays, groups) {
+  await loadCategoryMarkers(CULTURE_CATEGORY_REGISTRY, groups);
 }
