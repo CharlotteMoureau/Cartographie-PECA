@@ -62,8 +62,38 @@ const CULTURE_FILTERS = [
 function createFilterMarkup() {
   return CULTURE_FILTERS.map(
     ({ id, label }) =>
-      `<label><input type="checkbox" id="${id}" checked /> ${label}</label>`,
+      `<label class="culture-filter-option"><input type="checkbox" id="${id}" checked /> <span>${label}</span></label>`,
   ).join("\n");
+}
+
+function createSectionTitle(text) {
+  const title = document.createElement("div");
+  title.className = "leaflet-control-section-title";
+  title.textContent = text;
+  return title;
+}
+
+function decorateOverlayControl(controlContainer) {
+  if (!controlContainer) {
+    return;
+  }
+
+  if (!controlContainer.querySelector(":scope > .leaflet-control-section-title")) {
+    controlContainer.insertBefore(
+      createSectionTitle("Couches principales"),
+      controlContainer.firstChild,
+    );
+  }
+
+  const mainLabels = controlContainer.querySelectorAll(":scope > label");
+
+  mainLabels.forEach((label) => {
+    label.classList.add("leaflet-control-layer-option");
+
+    if (label.textContent.includes("Culture (tout)")) {
+      label.classList.add("leaflet-control-layer-option-primary");
+    }
+  });
 }
 
 function findCultureMainCheckbox(controlContainer) {
@@ -129,6 +159,8 @@ export function initFiltresCulture(layerControl, groups) {
   if (!controlContainer) {
     return;
   }
+
+  decorateOverlayControl(controlContainer);
 
   const customGroup = document.createElement("div");
   customGroup.className = "leaflet-control-layers-group";
@@ -252,6 +284,9 @@ export function initFiltresCulture(layerControl, groups) {
     map.on("overlayadd", (e) => {
       if (e.layer === cultureCluster) {
         insertFilterGroup(layerControl, customGroup);
+        decorateOverlayControl(
+          getOverlayControlContainer(layerControl) || controlContainer,
+        );
 
         if (syncSource === "subfilter") {
           isCultureEnabled = true;
@@ -267,6 +302,9 @@ export function initFiltresCulture(layerControl, groups) {
     map.on("overlayremove", (e) => {
       if (e.layer === cultureCluster) {
         insertFilterGroup(layerControl, customGroup);
+        decorateOverlayControl(
+          getOverlayControlContainer(layerControl) || controlContainer,
+        );
 
         if (syncSource === "subfilter") {
           isCultureEnabled = false;
