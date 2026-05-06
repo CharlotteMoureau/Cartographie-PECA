@@ -4,89 +4,62 @@ import { initControleLayers } from "./controleLayers.js";
 import { initFiltresCulture } from "./filtresCulture.js";
 
 const map = initCarte();
-const {
-  ecolesGroup,
-  zonesPecaGroup,
-  sncbGroup,
-  tecGroup,
-  cultureCluster,
-  muséesMarkers,
-  biblisMarkers,
-  ccMarkers,
-  cecMarkers,
-  esahrMarkers,
-  ocAudioMarkers,
-  centreArchiveMarkers,
-  créationArtMarkers,
-  créationMonstrMarkers,
-  librairiesMarkers,
-  littMarkers,
-  cinéMarkers,
-  théâtreMarkers,
-  rencontresMarkers,
-} = initGroupes();
+const groups = initGroupes();
 
 const overlays = {
-  "Culture (tout)": cultureCluster,
-  "Écoles FWB": ecolesGroup,
-  "Zones PECA": zonesPecaGroup,
-  "SNCB (gares + lignes)": sncbGroup,
-  "TEC (lignes + arrêts)": tecGroup,
+  "Culture (tout)": groups.cultureCluster,
+  "Écoles FWB": groups.ecolesGroup,
+  "Zones PECA": groups.zonesPecaGroup,
+  "SNCB (gares + lignes)": groups.sncbGroup,
+  "TEC (lignes + arrêts)": groups.tecGroup,
 };
 
-Promise.all([
-  import("../zones_peca.js"),
-  import("../ecoles.js"),
-  import("../culture/culture.js"),
-  import("../sncb/gares_sncb.js"),
-  import("../sncb/lignes_sncb.js"),
-  import("../tec/lignes_tec.js"),
-  import("../tec/arrets_tec.js"),
-]).then((modules) => {
-  modules.forEach((m) =>
-    m.ajouterCouche?.(map, overlays, {
-      ecolesGroup,
-      zonesPecaGroup,
-      cultureCluster,
-      muséesMarkers,
-      biblisMarkers,
-      ccMarkers,
-      cecMarkers,
-      esahrMarkers,
-      ocAudioMarkers,
-      centreArchiveMarkers,
-      créationArtMarkers,
-      créationMonstrMarkers,
-      librairiesMarkers,
-      littMarkers,
-      cinéMarkers,
-      théâtreMarkers,
-      rencontresMarkers,
-      sncbGroup,
-      tecGroup,
-    })
-  );
+const LAYER_MODULE_PATHS = [
+  "../zones_peca.js",
+  "../ecoles.js",
+  "../culture/culture.js",
+  "../sncb/gares_sncb.js",
+  "../sncb/lignes_sncb.js",
+  "../tec/lignes_tec.js",
+  "../tec/arrets_tec.js",
+];
 
-  [ecolesGroup, zonesPecaGroup, cultureCluster, sncbGroup, tecGroup].forEach(
-    (g) => g.addTo(map)
-  );
+const DEFAULT_VISIBLE_GROUP_KEYS = [
+  "ecolesGroup",
+  "zonesPecaGroup",
+  "cultureCluster",
+  "sncbGroup",
+  "tecGroup",
+];
 
-  const layerControl = initControleLayers(map, overlays);
-  initFiltresCulture(layerControl, {
-    muséesMarkers,
-    biblisMarkers,
-    ccMarkers,
-    cecMarkers,
-    esahrMarkers,
-    ocAudioMarkers,
-    centreArchiveMarkers,
-    créationArtMarkers,
-    créationMonstrMarkers,
-    librairiesMarkers,
-    littMarkers,
-    cinéMarkers,
-    théâtreMarkers,
-    rencontresMarkers,
-    cultureCluster,
+function addDefaultLayersToMap(mapInstance, groupRegistry) {
+  DEFAULT_VISIBLE_GROUP_KEYS.forEach((groupKey) => {
+    groupRegistry[groupKey].addTo(mapInstance);
   });
-});
+}
+
+async function loadLayerModules() {
+  return Promise.all(LAYER_MODULE_PATHS.map((path) => import(path)));
+}
+
+async function initMapLayers() {
+  try {
+    const modules = await loadLayerModules();
+
+    modules.forEach((module) => {
+      module.ajouterCouche?.(map, overlays, groups);
+    });
+
+    addDefaultLayersToMap(map, groups);
+
+    const layerControl = initControleLayers(map, overlays);
+    initFiltresCulture(layerControl, groups);
+  } catch (error) {
+    console.error(
+      "Erreur lors de l'initialisation des couches de la carte:",
+      error,
+    );
+  }
+}
+
+initMapLayers();
