@@ -78,7 +78,9 @@ function decorateOverlayControl(controlContainer) {
     return;
   }
 
-  if (!controlContainer.querySelector(":scope > .leaflet-control-section-title")) {
+  if (
+    !controlContainer.querySelector(":scope > .leaflet-control-section-title")
+  ) {
     controlContainer.insertBefore(
       createSectionTitle("Couches principales"),
       controlContainer.firstChild,

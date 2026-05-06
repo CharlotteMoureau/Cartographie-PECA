@@ -30,7 +30,7 @@ export function ajouterCouche(map, overlays, { zonesPecaGroup }) {
             weight: 2,
             opacity: 1,
             fillColor: zoneCouleurs[zone],
-            fillOpacity: 0.6,
+            fillOpacity: 0.35,
           };
         },
         onEachFeature: (feature, layer) => {

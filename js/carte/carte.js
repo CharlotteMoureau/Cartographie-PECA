@@ -46,8 +46,6 @@ const DEFAULT_VISIBLE_GROUP_KEYS = [
   "ecolesGroup",
   "zonesPecaGroup",
   "cultureCluster",
-  "sncbGroup",
-  "tecGroup",
 ];
 
 const layerLoadPromises = new Map();
