@@ -1,23 +1,98 @@
-export function initFiltresCulture(
-  layerControl,
+const CULTURE_FILTERS = [
+  { id: "filter-biblis", label: "Bibliothèques", groupKey: "biblisMarkers" },
   {
-    muséesMarkers,
-    biblisMarkers,
-    ccMarkers,
-    cecMarkers,
-    esahrMarkers,
-    ocAudioMarkers,
-    centreArchiveMarkers,
-    créationArtMarkers,
-    créationMonstrMarkers,
-    librairiesMarkers,
-    littMarkers,
-    cinéMarkers,
-    théâtreMarkers,
-    rencontresMarkers,
-    cultureCluster,
+    id: "filter-centreArchive",
+    label: "Centres d'archives",
+    groupKey: "centreArchiveMarkers",
   },
-) {
+  { id: "filter-cc", label: "Centres culturels", groupKey: "ccMarkers" },
+  {
+    id: "filter-cec",
+    label: "Centres d'expression et de créativité",
+    groupKey: "cecMarkers",
+  },
+  {
+    id: "filter-créArt",
+    label: "Création artistique",
+    groupKey: "créationArtMarkers",
+  },
+  {
+    id: "filter-esahr",
+    label: "ESAHR (académies et conservatoires)",
+    groupKey: "esahrMarkers",
+  },
+  {
+    id: "filter-librairies",
+    label: "Librairies labellisées",
+    groupKey: "librairiesMarkers",
+  },
+  {
+    id: "filter-monstr",
+    label: "Lieux de création et de monstration",
+    groupKey: "créationMonstrMarkers",
+  },
+  { id: "filter-musees", label: "Musées", groupKey: "muséesMarkers" },
+  {
+    id: "filter-ocAudio",
+    label: "Opérateurs culturels audiovisuel",
+    groupKey: "ocAudioMarkers",
+  },
+  {
+    id: "filter-ocLitt",
+    label: "Opérateurs culturels littéraires",
+    groupKey: "littMarkers",
+  },
+  {
+    id: "filter-rencontres",
+    label: "Rencontres artistiques en classe",
+    groupKey: "rencontresMarkers",
+  },
+  {
+    id: "filter-ciné",
+    label: "Salles de projection et cinémas",
+    groupKey: "cinéMarkers",
+  },
+  {
+    id: "filter-théâtre",
+    label: "Salles de concert et théâtres",
+    groupKey: "théâtreMarkers",
+  },
+];
+
+function createFilterMarkup() {
+  return CULTURE_FILTERS.map(
+    ({ id, label }) =>
+      `<label><input type="checkbox" id="${id}" checked /> ${label}</label>`,
+  ).join("\n");
+}
+
+function findCultureMainCheckbox(controlContainer) {
+  const labels = controlContainer.querySelectorAll("label");
+
+  for (const label of labels) {
+    if (label.textContent.includes("Culture (tout)")) {
+      return {
+        checkbox: label.querySelector('input[type="checkbox"]'),
+        label,
+      };
+    }
+  }
+
+  return { checkbox: null, label: null };
+}
+
+function setCategoryVisible(cultureCluster, markers, visible) {
+  markers.forEach((marker) => {
+    if (visible) {
+      cultureCluster.addLayer(marker);
+    } else {
+      cultureCluster.removeLayer(marker);
+    }
+  });
+}
+
+export function initFiltresCulture(layerControl, groups) {
+  const { cultureCluster } = groups;
   const map = layerControl?._map;
 
   const controlContainer = document.querySelector(
@@ -49,22 +124,7 @@ export function initFiltresCulture(
   filterContent.style.borderRadius = "4px";
   filterContent.style.marginTop = "5px";
 
-  filterContent.innerHTML = `
-    <label><input type="checkbox" id="filter-biblis" checked /> Bibliothèques</label>
-    <label><input type="checkbox" id="filter-centreArchive" checked /> Centres d'archives</label>
-    <label><input type="checkbox" id="filter-cc" checked /> Centres culturels</label>
-    <label><input type="checkbox" id="filter-cec" checked /> Centres d'expression et de créativité</label>
-    <label><input type="checkbox" id="filter-créArt" checked /> Création artistique</label>
-    <label><input type="checkbox" id="filter-esahr" checked /> ESAHR (académies et conservatoires)</label>
-    <label><input type="checkbox" id="filter-librairies" checked /> Librairies labellisées</label>
-    <label><input type="checkbox" id="filter-monstr" checked /> Lieux de création et de monstration</label>
-    <label><input type="checkbox" id="filter-musees" checked /> Musées</label>
-    <label><input type="checkbox" id="filter-ocAudio" checked /> Opérateurs culturels audiovisuel</label>
-    <label><input type="checkbox" id="filter-ocLitt" checked /> Opérateurs culturels littéraires</label>
-    <label><input type="checkbox" id="filter-rencontres" checked /> Rencontres artistiques en classe</label>
-    <label><input type="checkbox" id="filter-ciné" checked /> Salles de projection et cinémas</label>
-    <label><input type="checkbox" id="filter-théâtre" checked /> Salles de concert et théâtres</label>
-    `;
+  filterContent.innerHTML = createFilterMarkup();
 
   title.addEventListener("click", () => {
     const isVisible = filterContent.style.display === "block";
@@ -75,78 +135,47 @@ export function initFiltresCulture(
   customGroup.appendChild(title);
   customGroup.appendChild(filterContent);
 
-  const labels = controlContainer.querySelectorAll("label");
-  let cultureMainCheckbox = null;
+  const { checkbox: cultureMainCheckbox, label: cultureMainLabel } =
+    findCultureMainCheckbox(controlContainer);
 
-  labels.forEach((label) => {
-    if (label.textContent.includes("Culture (tout)")) {
-      cultureMainCheckbox = label.querySelector('input[type="checkbox"]');
-      label.parentNode.insertBefore(customGroup, label.nextSibling);
-    }
-  });
+  if (cultureMainLabel?.parentNode) {
+    cultureMainLabel.parentNode.insertBefore(
+      customGroup,
+      cultureMainLabel.nextSibling,
+    );
+  }
 
-  const checkboxHandlers = [
-    { id: "filter-biblis", markers: biblisMarkers },
-    { id: "filter-centreArchive", markers: centreArchiveMarkers },
-    { id: "filter-cc", markers: ccMarkers },
-    { id: "filter-cec", markers: cecMarkers },
-    { id: "filter-créArt", markers: créationArtMarkers },
-    { id: "filter-esahr", markers: esahrMarkers },
-    { id: "filter-librairies", markers: librairiesMarkers },
-    { id: "filter-monstr", markers: créationMonstrMarkers },
-    { id: "filter-musees", markers: muséesMarkers },
-    { id: "filter-ocAudio", markers: ocAudioMarkers },
-    { id: "filter-ocLitt", markers: littMarkers },
-    { id: "filter-ciné", markers: cinéMarkers },
-    { id: "filter-théâtre", markers: théâtreMarkers },
-    { id: "filter-rencontres", markers: rencontresMarkers },
-  ];
+  const checkboxEntries = CULTURE_FILTERS.map((filter) => ({
+    ...filter,
+    checkbox: filterContent.querySelector(`#${filter.id}`),
+    markers: groups[filter.groupKey] || [],
+  })).filter(({ checkbox }) => checkbox);
 
-  const subCheckboxes = checkboxHandlers
-    .map(({ id }) => document.getElementById(id))
-    .filter(Boolean);
-
-  const setCategoryVisible = (markers, visible) => {
-    markers.forEach((marker) => {
-      if (visible) {
-        cultureCluster.addLayer(marker);
-      } else {
-        cultureCluster.removeLayer(marker);
-      }
-    });
-  };
+  let isCultureEnabled = null;
 
   const applySubFilters = () => {
-    checkboxHandlers.forEach(({ id, markers }) => {
-      const checkbox = document.getElementById(id);
-      if (!checkbox) {
-        return;
-      }
-      setCategoryVisible(markers, checkbox.checked);
+    checkboxEntries.forEach(({ checkbox, markers }) => {
+      setCategoryVisible(cultureCluster, markers, checkbox.checked);
     });
   };
 
   const syncSubFiltersWithCultureToggle = (cultureEnabled) => {
-    subCheckboxes.forEach((checkbox) => {
-      if (cultureEnabled) {
-        checkbox.checked = true;
-      } else {
-        checkbox.checked = false;
-      }
-      checkbox.disabled = !cultureEnabled;
-    });
-
-    applySubFilters();
-  };
-
-  checkboxHandlers.forEach(({ id, markers }) => {
-    const checkbox = document.getElementById(id);
-    if (!checkbox) {
+    if (isCultureEnabled === cultureEnabled) {
       return;
     }
 
+    checkboxEntries.forEach(({ checkbox }) => {
+      checkbox.checked = cultureEnabled;
+      checkbox.disabled = !cultureEnabled;
+    });
+
+    isCultureEnabled = cultureEnabled;
+    applySubFilters();
+  };
+
+  checkboxEntries.forEach(({ checkbox, markers }) => {
     checkbox.addEventListener("change", (e) => {
-      setCategoryVisible(markers, e.target.checked);
+      setCategoryVisible(cultureCluster, markers, e.target.checked);
     });
   });
 
