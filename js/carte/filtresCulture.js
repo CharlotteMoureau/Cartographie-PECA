@@ -16,11 +16,17 @@ export function initFiltresCulture(
     théâtreMarkers,
     rencontresMarkers,
     cultureCluster,
-  }
+  },
 ) {
+  const map = layerControl?._map;
+
   const controlContainer = document.querySelector(
-    ".leaflet-control-layers-overlays"
+    ".leaflet-control-layers-overlays",
   );
+
+  if (!controlContainer) {
+    return;
+  }
 
   const customGroup = document.createElement("div");
   customGroup.className = "leaflet-control-layers-group";
@@ -70,8 +76,11 @@ export function initFiltresCulture(
   customGroup.appendChild(filterContent);
 
   const labels = controlContainer.querySelectorAll("label");
+  let cultureMainCheckbox = null;
+
   labels.forEach((label) => {
     if (label.textContent.includes("Culture (tout)")) {
+      cultureMainCheckbox = label.querySelector('input[type="checkbox"]');
       label.parentNode.insertBefore(customGroup, label.nextSibling);
     }
   });
@@ -93,13 +102,73 @@ export function initFiltresCulture(
     { id: "filter-rencontres", markers: rencontresMarkers },
   ];
 
+  const subCheckboxes = checkboxHandlers
+    .map(({ id }) => document.getElementById(id))
+    .filter(Boolean);
+
+  const setCategoryVisible = (markers, visible) => {
+    markers.forEach((marker) => {
+      if (visible) {
+        cultureCluster.addLayer(marker);
+      } else {
+        cultureCluster.removeLayer(marker);
+      }
+    });
+  };
+
+  const applySubFilters = () => {
+    checkboxHandlers.forEach(({ id, markers }) => {
+      const checkbox = document.getElementById(id);
+      if (!checkbox) {
+        return;
+      }
+      setCategoryVisible(markers, checkbox.checked);
+    });
+  };
+
+  const syncSubFiltersWithCultureToggle = (cultureEnabled) => {
+    subCheckboxes.forEach((checkbox) => {
+      if (cultureEnabled) {
+        checkbox.checked = true;
+      } else {
+        checkbox.checked = false;
+      }
+      checkbox.disabled = !cultureEnabled;
+    });
+
+    applySubFilters();
+  };
+
   checkboxHandlers.forEach(({ id, markers }) => {
-    document.getElementById(id).addEventListener("change", (e) => {
-      markers.forEach((m) => {
-        e.target.checked
-          ? cultureCluster.addLayer(m)
-          : cultureCluster.removeLayer(m);
-      });
+    const checkbox = document.getElementById(id);
+    if (!checkbox) {
+      return;
+    }
+
+    checkbox.addEventListener("change", (e) => {
+      setCategoryVisible(markers, e.target.checked);
     });
   });
+
+  if (cultureMainCheckbox) {
+    syncSubFiltersWithCultureToggle(cultureMainCheckbox.checked);
+
+    cultureMainCheckbox.addEventListener("change", (e) => {
+      syncSubFiltersWithCultureToggle(e.target.checked);
+    });
+  }
+
+  if (map) {
+    map.on("overlayadd", (e) => {
+      if (e.layer === cultureCluster) {
+        syncSubFiltersWithCultureToggle(true);
+      }
+    });
+
+    map.on("overlayremove", (e) => {
+      if (e.layer === cultureCluster) {
+        syncSubFiltersWithCultureToggle(false);
+      }
+    });
+  }
 }
