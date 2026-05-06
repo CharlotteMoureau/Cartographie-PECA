@@ -1,28 +1,29 @@
-export async function getCentreArchiveMarkers(icon) {
-  const res = await fetch("data/culture/centreArchive.geojson");
-  const data = await res.json();
+import {
+  buildAddressLine,
+  createCultureMarkers,
+  getFirstNonEmpty,
+} from "./cultureMarkerFactory.js";
 
-  const iconCentreArchive = L.icon({
-    iconUrl: "img/culture.svg",
-    iconSize: [25, 41],
-    iconAnchor: [12, 41],
-    popupAnchor: [1, -34],
-    shadowUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
-  });
+export async function getCentreArchiveMarkers() {
+  return createCultureMarkers({
+    geojsonPath: "data/culture/centreArchive.geojson",
+    popupBuilder: (props) => {
+      const denomination = getFirstNonEmpty(
+        props,
+        ["Dénomination"],
+        "CentreArchive",
+      );
+      const address = buildAddressLine(props, {
+        streetKeys: ["Adresse"],
+        postalKeys: ["Code postal"],
+        cityKeys: ["Localité"],
+      });
 
-  return data.features.map((feature) => {
-    const coords = feature.geometry.coordinates;
-    const latlng = [coords[1], coords[0]];
-    const props = feature.properties;
-    const popupContent = `
-      <strong>${props.Dénomination || "CentreArchive"}</strong><br>
-      ${props.Adresse || ""}, ${props["Code postal"] || ""} ${
-      props.Localité || ""
-    }<br><br>
-    Type d'opérateur culturel : ${props["Unnamed: 1"] || "Centre d'archives"}
+      return `
+      <strong>${denomination}</strong><br>
+      ${address}<br><br>
+      Type d'opérateur culturel : ${props["Unnamed: 1"] || "Centre d'archives"}
     `;
-    return L.marker(latlng, { icon: iconCentreArchive }).bindPopup(
-      popupContent
-    );
+    },
   });
 }

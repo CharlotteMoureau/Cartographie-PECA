@@ -1,29 +1,26 @@
-export async function getThéâtreMarkers(icon) {
-  const res = await fetch("data/culture/théâtre.geojson");
-  const data = await res.json();
+import {
+  buildAddressLine,
+  buildPecaLink,
+  createCultureMarkers,
+} from "./cultureMarkerFactory.js";
 
-  const iconThéâtre = L.icon({
-    iconUrl: "img/culture.svg",
-    iconSize: [25, 41],
-    iconAnchor: [12, 41],
-    popupAnchor: [1, -34],
-    shadowUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
-  });
+export async function getThéâtreMarkers() {
+  return createCultureMarkers({
+    geojsonPath: "data/culture/théâtre.geojson",
+    popupBuilder: (props) => {
+      const denomination = props.salle || "Théâtre";
+      const address = buildAddressLine(props, {
+        streetKeys: ["adresse"],
+        postalKeys: ["code_postal"],
+        cityKeys: ["ville"],
+      });
 
-  return data.features.map((feature) => {
-    const coords = feature.geometry.coordinates;
-    const latlng = [coords[1], coords[0]];
-    const props = feature.properties;
-    const popupContent = `
-      <strong>${props.salle || "Théâtre"}</strong><br>
-      ${props.adresse || ""}, ${props.code_postal || ""} ${
-      props.ville || ""
-    }<br><br>
-    Type d'opérateur culturel : ${props.categorie || "Concert & théâtre"}
-    <br><br><a href="https://www.peca.be/recherche-operateur-culturel?tx_solr%5Bq%5D=${
-      props.salle || ""
-    }" target=_blank>Voir la fiche dans le répertoire PECA</a>
+      return `
+      <strong>${denomination}</strong><br>
+      ${address}<br><br>
+      Type d'opérateur culturel : ${props.categorie || "Concert & théâtre"}
+      ${buildPecaLink(props.salle || "")}
     `;
-    return L.marker(latlng, { icon: iconThéâtre }).bindPopup(popupContent);
+    },
   });
 }

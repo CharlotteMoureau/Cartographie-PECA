@@ -1,26 +1,26 @@
+import {
+  buildAddressLine,
+  createCultureMarkers,
+  getFirstNonEmpty,
+} from "./cultureMarkerFactory.js";
+
 export async function getMuséesMarkers() {
-  const res = await fetch("data/culture/musées.geojson");
-  const data = await res.json();
-
-  const iconMusée = L.icon({
+  return createCultureMarkers({
+    geojsonPath: "data/culture/musées.geojson",
     iconUrl: "img/musée.svg",
-    iconSize: [25, 41],
-    iconAnchor: [12, 41],
-    popupAnchor: [1, -34],
-    shadowUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
-  });
+    popupBuilder: (props) => {
+      const denomination = getFirstNonEmpty(props, ["Dénomination"], "Musée");
+      const address = buildAddressLine(props, {
+        streetKeys: ["Adresse"],
+        postalKeys: ["Code postal"],
+        cityKeys: ["Localité"],
+      });
 
-  return data.features.map((feature) => {
-    const coords = feature.geometry.coordinates;
-    const latlng = [coords[1], coords[0]];
-    const props = feature.properties;
-    const popupContent = `
-      <strong>${props.Dénomination || "Musée"}</strong><br>
-      ${props.Adresse || ""}, ${props["Code postal"] || ""} ${
-      props.Localité || ""
-    }<br><br>
-    Type d'opérateur culturel : ${props["Unnamed: 1"] || "Musée"}
+      return `
+      <strong>${denomination}</strong><br>
+      ${address}<br><br>
+      Type d'opérateur culturel : ${props["Unnamed: 1"] || "Musée"}
     `;
-    return L.marker(latlng, { icon: iconMusée }).bindPopup(popupContent);
+    },
   });
 }

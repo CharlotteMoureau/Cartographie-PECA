@@ -1,29 +1,26 @@
-export async function getCecMarkers(icon) {
-  const res = await fetch("data/culture/CEC.geojson");
-  const data = await res.json();
+import {
+  buildAddressLine,
+  buildPecaLink,
+  createCultureMarkers,
+} from "./cultureMarkerFactory.js";
 
-  const iconCec = L.icon({
-    iconUrl: "img/culture.svg",
-    iconSize: [25, 41],
-    iconAnchor: [12, 41],
-    popupAnchor: [1, -34],
-    shadowUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
-  });
+export async function getCecMarkers() {
+  return createCultureMarkers({
+    geojsonPath: "data/culture/CEC.geojson",
+    popupBuilder: (props) => {
+      const denomination = props.denomination || "CEC";
+      const address = buildAddressLine(props, {
+        streetKeys: ["adresse"],
+        postalKeys: ["code_postal"],
+        cityKeys: ["localite"],
+      });
 
-  return data.features.map((feature) => {
-    const coords = feature.geometry.coordinates;
-    const latlng = [coords[1], coords[0]];
-    const props = feature.properties;
-    const popupContent = `
-      <strong>${props.denomination || "CEC"}</strong><br>
-      ${props.adresse || ""}, ${props.code_postal || ""} ${
-      props.localite || ""
-    }<br><br>
-    Type d'opérateur culturel : CEC
-    <br><br><a href="https://www.peca.be/recherche-operateur-culturel?tx_solr%5Bq%5D=${
-      props.denomination || ""
-    }" target=_blank>Voir la fiche dans le répertoire PECA</a>
+      return `
+      <strong>${denomination}</strong><br>
+      ${address}<br><br>
+      Type d'opérateur culturel : CEC
+      ${buildPecaLink(props.denomination || "")}
     `;
-    return L.marker(latlng, { icon: iconCec }).bindPopup(popupContent);
+    },
   });
 }

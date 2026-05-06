@@ -1,28 +1,30 @@
-export async function getCinéMarkers(icon) {
-  const res = await fetch("data/culture/cinéma.geojson");
-  const data = await res.json();
+import {
+  buildAddressLine,
+  createCultureMarkers,
+  getFirstNonEmpty,
+} from "./cultureMarkerFactory.js";
 
-  const iconCiné = L.icon({
+export async function getCinéMarkers() {
+  return createCultureMarkers({
+    geojsonPath: "data/culture/cinéma.geojson",
     iconUrl: "img/ciné.svg",
-    iconSize: [25, 41],
-    iconAnchor: [12, 41],
-    popupAnchor: [1, -34],
-    shadowUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
-  });
+    popupBuilder: (props) => {
+      const denomination = getFirstNonEmpty(
+        props,
+        ["Dénomination du lieu"],
+        "Cinéma",
+      );
+      const address = buildAddressLine(props, {
+        streetKeys: ["Adresse"],
+        postalKeys: ["Code postal"],
+        cityKeys: ["Ville"],
+      });
 
-  return data.features.map((feature) => {
-    const coords = feature.geometry.coordinates;
-    const latlng = [coords[1], coords[0]];
-    const props = feature.properties;
-    const popupContent = `
-      <strong>${props["Dénomination du lieu"] || "Cinéma"}</strong><br>
-      ${props.Adresse || ""}, ${props["Code postal"] || ""} ${
-      props.Ville || ""
-    }<br><br>
-    Type d'opérateur culturel : ${
-      props.Catégorie || "Salle projection & Cinéma"
-    }
+      return `
+      <strong>${denomination}</strong><br>
+      ${address}<br><br>
+      Type d'opérateur culturel : ${props.Catégorie || "Salle projection & Cinéma"}
     `;
-    return L.marker(latlng, { icon: iconCiné }).bindPopup(popupContent);
+    },
   });
 }

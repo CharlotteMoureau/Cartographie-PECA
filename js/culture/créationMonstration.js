@@ -1,30 +1,29 @@
-export async function getCréationMonstrMarkers(icon) {
-  const res = await fetch("data/culture/monstration.geojson");
-  const data = await res.json();
+import {
+  buildAddressLine,
+  createCultureMarkers,
+  getFirstNonEmpty,
+} from "./cultureMarkerFactory.js";
 
-  const iconCréationMonstr = L.icon({
-    iconUrl: "img/culture.svg",
-    iconSize: [25, 41],
-    iconAnchor: [12, 41],
-    popupAnchor: [1, -34],
-    shadowUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
-  });
+export async function getCréationMonstrMarkers() {
+  return createCultureMarkers({
+    geojsonPath: "data/culture/monstration.geojson",
+    popupBuilder: (props) => {
+      const denomination = getFirstNonEmpty(
+        props,
+        ["Dénomination"],
+        "Lieu de création et de monstration",
+      );
+      const address = buildAddressLine(props, {
+        streetKeys: ["Adresse"],
+        postalKeys: ["CP"],
+        cityKeys: ["Ville"],
+      });
 
-  return data.features.map((feature) => {
-    const coords = feature.geometry.coordinates;
-    const latlng = [coords[1], coords[0]];
-    const props = feature.properties;
-    const popupContent = `
-      <strong>${
-        props.Dénomination || "Lieu de création et de monstration"
-      }</strong><br>
-      ${props.Adresse || ""}, ${props.CP || ""} ${props.Ville || ""}<br><br>
-    Type d'opérateur culturel : ${
-      props["Unnamed: 1"] || "Lieu de création et de monstration"
-    }
+      return `
+      <strong>${denomination}</strong><br>
+      ${address}<br><br>
+      Type d'opérateur culturel : ${props["Unnamed: 1"] || "Lieu de création et de monstration"}
     `;
-    return L.marker(latlng, { icon: iconCréationMonstr }).bindPopup(
-      popupContent
-    );
+    },
   });
 }
