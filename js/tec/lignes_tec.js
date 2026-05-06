@@ -22,7 +22,6 @@ export function ajouterCouche(map, overlays, { tecGroup }) {
         },
       });
 
-      lignes.addTo(map);
       tecGroup.addLayer(lignes);
     });
 }

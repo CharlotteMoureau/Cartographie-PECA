@@ -43,7 +43,6 @@ export function ajouterCouche(map, overlays, { sncbGroup }) {
       });
 
       clusterGares.addLayer(geojsonLayer);
-      clusterGares.addTo(map);
       sncbGroup.addLayer(clusterGares);
     });
 }

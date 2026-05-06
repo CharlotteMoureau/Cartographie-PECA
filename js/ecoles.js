@@ -41,15 +41,14 @@ export function ajouterCouche(map, overlays, { ecolesGroup }) {
                 props["Fase Impl_"] || "inconnu"
               }</strong><br>
               Type d'enseignement : <em>${props["Niveau"] || ""} ${
-            props["Genre"] || "inconnu"
-          }</em>
+                props["Genre"] || "inconnu"
+              }</em>
             `;
           layer.bindPopup(popupContent);
         },
       });
 
       clusterEcoles.addLayer(geojsonLayer);
-      clusterEcoles.addTo(map);
       ecolesGroup.addLayer(clusterEcoles);
     });
 }

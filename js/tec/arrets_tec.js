@@ -46,7 +46,6 @@ export function ajouterCouche(map, overlays, { tecGroup }) {
       });
 
       clusterArrets.addLayer(geojsonLayer);
-      clusterArrets.addTo(map);
       tecGroup.addLayer(clusterArrets);
     });
 }

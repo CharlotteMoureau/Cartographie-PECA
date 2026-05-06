@@ -18,7 +18,6 @@ export function ajouterCouche(map, overlays, { sncbGroup }) {
         },
       });
 
-      lignes.addTo(map);
       sncbGroup.addLayer(lignes);
     });
 }
